@@ -7,31 +7,60 @@ Whenever you play a magic card, you gain a magic point on your magic counter. Th
 This suggests to use energy golem as attack strategy and use your others cards to either increase your magic counter and/or defend yourself.
 Wizard also tends to have more mana which helps get the magic points and make the fights easier by playing more cards every turn.
 Contrary to warrior, from inferno 1 to 10 World 1 can be done with not much more than base deck.
-However past i10 it becomes the most difficult part of the run, because you need to improve your deck quickly before first elite and then to defeat Gorilla King or Evil Forest Guardian.
+However past i10 it becomes the most difficult part of the run, because you need to improve your deck quickly before first elite and then to defeat Gorilla King or
+Evil Forest Guardian.
 You will lose some runs early simply because you didn't find any good cards. Don't feel too bad about it.
 
 This guide aims to help both beginners in low infernos (1-10) and advanced players in high infernos (20+). Some advice applies for both and some is more specific.
-This guide is for classic mode, it should apply to hell which is quite similar but not to void where many new strategies can appear.
+This guide is for classic mode, it should apply to hell which is quite similar but probably not to void where many new strategies can appear.
+Finally I do not take into account when the cards are unlocked, if you haven't all the cards unlocked yet (level 30) you can read this guide and try with the cards available
+to you, but I strongly recommend trying stuff by yourself to learn which cards are good, which ones are bad and which ones synergies well together.
 
-is here to help you beat Inferno 1 through 10 with Warrior in order to unlock the third Class Bonus, which makes temporary Strength and Resistance buffs become 
-permanent buffs. Many weaker cards become powerful, opening up many new strategies. Inferno 11 should actually seem easier than Inferno 10 when you equip Class Bonus 3.
-Watch out, though. At Inferno 22 or so a Rare Card Starting Bonus becomes necessary just to survive the first fight. Advancing further, fewer rares will help.
-Around Inferno 49, Portia and Cualdir are the only starting rares that work. Few will have the patience and persistence to get that far, but unlocking the third Class Bonus 
-is worth it because it's a lot of fun. Good luck!
+Description of abilities:
+Gain 1 magic point (MP) per magic card played. These magic points determine energy golem damage.
+
+Class upgrade: At 10 MP you get a first sphere, and at 20 you get a second one. Each sphere gives you +1 base mana at the start of your turn
+(if you reach 10 MP during your turn, you only get the mana next turn) and makes golem warrior attack once more.
 
 General strategy (TL;DR)
-Mana - Most strategies benefit from getting extra Mana each turn, so you will want to find a way to do that. Some of the best cards for this include Lady of the Knight, Souls Priestess, Wizard, and V01-B01 [ROBOT].
-Defense first - Build up your defense quickly or you will likely lose. Don't get too many attack cards. Look for Shield cards with multiplying effects like Dark Shielded Knight and Apprentice Guard. Try to get to a point where you are not losing any HP.
-Permanent buffs - Favor Strength and Resistance buffs that last until the end of the fight instead of temporary end-of-turn buffs. Sun Priestess and Wizard of Nature are a couple of the best cards for this.
-Combat cards - Try to take only Combat cards, and only take Magic cards if they exile (with few exceptions). This is to maximize the effectiveness of cards like Lady of the Knight and Dark Shielded Knight.
-Small deck - A smaller deck will be more consistent. When your deck grows to about 12 cards or more, it becomes unlikely that you will see key cards each turn, unless you have ways to cycle through your deck faster.
+Mana - Every deck benefits from getting extra Mana each turn, so you will want to find a way to do that. The best card for that on wizard is... wizard!
+You can also use Souls Priestess but it's not quite as good. Finally you can combine one of these cards with V01-B01 [ROBOT].
+Beware of overcharge it will prevent you from getting extra mana.
+
+Defense first - Build up your defense quickly or you will likely lose. Don't get too many attack cards. Look for Shield cards with multiplying effects like Apprentice Guard.
+Try to get to a point where you are not losing any HP.
+
+Permanent buffs - Favor Strength and Resistance buffs that last until the end of the fight instead of temporary end-of-turn buffs.
+Blue witch, Sun Priestess and Wizard of Nature are a couple of the best cards for this.
+
+Magic cards - Try to take only magic cards, you can use a few well chosen combat cards mostly for defense. This is to maximize your magic points 
+and also the effect of some cards like blue witch, fairy princess or elder fairy.
+
+Small deck - A smaller deck will be more consistent. When your deck grows to about 12 cards or more, it becomes unlikely that you will see key cards each turn, 
+unless you have ways to cycle through your deck faster.
+
 Some important tricks to know
-When starting a run, you can pick the map you want while keeping your starting bonus. Before you pick your starting bonus, try looking in the background to see if it's the map you want. If not, kill the app and re-open it, then start a new run instead of continuing. Your starting bonus will still be offered in the new run. On very high Infernos (22+) this is a must, as you likely won't be able to survive two consecutive battles before the first Merchant. There is one map which has a Merchant after the first fight.
-You can restart a fight. Quit from the menu and select continue to restart the fight from the beginning. Do this if you make a critical error or an important random outcome is not favorable.
+When starting a run, you can pick the map you want while keeping your starting bonus. Before you pick your starting bonus, try looking in the background to see 
+if it's the map you want. If not, kill the app and re-open it, then start a new run instead of continuing. Your starting bonus will still be offered in the new run.
+On very high Infernos (30+) this is a must, as you likely won't be able to survive two consecutive battles before the first Merchant. 
+There is one map which has a Merchant after the first fight.
+
+You can restart a fight. Quit from the menu and select continue to restart the fight from the beginning.
+Do this if you make a critical error or an important random outcomeis not favorable.
 Key of the Portal (Skill) protects you from a bad starting hand. Combine with the restart fight trick above to get the best results.
-Besides Key of the Portal, there are other ways to alter the outcome of your first few turns. Although the starting hand and starting deck order for a fight is fixed, there are a few cards which produce random outcomes that can be optimized by restarting the fight. Some examples: Old Jester, Cthool Acolyte, Cthool Apprentice. Night Fairy [FAIRY] shuffles your deck, so you could play Night Fairy during your first turn just to escape a bad opening shuffle. Similarly, if you can run through your cards once and trigger a new shuffle, you may restart the fight if you find that the second shuffle isn't so good.
+Besides Key of the Portal, there are other ways to alter the outcome of your first few turns. Although the starting hand and starting deck order for a fight is fixed,
+there are a few cards which produce random outcomes that can be optimized by restarting the fight. Some examples: Old Jester, Cthool Acolyte, Cthool Apprentice. 
+Night Fairy [FAIRY] shuffles your deck, so you could play Night Fairy during your first turn just to escape a bad opening shuffle.
+Similarly, if you can run through your cards once and trigger a new shuffle, you may restart the fight if you find that the second shuffle isn't so good.
+
 Class bonus
-Stick with Bonus 1 (Knowledge of Resistance), because the goal is to get Shield cards with multiplying effects, such as Dark Shielded Knight and Apprentice Guard.
+Before inferno 3 you won't have any, after completing inferno 3 you have access to your first class bonus: strength and Resistance from overcharge doubled. This is a minimal
+bonus but could help you a little. Then after inferno 5 you get you're second class bonus, 2 MP per magic card played. This is the best bonus and you will want to keep it
+even when you complete inferno 10 and get the third one, which lets you get up to 3 spheres but increases their cost to 15 MP.
+The reason 2nd bonus is better is because it let's you get your first sphere after 5 magic cards played and second one after 10 magic cards.
+In this time 3rd bonus doesn't even get a single sphere and you will want to get the extra mana as soon as possible in the fight. Playing 45 cards to get 3 spheres rarely
+happens and if you were able to get that far in the fight you probably don't need the third one. In addition getting 2 MP instead of 1 makes energy golem deal twice as much damage anyway
+Stick with Bonus 2 (Knowledge of Resistance), because the goal is to get Shield cards with multiplying effects, such as Dark Shielded Knight and Apprentice Guard.
 
 Starting bonus
 You will want to begin with a starting bonus, so if you lose in World 1, play a different class to beat the first Boss and earn your next starting bonus. If you're trying to advance other classes at the same time, you can take this as an opportunity to alternate between them and Warrior. If you want the starting bonus ASAP, pick Barbarian @ Normal difficulty, lose some HP to trigger the Strength bonuses, and you can beat World 1 in one minute. You can quit immediately after defeating the Boss, on the rewards screen.
