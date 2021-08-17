@@ -16,28 +16,18 @@ This guide is for classic mode, it should apply to hell which is quite similar b
 Finally I do not take into account when the cards are unlocked, if you haven't all the cards unlocked yet (level 30) you can read this guide and try with the cards available
 to you, but I strongly recommend trying stuff by yourself to learn which cards are good, which ones are bad and which ones synergies well together.
 
+
 Description of abilities:
 Gain 1 magic point (MP) per magic card played. These magic points determine energy golem damage.
 
 Class upgrade: At 10 MP you get a first sphere, and at 20 you get a second one. Each sphere gives you +1 base mana at the start of your turn
 (if you reach 10 MP during your turn, you only get the mana next turn) and makes golem warrior attack once more.
 
-General strategy (TL;DR)
-Mana - Every deck benefits from getting extra Mana each turn, so you will want to find a way to do that. The best card for that on wizard is... wizard!
-You can also use Souls Priestess but it's not quite as good. Finally you can combine one of these cards with V01-B01 [ROBOT].
-Beware of overcharge it will prevent you from getting extra mana.
+Base deck:
+4x Golem warrior : deal 4 damage, attacks once more per sphere (this becomes a multihit attack with spheres, beware of enemies with effect base on number of hits : mushrooms, rockhorn, electric jellyfish, greater void essence, demon of the deep, chaos nest, black furry, queen of snakes, bone commander)
+3x Mud golem : deal 2 damage, gain 3 shields, apply 3 weak
+1x Energy golem : deal damage equal to magic points to all enemies (this is pure damage, unaffected by strength, double damage, weak or dark grasp. It also doesn't count as a hit on mushrooms, rockhorn, electric jellyfish and sapphire drake)
 
-Defense first - Build up your defense quickly or you will likely lose. Don't get too many attack cards. Look for Shield cards with multiplying effects like Apprentice Guard.
-Try to get to a point where you are not losing any HP.
-
-Permanent buffs - Favor Strength and Resistance buffs that last until the end of the fight instead of temporary end-of-turn buffs.
-Blue witch, Sun Priestess and Wizard of Nature are a couple of the best cards for this.
-
-Magic cards - Try to take only magic cards, you can use a few well chosen combat cards mostly for defense. This is to maximize your magic points 
-and also the effect of some cards like blue witch, fairy princess or elder fairy.
-
-Small deck - A smaller deck will be more consistent. When your deck grows to about 12 cards or more, it becomes unlikely that you will see key cards each turn, 
-unless you have ways to cycle through your deck faster.
 
 Some important tricks to know
 When starting a run, you can pick the map you want while keeping your starting bonus. Before you pick your starting bonus, try looking in the background to see 
@@ -69,12 +59,39 @@ between them and Wizard. If you want the starting bonus ASAP, pick one of Shaman
 You can quit immediately after defeating the Boss, on the rewards screen.
 
 2 Gems - Never pick this. 100 Coins is worth more.
-100 Coins - Choose this if you want your best option without the risk of wasting a starting bonus.
-Random Rare - Go ahead, give it a try. This can give you your best starting situation.
-Random Skill - You can try your luck here, but there are 99 Skills. Random Rare is more likely to give you a good result if you're struggling.
+100 Coins - This is the consistency choice, I recommend it up to I20, I personnally used it up to I30 but if you want you can keep using it until I40 where rare card or skill is necessary to win first fight
+Random Rare - This is probably your best option past I20. They are some great starting bonus that will help you a lot, best are Elder Fairy and Druid of the High Elves which can bring you up to I61.
+However you might end up with a useless card most of the time, wasting your starting bonus, which is why I recommend it only after I20.
+Random Skill - You can try your luck here, but there are a lot of skills. Most of the time you will get something barely useful if not completely useless.
+Random Rare is more likely to give you a good result if you're struggling. However the theoretical max inferno for wizard is I119 and you can only do it with Dark Sigil.
+But because you are very unlikely to get it and you will probably die before you find some healing, you should do this only past I61 when it's your only chance of survival.
+
 Picking your path
 To maximize your chances of survival, you want a path that gives you the most Merchants and Chests, and the least Elites.
 You will want a Merchant early to prepare for the rest of the world, and one close to the Boss so you can use all the Coins you've accumulated so far to prepare for the Boss fight.
+
+General deck strategy
+Mana - Every deck benefits from getting extra Mana each turn, so you will want to find a way to do that. The best card for that on wizard is... wizard!
+You can also use Souls Priestess but it's not quite as good. Finally you can combine one of these cards with V01-B01 [ROBOT].
+Beware of overcharge it will prevent you from getting extra mana.
+
+Defense first - Build up your defense quickly or you will likely lose. Don't get too many attack cards. Look for cards with immune or daze like Snow queen or Medusa [BEASTMAN].
+These are the best to defend first turn before you get your spheres and setup your deck. You want to make sure you can draw one of them on turn 1, which is where you are most vulnerable.
+These cards exile so you will want a permanent shield cards with multiplying effect like Apprentice Guard. Try to get to a point where you are not losing any HP.
+
+Permanent buffs - Favor Strength and Resistance buffs that last until the end of the fight instead of temporary end-of-turn buffs.
+Blue witch, Red witch, Sun Priestess and Wizard of Nature are a couple of the best cards for this.
+
+Magic cards - Try to take only magic cards, you can use a few well chosen combat cards mostly for defense. This is to maximize your magic points 
+and also the effect of some cards like blue witch, fairy princess or elder fairy.
+
+Spheres - You will want to activate your spheres ASAP on each fight. For that you will want many free mana magic cards like old jester, moon fairy, elder fairy.
+You can also use magic leaf, since it's activation is free, it counts as 2 magic cards every time you play it. Combined with a overcharge mana card, you might be able
+to get a sphere after turn 1 or even both.
+
+Small deck - A smaller deck will be more consistent. When your deck grows to about 12 cards or more, it becomes unlikely that you will see key cards each turn, 
+unless you have ways to cycle through your deck faster, it also makes you less likely to draw an immune card on turn 1. On the other hand, a 4 card deck means every card 
+you play comes right back in your hand. Note that you must always have at least 6 cards in your deck, but if 2 of them exile or remove, then you're left with a 4 card core.
 
 What reward to take after a fight
 Most of the time you should be taking 1 Gem after a fight, unless you see a card that you would have bought anyway or one you know works well with your chosen strategy.
@@ -85,20 +102,54 @@ What to do at the Merchant
 Heal - When your HP is low and your defense is not well developed yet, I recommend healing at the Merchant rather than buying a card that will heal you slowly.
 If your HP is still over 50% and you think you can survive until the next Merchant, you don't need to heal.
 
-Thin your deck - Your starting deck includes 4 Fighter cards, which means at some point in a fight you may want to spend all your Mana on Shield but you can't because every card in your hand is Fighter. I recommend Removing or Transforming at least two in World 1. Fighter is one of the worst cards in the game, so there is a good chance that Transform will improve your deck.
-Remove or Transform your Fighter cards.
-Remove Mage once you have a good replacement for it (High Witch, Spirit of Magic, Keyra).
-Remove Guard once your defense is strong enough without it.
-Consider trading Gems for Coins - Once you have 4 Gems, you will be able to trade them for 100 Coins, so keep that in mind when looking at card prices. Similarly, when you have 7 Gems you can afford the Gold Ingot skill which gives 300 Coins.
-Don't upgrade the class skill - It's not worth 300 Coins. The +3 Resistance is only until end of turn, and it only triggers after you've successfully blocked all the damage from an enemy. If you can do that, you probably don't need this bonus anyway. You are better off spending 300 Coins thinning your deck or buying better cards.
-Spend wisely - If you don't see any good options and you think you can survive until the next Merchant, save your Coins and Gems. If the next Merchant is 2 or 3 fights away and you think you need to prepare for those, don't be afraid to Reroll cards or skills if you can afford something nice that could show up.
+Thin your deck - Your starting deck includes many golem warrior which will get in the way of your main attack card energy golem, and of your defense cards mud golem.
+I recommend Removing or Transforming at least two in World 1. If you have enough money for both, start by transforming one so you can remove the new card after if it's bad.
+Once you're down to only one golem warrior (removed 3) you can do as you wish:
+- stop removing cards (good on low inferno because you don't have that much money)
+- remove duplicates of mud golem (duplicates are rarely useful)
+- remove last golem warrior (unless you find good strength, energy golem deals more damage so it's a better attack option)
+- remove all base cards but energy golem (goal is to have a 4 card core, beware of the order you remove in, you will want to keep a balance between Mud golem and golem warrior early,
+with a little more mud golems)
+
+Consider trading Gems for Coins - Once you have 4 Gems, you will be able to trade them for 100 Coins, so keep that in mind when looking at card prices.
+Similarly, when you have 7 Gems you can afford the Gold Ingot skill which gives 300 Coins.
+
+Upgrade the class skill - It will give you the sweet extra mana from spheres, and make golem warrior better. On low inferno you don't have enough money so you will have to
+wait to do so, on high inferno it's almost priority, with the exception of a few very good cards.
+
+Spend wisely - If you don't see any good options and you think you can survive until the next Merchant, save your Coins and Gems. If the next Merchant is 2 or 3 fights away 
+and you think you need to prepare for those, don't be afraid to Reroll cards or skills if you can afford something nice that could show up.
+
+
+
 Attack Strategies
-Try to focus on a single attack strategy. If you have too many attack cards, your deck becomes incoherent and you may not have enough defense. Make sure you build up your defense first before committing too many cards to offense. However, if you can't improve your defense before fighting an Elite enemy in World 1, then you should get an attack card that is better than Fighter. If you can't find any of the suggested cards below, you can take any card that does about 10 damage or more and remove it later in the game once once you have something better.
+Try to focus on a single attack strategy. If you have too many attack cards, your deck becomes incoherent and you may not have enough defense. Make sure you build up your 
+defense first before committing too many cards to offense.
 
-Attack Strategy: Shield Bash
-Deal damage equal to your Shield. This is the safest strategy, because you can focus on building up massive shield to block every attack. Strength boosts are useless for this strategy, so you only need Resistance boosts. You will want sources of Armored, permanent Resistance, and Shield cards with multiplying effects. This strategy works best when you have Space Commander or RoboWitch [ROBOT].
+Attack Strategy: Energy golem alone
 
-First choice: Alestar, Tranquility Defender [ANCIENT] - Take multiple copies and start collecting ANCIENT cards. Try to get Dhorion, Holy Sentinel [ANCIENT] as well.
+
+Attack Strategy: Energy golem with fairy spawns
+As I said before, energy golem is your main source of damage as wizard. Since it doesn't benefit from any buffs like strength or double damage, the only way to power him up
+is to play many magic cards. Fairy spawns are good for that since they put many free mana magic cards in your deck. You will have no use for strength but you might want 
+resistance for defense. Blue bloom and Blessed Fairy are very good because their spawns give shields which will help you defend while you power up energy golem.
+You might want a source of armored like Robowitch [ROBOT] to keep the shields generated by the spawns, because you are likely to use them all in a single turn and have a lot of
+overflow shields.
+Most of the fairy spawn cards give more cards based on number of fairies in your deck. So you might want to take a couple other fairy cards, but be careful not to take bad ones.
+You will eventually run out of spawn cards and will have to finish the fight without them. Energy golem will do all the damage but you need a good defense card. 
+Apprentice guard is always a good option for wizard but with the fairy spawn strategy, your fairy race counter let's you use fairy warrior, lullyp or mystic bird as scaling defense cards
+
+Important to know about this strategy is that it is slow, playing all the fairy spawn cards takes time at the beginning of the fight and leaves you vulnerable.
+You can use elder fairy to get extra mana to play all the fairy spawns, you can use immune to protect your self while doing so, and finally once you have enough fairy spawns you
+can take dark sigil. This will let you play all your magic cards for 2 HP instead of mana. Since most spawns heal 3 under 50% HP, you will be able to maintain HP 
+while playing all your spawns. But be very careful not to die before you get to them or once you're done and don't have any healing left.
+For that you can use skills like Book of magic which heals half of the FP loss, or Nephil who heals you 6 HP when below 50%.
+
+Fairy spawn cards:
+- Fairy princess [FAIRY] (doesn't rely on number of fairies but number of magic cards in hand, very good early)
+- Red bloom [FAIRY] no great but is a fairy spawn, poison can let you complete quest for Medusa [BEASTMAN]
+- Blue bloom [FAIRY] good because gives shield
+- Blessed Fairy [FAIRY]
 Second and third choice: Guardian of the Demons [DEMON], Black Knight - Take only one copy. I would avoid getting these until I know I will be using a Shield Bash strategy.
 Attack Strategy: Multiplying attacks
 These cards are affected by strength multiple times. You will need sources of permanent Strength for this strategy in order to scale up against more powerful enemies.
