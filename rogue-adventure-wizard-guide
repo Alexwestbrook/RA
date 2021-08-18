@@ -141,7 +141,7 @@ Uncommon
 - Moon Fairy [FAIRY], free magic card and search card
 - Medusa I [BEASTMAN], daze an enemy is great, completing the quest makes it even better. Keep in mind that daze can be used to prevent a silence debuff.
 - Xatior order of the wizards, daze an enemy, same thing
-- Sun priestess, mostly for the 2 resistance
+- Sun priestess, mostly for the 2 resistance, beware not to take demons or opal stone skill
 - Cthool acolyte, 20 shield is a lot, and you can use it to remove cards from your deck faster. Very good early game, if you've past world 2 you probably don't need it
 - Seeker of the light, removes every debuff including silence, healing is ok
 - Mage thief, gives gold, it's very useful once you know you can afford to waste some turns in your fight, it's great to get rid of the base deck or duplicate elder fairy [FAIRY
@@ -167,6 +167,7 @@ the 1 extra from souls priestess doesn't make it a priority
 - Magic leaf, many options with this card, most useful will be heal and shields. Free magic card every time you activate it is nice, and it gets crazy with dark sigil.
 - Guardian of heavens [ANGEL], can get you a blue witch or immune back from exile, a bit slow but could be worth it
 - Red witch, easy 4 strength but most wizard builds don't need strength
+- Ixar order of the wizards, only if you already have xatior for the combo, still a bit inconsistent but if you can pull it off combo is great
 
 - Nephil [ANGEL], it's a combat card but deals decent damage and heals you a lot when you need it. Good early game but late game that kind of healing get's obsolete
 - The Timeshifter [ANGEL], gets all your exile cards back, can be great but there's often some cards you don't want to play again and it makes the mana cost pretty high
@@ -210,7 +211,7 @@ overall makes the game easy
 
 Attack Strategies
 Try to focus on a single attack strategy. If you have too many attack cards, your deck becomes incoherent and you may not have enough defense. Make sure you build up your 
-defense first before committing too many cards to offense.
+defense first before committing too many cards to offense. That said don't decide before the run, wait to see what cards you are offered and what you can make of them.
 
 
 Attack Strategy: Energy golem with fairy spawns
@@ -257,9 +258,15 @@ Specific skills:
 - Fairy doll (8 gems), gives you an exile card counting for 3 fairies, not the best skill but decent
 - Dark sigil (11 gems], as I said before fairy spawns help you maintain HP and dark sigil helps you play all the spawns on turn 1. Game changing skill, usually a sure win
 once you've secure hp recovery
+- Opal stone (18 gems), expensive but caounts as 2 fairies for free, the 2 angels can be good for Blessed Fairy [FAIRY][ANGEL] too. Keep in mind that you get 2 demons
+on the counter so sun priestess will give you debuff.
 
 Advice : very good strategy in low infernos where first fight are easy enough to let you get your deck started. In higher infernos, only do it if you find cards like
 Fairy princess [FAIRY], Moon fairy [FAIRY] and elder fairy [FAIRY] first, which are good anyway, before committing to too many fairy spawns.
+
+Alternative : get some strength and you can kill enemies with the spawns from Blessed Fairy [FAIRY][ANGEL] if you have enough fairies and angels in your deck. Even if it 
+isn't enough to commplete the kill you can use fairy warrior [FAIRY], Lullyp [BEASTMAN][FAIRY] or mystic bird to finish the kill. If you have dark sigil you might consider
+taking Devil's Dead (11 gems) to get crazy strength and finish quick. Take it only after dark sigil.
 
 Attack strategy: Energy golem alone
 + small deck, very consistent
@@ -279,8 +286,56 @@ with some immune or daze for protection, once you're down to 4 card deck play wi
 intend to attack. You can play it twice if you need more shields, or play wizard III twice for extra res from overcharge.
 You can use a way to get armored like Robowitch [ROBOT] or Dhorion the holy sentinel [ANCIENT] and then you won't have to play apprentice guard all the time.
 
-Attack strategy: Fairy spawns and strength
+Advice : this strategy works very well on high inferno where you have more gold and need consistency.
+
+Other strategy: infinite loops or immunes
 
 
+High inferno advice : 
+Early survival is the hardest part, getting past world 1 is very hard and most of the time once you've past it and reached first market of world 2
+you're almost sure to win. This is why you need to take stuff that is good early just to get through even if it means your deck is not building itself nicely.
+You don't have time for quests (except wizard I) and mage thief, although you might want them mid game.
+Your priority is to get immunes/daze and class upgrade, this way you can survive first turns until you get your extra mana and then use shields for the rest of the fight.
+You want to remove enough cards to be able to play energy golem twice a turn (on a good draw).
+Your key cards are wizard I and apprentice guard so buy or take them as soon as you see them. Once you have apprentice guard, you should be able to tank hits with the two
+mana from spheres, wizard I will increase its potenially once the quest is completed. By the way do not try to hard to complete the quest, it will finish on its own pretty fast.
+Other than that you will want some free mana cards to get spheres ASAP and some resistance to shield both before and after you get apprentice guard. But you should take the
+ones offered to you as fight rewards or in chests because you need your money for more important stuff.
+Here's a list of what you want to buy and what you just want to pick up. Of course what you want to buy you should pick up too. 
+(Order in each subsection is usually from most important to less IMO)
+Buy
+Services
+- Class upgrade
+- Card remove
+- Card transform
+
+Common
+- Apprentice guard
+- Wizard I
 
 
+Uncommon
+- snow queen
+- sigil essence
+- medusa [BEASTMAN]
+- xatior order of the wizards
+- blue witch
+
+Rare
+- Druid of the high elves (expensive)
+
+Pick up
+Common
+- Young witch
+- Spirit of magic [ANCIENT]
+- Old jester
+- Fairy princess [FAIRY]
+- Guardian of the sigil
+
+Uncommon
+- Cthool acolyte
+- Moon fairy
+- Sun priestess
+
+Rare
+- 
