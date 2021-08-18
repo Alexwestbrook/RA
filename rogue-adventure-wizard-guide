@@ -123,26 +123,28 @@ and you think you need to prepare for those, don't be afraid to Reroll cards or 
 Duplicating - if you have a very good card like elder fairy [FAIRY] you might want to duplicate it for 300 gold in merchant, I recommend this once the res of your deck is
 good enough and you just want that extra preparation time in battle.
 
-General great cards:
+General good cards:
 Common
 - Apprentice guard, great scaling shield effect when combined with some resistance and wizard's mana
 - Wizard I, long quest to complete but easier for wizard since you're only playing magic cards. One of the few quest cards worth taking on high inferno.
 - Young witch, easy 3 mana and overcharge with weak from mud golem
+- Spirit of magic I [ANCIENT], free card usable 20 times before it upgrades and becomes bad, use it on hard fights and save it when not necessary
 - Old jester, free magic card
 - Fairy princess [FAIRY], easy 4 free card spawn
 - Earth seed I, only take it if you can complete the quest (after finding apprentice guard for example), unupgraded the card is trash but daze all enemies once upgraded is great
-- Guardian of the sigil, it's a free mana card useful in early game but the strength aspect isn't very important
+- Guardian of the sigil, it's a free magic card useful in early game but the strength aspect isn't very important
 
 Uncommon
 - Snow queen, immune
 - Sigil essence, immune and 2 resistance, keep your deck small to get the empty pile requirement
-- Blue witch, easy 4 resistance
+- Blue witch, easy 4 resistance for wizard
 - Moon Fairy [FAIRY], free magic card and search card
 - Medusa I [BEASTMAN], daze an enemy is great, completing the quest makes it even better. Keep in mind that daze can be used to prevent a silence debuff.
 - Xatior order of the wizards, daze an enemy, same thing
 - Sun priestess, mostly for the 2 resistance
 - Cthool acolyte, 20 shield is a lot, and you can use it to remove cards from your deck faster. Very good early game, if you've past world 2 you probably don't need it
 - Seeker of the light, removes every debuff including silence, healing is ok
+- Mage thief, gives gold, it's very useful once you know you can afford to waste some turns in your fight, it's great to get rid of the base deck or duplicate elder fairy [FAIRY
 
 Rare
 - Druid of the high elves, gives immune and 2 resistance, which is the main interest, heal can be useful, mana cost is quite high though.
@@ -151,21 +153,59 @@ Rare
 - Cthool the Darkmaster [ANCIENT], this card duplicates any exile card you play, if you have snow queen or Earth seed II, you can play it every turn and be untouchable
 - Azahr the exiled wizard [ANCIENT], this card duplicates cards from your exile, if you played 4 cards already (easy a swizard with a mana card) you keep it in your deck
 and have an infinite cycle of immunes or daze. It's also great without staying in your deck, duplicating an exiled card twice is enough.
+- Wizard of Nature, very good card if you have other ways of getting resistance, you can also make temporary res from overcharge permanent. More of a late game card.
+- Ambassadress of peace, good defense card specially on low inferno, can give you 2 turn protection, less good on high inferno.
+- Robowitch [ROBOT], good for armor, 9 is usuallly enough for the whole fight, good if you have some overflow shields and can protct you from silence on a future turn
 
-
-
-Other good cards:
+Other decent cards:
 These are mostly replacement card if you don't find what you want
 - High priest, free mana card but prevents from searching through your deck
 - Souls priestess, gives 2 mana without quest but even on high inferno wizard I is better for wizard. Since Energy golem already gives 1, 
 the 1 extra from souls priestess doesn't make it a priority
 - Sou, the blade of wind [ANCIENT], gives 2 mana without overcharge if you play it first, it's good but get's in the way if you want to get a 4 card base
-- Mage thief, gives gold, it's very useful once you know you can afford to waste some turns in your fight, it's great to get rid of the base deck or duplicate elder fairy [FAIRY
+- Fairy queen I [FAIRY], only useful once upgraded, take it only on low inferno if you can hold the fight long enough to upgrade it. Easier with a fairy build.
+- Magic leaf, many options with this card, most useful will be heal and shields. Free magic card every time you activate it is nice, and it gets crazy with dark sigil.
 - Guardian of heavens [ANGEL], can get you a blue witch or immune back from exile, a bit slow but could be worth it
+- Red witch, easy 4 strength but most wizard builds don't need strength
 
 - Nephil [ANGEL], it's a combat card but deals decent damage and heals you a lot when you need it. Good early game but late game that kind of healing get's obsolete
 - The Timeshifter [ANGEL], gets all your exile cards back, can be great but there's often some cards you don't want to play again and it makes the mana cost pretty high
+- Ultron [ROBOT], decent damage early when at low hp, also gives a free magic card with little healing, gets obsolete pretty fast and not worth spending gold on, but decent starting bonus
+- Dhorion holy sentinel [ANCIENT], good card for resistance and armor, doesn't need to be played but takes space in your deck and a bit slow for wizard
+- Alestar tranquility defender [ANCIENT], gives decent shield if you picked up some other ancient cards, doesn't need to be played either but a bit obsolete on high inferno
 
+General good skills:
+- Invisibility potion (5 gems), good and cheap first turn protection
+- Ice block (7 gems), good protection that can be save for crucial moment
+- Demon eye (7 gems), extra mana at the cost of blind, learn enemy patterns and blind is no longer a problem
+- Gold ingot (7 gems), 300 gold is a lot you can upgrade, buy a rare card or duplicate a card with that. You can also buy multiple cheaper stuff
+- Circular shield (8 gems), great source of shield with a small deck, with 8 cards it's 10 shield per turn after 1st turn, with 4 cards it's 10 shields per card played
+- Book of magic (8 gems), great healing for wizard, you can meet the 4 card requirement with the base deck
+- Piece of coal (8 gems), 2 resistance is good for defense, you can restart the fight to get different debuffs until you get weak and blind (sometimes block is fine too)
+- Frost nova (9 gems), great first turn protection, essentially gives you a free turn at the start of the fight, also avoids many first turn spawns
+- Freezing shot (9 gems), once you have spheres and some mana generation you can daze an enemy almost every turn, single enemies don't stand a chances
+- Key of the portal (9 gems), 1 extra mana on first turn and reshuffle option, very good for consistency and setup
+- Necronomicon (9 gems), extra mana at the cost of hp, do not take too early if you can't block attacks with immunes or shields yet, but great skill mid game
+- Dark sigil (11 gems), most powerful and dangerous skill, only take it if your deck is prepared for it, see in attack strategies.
+- Mana battery (12 gems), bit expensive early but allows you to save mana for important turns, opens up a very different playstyle. It's great to get tons of gold with 
+mage thief if you gave lots of shields and armored
+
+Other useful skills:
+- Telescope (5 gems), cheap and effective, you can plan your path to get hard fights right after market, still a bit inconsistent
+- Torch (5 gems), cheap skill and helps you get better rewards after fights
+- Purple potion (7 gems), decent if you have demon eye already, it's a sure 1str/res every turn but the first, plus some extra when receiving debuffs
+- Rabbit paw (8 gems), not a priority but once your deck is well rounded, curse is one of the things that can still kill you. I often take it right before final boss.
+- Phantom spear (8 gems), deals a lot of damage but you usually don't need it, still much better than dark sword which is a waste of gems.
+- Book of resistance (8 gems), 1 resistance is decen but not great for 8 gems
+- Stone skin (8 gems), on high inferno you might be often below 50% HP, specially early, so 3 resistance is very good
+- Scorpion claw (9 gems), expensive for what it is, but once your deck is well rounded you can take it for safety, rabbit paw is better
+- Darkness boots (9 gems), good shields against multiple enemies but a bit expensive for what it is
+- Blessing of sanctuary (10 gems), good once your deck is well rounded and you're afraid of a mistake, for example when you have demon eye (if you trigger it then restart
+the fight, you get it back)
+- Phoenix feather (10 gems), same as above, slightly worse in my opinion
+- Phantom boots (13 gems), allows you to avoid almost every elite and go for plenty of chests/merchants, bit expensive and you still have to fight bosses but
+overall makes the game easy
+- Tear of godess (15 gems), very expensive skill but saves you from the silence nightmare, only once your deck is well rounded
 
 
 Attack Strategies
@@ -188,8 +228,8 @@ Apprentice guard is always a good option for wizard but with the fairy spawn str
 or mystic bird as scaling defense cards
 
 Important to know about this strategy is that it is slow, playing all the fairy spawn cards takes time at the beginning of the fight and leaves you vulnerable.
-You can use elder fairy to get extra mana to play all the fairy spawns, you can use immune to protect your self while doing so, and finally once you have enough fairy spawns you
-can take dark sigil. This will let you play all your magic cards for 2 HP instead of mana. Since most spawns heal 3 under 50% HP, you will be able to maintain HP 
+You can use elder fairy to get extra mana to play all the fairy spawns, you can use immune to protect your self while doing so, and finally once you have enough fairy spawns
+you can take dark sigil. This will let you play all your magic cards for 2 HP instead of mana. Since most spawns heal 3 under 50% HP, you will be able to maintain HP 
 while playing all your spawns. But be very careful not to die before you get to them or once you've played them all and don't have any healing left.
 For that you can use skills like Book of magic which heals half of the HP loss, or Nephil [ANGEL] who heals you 6 HP when below 50%.
 
@@ -211,110 +251,18 @@ Other good cards:
 - Mystic bird, although not a fairy, he scales with fairies like Fairy Warrior [FAIRY] and Lullyp [BEASTMAN][FAIRY]. The nice thing is that he is a magic card and not combat,
 he also attacks every enemy but that's not very important here as it won't be your main source of damage.
 
+Specific skills:
+- Shield of shadows (6 gems), basically 3 shields per spawn card, that's quite a lot
+- Solid shell (7 gems), decent shields but more expensive than shield of shadows and less shields
+- Fairy doll (8 gems), gives you an exile card counting for 3 fairies, not the best skill but decent
+- Dark sigil (11 gems], as I said before fairy spawns help you maintain HP and dark sigil helps you play all the spawns on turn 1. Game changing skill, usually a sure win
+once you've secure hp recovery
+
 Advice : very good strategy in low infernos where first fight are easy enough to let you get your deck started. In higher infernos, only do it if you find cards like
 Fairy princess [FAIRY], Moon fairy [FAIRY] and elder fairy [FAIRY] first, which are good anyway, before committing to too many fairy spawns.
 
 Attack strategy: Energy golem alone
-Another idea is to not use fairy spawns, focus on defense and use energy golem to power up itself. If you can get to a 4 card deck you can use all your mana on energy golem
+Another idea is to not use fairy spawns, focus on defense and use energy golem to power up itself. If you can get to a 4 card deck you can use all your mana on energy golem.
+For this startegy you don't want too many
 
 
-Attack Strategy: Multiplying attacks
-These cards are affected by strength multiple times. You will need sources of permanent Strength for this strategy in order to scale up against more powerful enemies.
-
-Best: Cthool, the Darkmaster [ANCIENT] is one of the most powerful multiplying attack cards because it grows in power during the fight as it copies your cards with Exile. For best results, don't let your deck grow too large and combine with Exiling cards that give permanent buffs, Immune, or Daze. You can also get cards like Old Jester or Moon Fairy so you can search for Cthool. Because Cthool is useless by itself, avoid getting it until you have some good cards that Exile.
-Good: Beast Champion [BEASTMAN] / Lady of the Dark Souls / Apprentice Knight. For the last two, make sure you have cards that give Mana so you can increase their attack multipliers.
-OK: Angel Fighter [ANGEL] / Blade of Justice / Young Fighter. These don't scale beyond 4x attack. Angel Fighter is good for recovering a bit of HP, but it will rarely allow you to recover completely in a single fight because the enemy will likely die before that happens. Blade of Justice is nice because it is not affected by the Block debuff.
-Requires luck finding the right Race:
-Mystic Bird / Sou, The Blade of Wind [ANCIENT] - Many ANCIENT cards work well by themselves, and if you collect enough of them these cards can provide decent attack damage. Mystic Bird doubles as a strong Shield card, but note that it does not count towards any Race total. Sou is good for the extra Mana even if you don't end up collecting many ANCIENT cards.
-Lullyp [BEASTMAN][FAIRY] - Each copy counts as two in the multiplier total, and they can be buffed with Bear doll and Fairy Doll skills. BEASTMAN has more useful cards for Warrior than FAIRY.
-Angel Archer [ANGEL] - You can also get copies of Angel Priestess [ANGEL] and Angel Captain [ANGEL], both of which Exile.
-Fairy Warrior [FAIRY] - It's difficult to build a good FAIRY deck using Warrior class, so unless you're up for a challenge, pick something else.
-Attack Strategy: Self-duplicating cards (Pick only one!)
-These cards duplicate themselves for increasing damage. You can take multiple copies, but pick only one type of card in order to maximize its effectiveness.
-
-Damage and Poison - These do not need extra Strength, though if you have enough Strength you may be able to kill enemies without needing a strong defense. A few sources of Daze/Immune or some good defensive Skills may suffice.
-Robo Wasp [ROBOT] (Uncommon) - Cheap and effective. Multiple copies are better.
-Cualdir, Ethereal Blade [ANCIENT] (Rare) - Worth spending all your Coins on if you can stick with an ANCIENT deck. Extremely powerful, and effective even with a medium-size deck. Cards that synergize well with Cualdir include: Sou, The Blade of Wind [ANCIENT] for Mana, Alestar, Tranquility Defender [ANCIENT] for Shield, and Mystic Bird for Shield. Because Cualdir uses the number of ANCIENT cards in your deck, you are better off getting extra copies of Sou for Mana and Alestar for Shield instead of duplicating Cualdir.
-Damage only - Using these cards on lower Inferno levels you may be able to get away with no extra Strength if you have strong defense, but it's risky. Because the base damage is only 2, a little Strength goes a long way. +2 Strength would be double the damage!
-Masked Swordsman (Common) - This one puts copies in your Exile pile. Try to get multiple copies so you can play it more often.
-Self-Destruction Bot [ROBOT] (Common) - This is risky because it damages you. You will want to pair this with a healing card. You can take multiple copies so you can play it more often, but make sure you can heal enough to recover the lost HP. The nice thing about this one is that it counts the number of ROBOT cards, so you can pair it with others such as Flamethrower [ROBOT] and Iron Colossus [ROBOT].
-General Wukong [BEASTMAN] (Rare) - Attacks all enemies instead of one, but does not exile, so you will see it more and more as you use it. You will want a lot of extra Strength because when this overruns your deck you will have a hard time defending. Because of this risk, I would recommend one of the other options instead, but if you do use this you can pick Ant Wizard [BEASTMAN] for Shield.
-Tier 1 Cards
-1x Lady of the Knight (Mana) - Don't take more than one copy, because that will decrease its effectiveness. You will always want 3 combat cards in your hand when you play this, so if you have another Magic card in your hand like Mage, you may want to play that first so you have a chance to draw a combat card and get the Mana back from Lady of the Knight.
-1-3x Dark Shielded Knight (Shield) - Combined with permanent Resistance, this is one of the strongest Shield cards. If you have a Magic card in your hand at the same time you may want to play that first to maximize the Shield you get from Dark Shielded Knight.
-1-2x Apprentice Guard (Shield) - It may not seem like much to new players, but combined with extra Mana and permanent Resistance it can give you a lot of Shield.
-Beast Emperor [BEASTMAN] (Double Damage/Strength/Resistance) - This is one of the best cards you can get. Perfect as a starting bonus, and worth buying.
-V01-B01 [ROBOT] (Mana/Resistance) - Free +1 Mana and +1 Resistance for some turns. Only play it if the Shield would save you from dying or it will prevent HP loss and you think you can still defeat the enemy without it. Having it in your hand will make Lady of the Knight (LotK) give you one less Mana, but the Mana you get from V01-B01 compensates for that. If you have two in your hand with LotK, it makes LotK useless. However, I'd say it's still worth getting multiple copies because it pays for itself if you want to play it. You can also opt for Wizard instead of LotK.
-Sou, The Blade of Wind [ANCIENT] (Attack/Mana) - This is worth taking just for the extra Mana you get when you play it as the first card in your turn. It doesn't give you Overcharged, so you can use it in addition to other cards that give Mana.
-Souls Priestess (Mana) - Take it if you don't have Lady of the Knight.
-Sun Priestess (Strength/Resistance) - Great if you don't take any DEMON cards.
-Wizard of Nature (Strength/Resistance) - This will convert temporary Strength/Resistance into permanent Strength/Resistance, so it's good even if the only way you get those buffs is from two or more cards giving Mana and Overcharged.
-Sigil Essence (Immune/Resistance) - Take no more than 2 cards that require empty draw/discard pile because you don't want to be stuck with an unplayable hand.
-Snow Queen (Immune) - Buys you time during the fight.
-Earth Seed (Quest/Daze) - The upgraded version is great, but taking this in World 1 before you have a strong defense could be risky. It will make your deck worse until you upgrade it, so if you can't do that before fighting Elites or the Boss, you may be in trouble. However, if you take it right before fighting a Normal enemy you can probably linger there and complete the 200 Shield Quest whether or not you have an improved defense.
-Portia, Keeper of Silence [ANCIENT][ANGEL] (Attack/Daze) - Works well against Gorilla King, combined with Immune or enough Shield. Also stops enemies from Evoking (Lycanthrope) or applying debuffs (Giant Wasp, Evil Forest Guardian).
-Alestar, Tranquility Defender [ANCIENT] (Shield/Attack) - Very strong defensive card. Combine with more ANCIENT cards, Resistance, and Armored for best results. Works well with Dhorion, Holy Sentinel [ANCIENT].
-Dhorion, Holy Sentinel [ANCIENT] (Resistance/Armored) - Free source of permanent Resistance. Temporary Armored is nice, too. Don't play it unless you have to, because you want your Resistance to keep increasing.
-Space Commander (Armored/Shield) - When low on health it gives you 10 Shield, which is better than Guard, so it can help you survive in World 1 before your defense is fully developed. It really shines when you have more than 50% HP and a good source of Shield. Great for Shield Bash strategy, or even just playing defensively. Having this card also allows you to upgrade Space Fighter into a powerful Attack and Shield card, so grab that as well if you plan to have at least 3 Races in your deck.
-RoboWitch [ROBOT] (Armored) - This will greatly improve your deck if you can generate a lot of Shield. Works well with Shield Bash strategy.
-Cthool, the Darkmaster [ANCIENT] / Azahr, the Exiled Wizard [ANCIENT] - If you have powerful cards that Exile such as Sun Priestess, Wizard of Nature, or Snow Queen, you can reuse them with Cthool or Azahr. These are two of the most overpowered cards in the game.
-Tier 2 Cards
-Wizard (Quest/Mana) - It becomes better than Lady of the Knight if you have enough Shield to linger on an enemy to complete the Quest.
-Sapphire Guard (Shield) - One copy recommended. Can give you free Shield or temporary Strength/Resistance via Overcharged, and can increase cards played per turn (for Apprentice Guard, Apprentice Knight, or Lady of the Dark Souls).
-Cthool Acolyte (Shield) - Exiles itself and another card. Good for early game to defend yourself and thin your deck. Combine with restarting the fight to get the best results.
-Medusa [BEASTMAN] (Daze) - Buys you time during the fight.
-Xatior Order of Wizards (Daze) - Buys you time during the fight.
-Blue Witch (Resistance) - Good permanent Resistance boost.
-Red Witch (Strength) - Good permanent Strength boost.
-Angel Captain [ANGEL] (Strength) - Good permanent Strength boost if nothing better is found. Slightly better than Guardian of the Sigil but can't be played for free.
-Guardian of the Sigil (Strength) - Good for early game if nothing better is found. Take no more than 2 cards that require empty draw/discard pile because you don't want to be stuck with an unplayable hand.
-Fairy Queen [FAIRY] (Strength/Resistance/Quest) - Good if you have enough Shield to linger on an enemy to work towards completing the quest. Very tedious, though.
-Nephil [ANGEL] (Attack/Heal) - Works well as a starting bonus because it can help maintain your HP and provides a decent attack. It can help you survive World 1.
-Ultron [ROBOT] (Attack/Heal) - Works well as a starting bonus. It can help you survive World 1 and slowly recover HP.
-High Witch (Weak) - Good replacement for Mage, because the upgraded version exiles. Plan to remove or transform Mage after getting this.
-Spirit of Magic [ANCIENT] (Weak) - Good replacement for Mage. Free play for early game, so it does not have to interfere with Lady of the Knight / Dark Shielded Knight. It's still good for late game even after it upgrades. Plan to remove or transform Mage after getting this.
-Keyra, the Shy Soul [ANCIENT] (Weak/Shield) - Good replacement for Mage. Doubles as a Shield card. Although it does not exile, it's still worth having. Plan to remove or transform Mage after getting this.
-Spirit of Defense [ANCIENT] (Shield) - Free extra Shield for early game. It can help you survive. After 20 plays it upgrades and the upgraded version isn't that great, so try not to play it unless you need it.
-Seeker of the Light (Heal/Remove Debuffs) - One of the few Magic cards that do not exile and may be worth getting. If you have enough Shield to linger on an enemy, this will allow you to fully heal, and it will help by removing Debuffs in late game.
-Vampire Lord (Heal) - Nice to have for free. One of the most desirable healing cards for early game, because it's a Combat card that Exiles and won’t interfere with any strategy you may end up following.
-Druid of the High Elves (Strength/Resistance/Heal/Immune) - This card does it all, but it will cost you 5 Mana. Having this may be better than having no Immune cards, but Snow Queen and Sigil Essence are better choices because of the Mana cost. Make sure you have ways to gain Mana before taking this.
-The Timeshifter [ANGEL] - Returns all Exiled cards to your deck. This is good later in the game when you already have multiple powerful cards that Exile such as Snow Queen, Medusa, Earth Seed, and Wizard of Nature.
-Elder Fairy [FAIRY] (Mana) - Nice to have for free. Because it gives you Mana without Overcharge, it will rarely interfere with Lady of the Knight. Note that after it Removes itself, it will stop affecting Cualdir, Ethereal Blade [ANCIENT] as well as Lullyp [BEASTMAN][FAIRY].
-Mage Thief (Coins) - Earn extra Coins during a fight. Get it when you have a strong defense and you think you can spare one turn during a fight. Allows you to remove your unnecessary cards quicker and buy stronger ones. You can combine this with cards that give Armored so you can set up your Shield the turn before you play Mage Thief.
-Mystic Bird (Attack/Shield) - Strong Attack & Shield when you have enough Strength/Resistance and at least three ANCIENT or FAIRY cards in your deck. Weak otherwise.
-Ant Wizard [BEASTMAN] (Shield) - This is a strong Shield card if you are building a BEASTMAN deck with permanent Resistance. Weak otherwise.
-Lullyp [BEASTMAN][FAIRY] (Attack/Shield) - Strong Attack & Shield if you are building a BEASTMAN deck with permanent Strength + Resistance. Weak otherwise.
-Tier 3 Cards
-Illusionist (Weak/Attack) - Works well as a starting bonus because it is free damage + weak. It can help you survive World 1.
-Young Witch (Weak/Mana) - Mostly useful for the extra 2 Mana for one turn when played on a Weakened enemy. May be a good early pick if you haven't found another card that gives you extra Mana yet.
-Young Mermaid (Strength/Resistance) - 1x is OK if you are lacking in Strength/Resistance boosts. Useful for extra Shield when an enemy has Weak.
-Moon Fairy [FAIRY] (Search) - Nice as a free reward. It helps keep your deck consistent.
-Apprentice Witch (Search) - 1x is nice to have if your deck is getting too big and you have an important card you want to pick out when necessary. The target card ought to be quite important because this costs extra Mana.
-Ambassadress of Peace (Shield/Armored) - This is nice to have if you find it and you need help with defense, but I wouldn't recommend spending Coins on it.
-Shadow Assassin (Attack) - Nice as a free reward once your deck has good defense and losing 3 HP per fight is acceptable. I wouldn't recommend spending Coins on it, though.
-King Neptune / Mermaid Queen (Quest/Strength/Resistance) - Because the Quest of 30 Strength or Resistance can take a long time to complete, it's unlikely these would help you in World 1. If you have a strong defense and a source of temporary buffs, you could linger on an enemy long enough to complete the Quest. Without upgrading, these cards are equivalent to Fighter, and they will hurt your chances of winning.
-Skills
-Invisibility Potion (5 Gems) - It may not seem like much, but this is a very efficient use of Gems. Dodging the first attack gives you extra time to set up your strategy for the rest of the fight.
-Ice Block (7 Gems) - Also a very efficient use of Gems. More versatile than Invisibility Potion, as you can either use it to buy you time at the beginning or save yourself from death. Try to avoid triggering it until you really need it. You can restart the fight if this triggers too early and you think it's possible to delay it more.
-Frost Nova (9 Gems) - Think of this as an automatic extra turn at the beginning of the fight. Allows you to set up your strategy during the first turn without worrying about defending.
-Freezing Shot (9 Gems) - Every 10 cards, daze a random enemy. Combine with extra Mana each turn for best results. Most of the time this will improve your chances of winning, but it can make it tricky to fight certain enemies that block damage while in the waiting state. It's still worth getting. Since this is a random outcome, you can restart the fight if you really need to daze a certain enemy at a specific time to save your HP.
-Key of the Portal (9 Gems) - Always an improvement to any strategy. Provides you extra Mana for a head start and improves consistency. You can combine this with restarting fights for even greater chances of winning.
-Necronomicon (9 Gems) - Extra 1 Mana per turn, but halves your HP. Combine with defensive Skills listed above for best results. Focus on setting up a solid defense and most of the time it doesn't matter how much HP you have. Take this if you think you will be able to avoid most damage. If you think you may take some hits, then Have a Meal at every Merchant after taking this Skill.
-Demon Eye (7 Gems) - Extra 1 Mana per turn, but you become blind. Combine with defensive Skills listed above for best results. More efficient use of Gems than Necronomicon, but requires more familiarity with the game. Some strategies benefit from the extra Mana so much that it makes sense to take it. Example 1: Small deck with Robo Wasp or Cualdir that ramps up damage so quickly that the enemy dies before you take a hit. Example 2: Quickly build up Shield so high with Armored that it doesn't matter what the enemy does. Shield Bash for the kill. Bonus! You can use this tool to help plan your moves. It's not 100% accurate for all situations, but it's good enough to be useful.
-Stone Skin (8 Gems) - If you're having trouble building a strong defense and your health is low, this can turn things around and save you.
-Circular Shield (8 Gems) - Works best with small decks. Extra Shield that doesn't require Mana is always good to have.
-Snail Shell (6 Gems) - This can be good for accumulating Shield before you draw your other cards that give Armored buffs. Combine with cards that give Armored, or it won't be very useful.
-Life Sword (8 Gems) - Get it if you consistently stay at full HP and you're using attacks that multiply damage. Good with Masked Swordsman, Robo Wasp, Cualdir, Lady of the Dark Souls, Beast Champion. Don't get it if your strategy is Shield Bash or if you can't maintain full HP.
-Gold Ingot (7 Gems) - Coins can be more useful than Gems. If you don't see any better Skill, get this.
-Phantom Boots (13 Gems) - Most of the time, this makes the game seem like it's in easy mode. It will never be bad for you to get this, but you may shoot yourself in the foot by skipping to the Boss without preparing well enough. Keep in mind that when you fight enemies, you can get both Coins and Gems (or a free card). If you visit a Merchant, you're only getting Coins.
-Mana Battery (12 Gems) - It's not immediately obvious that this is good, but occasionally you may have a turn that doesn't require spending all your Mana. When that happens, this will allow you to save it for the next turn to have an extra strong defense when needed. You can also get rich quick with Mana Battery and Mage Thief.
-Phoenix Feather (10 Gems) / Blessing of Sanctuary (10 Gems) - If you are worried you may lose, you can get these. When they trigger, restart the fight instead of continuing, unless you can find no way to survive the fight without them.
-Shuriken Attack / Kunai Attack (8 Gems) - With the right deck, these skills are a good source of permanent Strength and Resistance, respectively. Combine with sources of extra Mana so that you can reliably play 4 Combat cards per turn.
-Rock Dagger (9 Gems) - This one is just OK, considering its price. If you don't have any better option and you really need to improve your defense before the next Merchant, you can get it.
-Potion Maker (6 Gems) - This is an option if you regularly lose HP and you don't have any healing cards, and you are OK with healing slowly. It's a one-time cost and won't take up Mana during a fight.
-Apple Pie (5 Gems) - Excellent as a starting bonus, because it can help you survive World 1. However, it's probably not worth spending 5 Gems on in World 1 because by the time you have that many Gems there is probably only one Merchant left and you're better off spending 50 Coins to heal immediately.
-Knowledge of Strength (8 Gems) - Not the most efficient use of Gems, but useful if your attack strategy is not Shield Bash.
-Knowledge of Resistance (8 Gems) - Not a very efficient use of Gems, but it's an alternative if you are lacking in cards that give permanent Resistance. You will have this automatically if you're using Class Bonus #1.
-Piece of Coal (8 Gems) - This is a weird recommendation, but it gives you +2 Resistance for the same price as Knowledge of Resistance, and you can restart the fight until the debuffs you get are favorable. Only get it if you have the patience for a Reroll Adventure!
-Mana Dagger (9 Gems) - This may seem good, but it's usually a bad idea because of Overcharged. Don't get it, unless you do not plan on getting extra Mana from cards.
-Bones Armor (7 Gems) - Don't get this, because you get Shield from playing Combat cards and Bones Armor won't trigger!
