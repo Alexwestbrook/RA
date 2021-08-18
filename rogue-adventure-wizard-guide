@@ -144,7 +144,8 @@ Uncommon
 - Sun priestess, mostly for the 2 resistance, beware not to take demons or opal stone skill
 - Cthool acolyte, 20 shield is a lot, and you can use it to remove cards from your deck faster. Very good early game, if you've past world 2 you probably don't need it
 - Seeker of the light, removes every debuff including silence, healing is ok
-- Mage thief, gives gold, it's very useful once you know you can afford to waste some turns in your fight, it's great to get rid of the base deck or duplicate elder fairy [FAIRY
+- Mage thief, gives gold, it's very useful once you know you can afford to waste some turns in your fight (usually mid game), it's great to get rid of the base deck
+or duplicate elder fairy [FAIRY]
 
 Rare
 - Druid of the high elves, gives immune and 2 resistance, which is the main interest, heal can be useful, mana cost is quite high though.
@@ -184,8 +185,8 @@ General good skills:
 - Book of magic (8 gems), great healing for wizard, you can meet the 4 card requirement with the base deck
 - Piece of coal (8 gems), 2 resistance is good for defense, you can restart the fight to get different debuffs until you get weak and blind (sometimes block is fine too)
 - Frost nova (9 gems), great first turn protection, essentially gives you a free turn at the start of the fight, also avoids many first turn spawns
-- Freezing shot (9 gems), once you have spheres and some mana generation you can daze an enemy almost every turn, single enemies don't stand a chances
 - Key of the portal (9 gems), 1 extra mana on first turn and reshuffle option, very good for consistency and setup
+- Freezing shot (9 gems), once you have spheres and some mana generation you can daze an enemy almost every turn, single enemies don't stand a chances
 - Necronomicon (9 gems), extra mana at the cost of hp, do not take too early if you can't block attacks with immunes or shields yet, but great skill mid game
 - Dark sigil (11 gems), most powerful and dangerous skill, only take it if your deck is prepared for it, see in attack strategies.
 - Mana battery (12 gems), bit expensive early but allows you to save mana for important turns, opens up a very different playstyle. It's great to get tons of gold with 
@@ -288,22 +289,30 @@ You can use a way to get armored like Robowitch [ROBOT] or Dhorion the holy sent
 
 Advice : this strategy works very well on high inferno where you have more gold and need consistency.
 
-Other strategy: infinite loops or immunes
-
+Other strategy: infinite loops or infinite immunes
+These you need to be aware of because you might want to switch to one if you have the opportunity
+- Dark sigil (skill) can provide you with great power, with magic leaf and some strength (from overcharge for example) you can fully recover the HP loss and kill everything on first turn
+- Cthool the darkmaster [ANCIENT] and Azahr the exiled wizard [ANCIENT] can both bring back immunes or daze infinitely, you won't be killing first turn but you will be immune
+all the time so it's an easy win. Cthool is harder to use but stays for sure in your deck, azahr you will need some mana to meet the knowledge requirement to keep him but
+wizard it should be fine, so given the choice I'd go for Azahr the exiled wizard [ANCIENT]
+- Key of the portal (skill) can be brought back by Azahr the exiled wizard [ANCIENT] without any overcharge and you can even gain mana infinitely that way, provided your deck 
+is small enough. That easily becomes a first turn kill.
+- Heroic Blacksmith with V01-B01 [ROBOT] and a 4 card deck, harder to pull off as wizard but it's another idea if the stars align
+Note that all of these require small enough deck (sometimes 4 cards), which is another reason to have small decks.
+Keep in mind that these loops still have enemies that can be annoying (silence debuff, backfire damage...) so you will still have to prepare for that
 
 High inferno advice : 
 Early survival is the hardest part, getting past world 1 is very hard and most of the time once you've past it and reached first market of world 2
 you're almost sure to win. This is why you need to take stuff that is good early just to get through even if it means your deck is not building itself nicely.
-You don't have time for quests (except wizard I) and mage thief, although you might want them mid game.
+You don't have time for quests (except wizard I) or mage thief, although you might want them mid game.
 Your priority is to get immunes/daze and class upgrade, this way you can survive first turns until you get your extra mana and then use shields for the rest of the fight.
 You want to remove enough cards to be able to play energy golem twice a turn (on a good draw).
 Your key cards are wizard I and apprentice guard so buy or take them as soon as you see them. Once you have apprentice guard, you should be able to tank hits with the two
 mana from spheres, wizard I will increase its potenially once the quest is completed. By the way do not try to hard to complete the quest, it will finish on its own pretty fast.
 Other than that you will want some free mana cards to get spheres ASAP and some resistance to shield both before and after you get apprentice guard. But you should take the
 ones offered to you as fight rewards or in chests because you need your money for more important stuff.
-Here's a list of what you want to buy and what you just want to pick up. Of course what you want to buy you should pick up too. 
-(Order in each subsection is usually from most important to less IMO)
-Buy
+Here's a list of what you want to buy early
+
 Services
 - Class upgrade
 - Card remove
@@ -324,18 +333,36 @@ Uncommon
 Rare
 - Druid of the high elves (expensive)
 
-Pick up
-Common
-- Young witch
-- Spirit of magic [ANCIENT]
-- Old jester
-- Fairy princess [FAIRY]
-- Guardian of the sigil
+The cards you want to pick up are listed in the general good cards section with the exception of earth seed I, mage thief, wizard of Nature and Robowitch [ROBOT], because they won't help you early.
+Wizard of nature can be considered only if you have blue witch already and Earth seed if you have apprentice guard already.
 
-Uncommon
-- Cthool acolyte
-- Moon fairy
-- Sun priestess
+For skills, prioritize defensive and cheap ones, basically all the skills listed in good skills section are good early, except last three (Necronomicon, Dark sigil and Mana Battery),
+mostly because of their downside/cost.
+It is very good to take the 100 gold for 4 gems if you need to make an important purchase.
 
-Rare
-- 
+Some enemies are probalematic for wizard and you will want to prepare for them, but your priority is to get a deck that defeats regular enemies before going over the 
+problematic ones. 
+Nevertheless here they are:
+
+Silence enemies (if you have seeker of the light you're fine, with tear of goddess too but you probably shouldn't have taken it)
+w2
+Both bosses in Deep water,
+One inflicts silence if you take damage from him, so should be avoidable with a regular deck
+The other one inflicts 2 silence before attacking then passing. You can take the hit if you're not prepared yet (you will be blinded after first hit but don't worry they pass
+on the second silence turn) or you can use a daze or armor.
+Pharaoh, desert boss, he just inflicts block on the turn you're silenced, so no problem
+
+w3
+Bats, lost world normal enemy, the hardest one, frost nova prevents the first one (from the left), but you can also use a daze card. It's hard to get enough shields to make armor work
+on this one. Then you will have to kill the right one before he silences you too and then the middle one. If you keep getting silenced you will lose too much time and they will cruch you
+Void II elite (don't remember his name), he deals one silence from time to time, you can take the hit, use a daze or some armor
+
+w4
+Terror from the deep, land of dragons boss, by that time you've got to have daze, prioritze them on the silence debuff, but you can also prevent the spawns if you have enough
+
+Last boss, best thing against him is armor, you can also shield before attacking so that when silence comes you don't care, you can also restart the fight and hope not 
+to get randomly silenced
+
+
+Other problematic enemies
+Void III elite that deals 10 damage when playing two consecutive magic or combat cards.
