@@ -217,6 +217,7 @@ Try to focus on a single attack strategy. If you have too many attack cards, you
 ## Attack Strategy: Energy golem with fairy spawns
 
 **+** Quick power up during the fight
+
 **-** Vulnerable in first turns, hard to get going early game
 
 As I said before, *energy golem* is your main source of damage as wizard. Since it doesn't benefit from any buffs like strength or double damage, the only way to power him up is to play many magic cards. Fairy spawns are good for that since they put many free mana magic cards in your deck. You will have no use for strength but you might want resistance for defense. *Blue bloom [FAIRY]* and *Blessed Fairy [FAIRY][ANGEL]* are very good because their spawns give shields which will help you defend while you power up *energy golem*.
@@ -254,7 +255,7 @@ For that you can use skills like *Book of magic* which heals half of the HP loss
 - *Shield of shadows* (6 gems), basically 3 shields per spawn card, that's quite a lot
 - *Solid shell* (7 gems), decent shields but more expensive than *shield of shadows* and less shields
 - *Fairy doll* (8 gems), gives you an exile card counting for 3 fairies, not the best skill but decent
-- *Dark sigil* (11 gems], as I said before fairy spawns help you maintain HP and *dark sigil* helps you play all the spawns on turn 1. Game changing skill, usually a sure win once you've secured hp recovery
+- *Dark sigil* (11 gems), as I said before fairy spawns help you maintain HP and *dark sigil* helps you play all the spawns on turn 1. Game changing skill, usually a sure win once you've secured hp recovery
 - *Opal stone* (18 gems), expensive but counts as 2 fairies for free, the 2 angels can be good for *Blessed Fairy [FAIRY][ANGEL]* too. Keep in mind that you get 2 demons on the counter so *sun priestess* will give you debuff.
 
 **Advice** : very good strategy in low infernos where first fight are easy enough to let you get your deck started. In higher infernos, only do it if you find cards like *Fairy princess [FAIRY]*, *Moon fairy [FAIRY]* and *elder fairy [FAIRY]* first, which are good anyway, before committing to too many fairy spawns.
@@ -264,6 +265,7 @@ For that you can use skills like *Book of magic* which heals half of the HP loss
 ## Attack strategy: Energy golem alone
 
 **+** small deck, very consistent
+
 **-** requires specific cards and a lot of money to remove
 
 Another idea is to not use fairy spawns, focus on defense and use *energy golem* to power up itself. If you can get to a 4 card deck you can play *energy golem* over and over.
@@ -288,7 +290,7 @@ These you need to be aware of because you might want to switch to one if you hav
 - *Cthool the darkmaster [ANCIENT]* and *Azahr the exiled wizard [ANCIENT]* can both bring back immunes or daze infinitely, you won't be killing first turn but you will be immune all the time so it's an easy win. *Cthool* is harder to use but stays for sure in your deck, *azahr* you will need some mana to meet the knowledge requirement to keep him but wizard it should be fine, so given the choice I'd go for *Azahr the exiled wizard [ANCIENT]*
 - *Key of the portal* (skill) can be brought back by *Azahr the exiled wizard [ANCIENT]* without any overcharge and you can even gain mana infinitely that way. Provided your deck is small enough, that easily becomes a first turn kill.
 - *Heroic Blacksmith* with *V01-B01 [ROBOT]* and a 4 card deck, harder to pull off as wizard but it's another idea if the stars align
-- 
+
 Note that all of these require small enough deck (sometimes 4 cards), which is another reason to have small decks.
 Keep in mind that these loops still have enemies that can be annoying (silence debuff, backfire damage...) so you will still have to prepare for that
 
