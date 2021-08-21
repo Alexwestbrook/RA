@@ -3,13 +3,13 @@
 
 ## Introduction
 
-Wizard is the class you unlock after winning a Warrior run, see https://gist.github.com/adufilie/d9f42d6fbc7fe5dc1f7874e8f4f35572 for a great warrior guide fooblizoo did already. This guide is mostly inspired by his.
+Wizard is the class you unlock after winning a Warrior run, see https://gist.github.com/adufilie/d9f42d6fbc7fe5dc1f7874e8f4f35572 for a great warrior guide @fooblizoo did already. This guide is mostly inspired by his.
 
 Unlike warrior, wizard focuses on magic cards rather than combat, he has less HP and less defense in his base cards but he has a built in attack strategy with magic points.
 Whenever you play a magic card, you gain a magic point on your magic counter. Then when you play *energy golem* you can deal damage equal to your magic counter. This suggests to use *energy golem* as attack strategy and use your others cards to either increase your magic counter and/or defend yourself.
 Wizard also tends to have more mana which helps get the magic points and make the fights easier by playing more cards every turn.
 
-Contrary to warrior, from inferno 1 to 10 World 1 can be done with not much more than base deck.
+Contrary to warrior, from inferno 1 to 10? World 1 can be done with not much more than base deck.
 However past inferno 10 it becomes the most difficult part of the run, because you need to improve your deck quickly before first elite and then to defeat *Gorilla King* or *Evil Forest Guardian*.
 You will lose some runs early simply because you didn't find any good cards. Don't feel too bad about it.
 
@@ -48,7 +48,7 @@ Gain 1 magic point (MP) per magic card played. These magic points determine *ene
 
 ## Class bonus
 
-Every class unlocks a new class bonus after inferno 3, 5 and 10.
+Every class unlocks a new class bonus after inferno 2, 5 and 10.
 
 **Class bonus 1** - doubles strength and resistance from overcharge. You can use it if it's the only one available to you but it's not that great.
 
@@ -60,7 +60,7 @@ Once unlocked you should stick to class bonus 2. It will make your damage and ex
 
 ## Starting bonus
 
-You get a starting bonus after every time you've completed first world. You don't have to have a starting bonus but it helps. If you lose in World 1, play a different class or inferno level to beat the first Boss and earn your next starting bonus. If you're trying to advance other classes at the same time, you can take this as an opportunity to alternate between them and Wizard. If you want the starting bonus ASAP, pick one of Shaman with 1st class bonus, Barbarian or Ranger, choose Normal difficulty, and you can beat World 1 in one to two minutes.
+You get a starting bonus after every time you've completed first world. You don't have to use a starting bonus but it helps. If you lose in World 1, play a different class or inferno level to beat the first Boss and earn your next starting bonus. If you're trying to advance other classes at the same time, you can take this as an opportunity to alternate between them and wizard. If you want the starting bonus ASAP, pick one of Shaman with 1st class bonus, Barbarian or Ranger, choose Normal difficulty, and you can beat World 1 in one to two minutes.
 You can quit immediately after defeating the Boss, on the rewards screen.
 
 **2 Gems** - Never pick this. 100 Coins is worth more.
@@ -73,7 +73,7 @@ However you might end up with a useless card most of the time, wasting your star
 **Random Skill** - You can try your luck here, but there are a lot of skills. Most of the time you will get something barely useful if not completely useless. Random Rare is more likely to give you a good result if you're struggling.
 The theoretical max inferno for wizard is I119 and you can only do it with *Dark Sigil*. But because you are very unlikely to get it and you will probably die before you find some healing, you should do this only past I61 when it's your only chance of survival.
 
-If you are interested in theoretical limits and records, you can check https://docs.google.com/spreadsheets/d/18iEOCVwMW5eJfRHM1KzpZFG6p_egl5-_/edit?rtpof=true. Just say ask the @Gerr for access. You can contact him on discord. 
+If you are interested in theoretical limits and records, you can check https://docs.google.com/spreadsheets/d/18iEOCVwMW5eJfRHM1KzpZFG6p_egl5-_/edit?rtpof=true. Just say ask @Gerr for access. You can contact him on discord. 
 
 ## Picking your path
 
@@ -83,7 +83,7 @@ In other worlds you can afford to wait a little longer for the first market.
 
 ## General deck strategy
 
-**Mana** - Every deck benefits from getting extra Mana each turn, so you will want to find a way to do that. The best card for that on wizard is... *wizard III* ! You can also use *Souls Priestess* but it's not quite as good. Finally you can combine one of these cards with *V01-B01 [ROBOT]*. Beware of overcharge it will prevent you from getting extra mana.
+**Mana** - Every deck benefits from getting extra Mana each turn, so you will want to find a way to do that. The best card for that on wizard is... *wizard III* ! You can also use *Souls Priestess* but it's not quite as good. Finally you can combine one of these cards with *V01-B01 [ROBOT]*. Beware of overcharge it will prevent you from getting extra mana and convert it into temporary strength and resistance.
 
 **Defense first** - Build up your defense quickly or you will likely lose. Don't get too many attack cards. Look for cards with immune or daze like *Snow queen* or *Medusa [BEASTMAN]*. These are the best to defend first turn before you get your spheres and setup your deck. You want to make sure you can draw one of them on turn 1, which is where you are most vulnerable.
 These cards exile so you will also want a permanent shield cards with multiplying effect like *Apprentice Guard*. Try to get to a point where you are not losing any HP.
@@ -92,9 +92,9 @@ These cards exile so you will also want a permanent shield cards with multiplyin
 
 **Magic cards** - Try to take only magic cards, you can use a few well chosen combat cards mostly for defense. This is to maximize your MP and also the effect of some cards like *blue witch*, *fairy princess [FAIRY]* or *elder fairy [FAIRY]*.
 
-**Spheres** - You will want to activate your spheres ASAP on each fight. For that you will want many free mana magic cards like *old jester*, *moon fairy [FAIRY]*, *elder fairy [FAIRY]*. You can also use *magic leaf*, since it's activation is free, it counts as 2 magic cards every time you play it. Combined with a overcharge mana card, you might be able to get a sphere after turn 1 or even both.
+**Spheres** - You will want to activate your spheres ASAP on each fight. For that you will want many free mana magic cards like *old jester*, *moon fairy [FAIRY]*, *elder fairy [FAIRY]*. You can also use *magic leaf*, since its activation is free, it counts as 2 magic cards every time you play it. Combined with an overcharge mana card, you might be able to get a sphere after turn 1 or even both spheres.
 
-**Small deck** - A smaller deck will be more consistent. When your deck grows to about 12 cards or more, it becomes unlikely that you will see key cards each turn, unless you have ways to cycle through your deck faster, it also makes you less likely to draw an immune card on turn 1. On the other hand, a 4 card deck means every card you play comes right back in your hand. Note that you must always have at least 6 cards in your deck, but if 2 of them exile or remove, then you're left with a 4 card core.
+**Small deck** - A smaller deck will be more consistent. When your deck grows to about 12 cards or more, it becomes unlikely that you will see key cards each turn, unless you have ways to cycle through your deck faster. It also makes you less likely to draw an immune card on turn 1. On the other hand, a 4 card deck means every card you play comes right back in your hand. Note that you must always have at least 6 cards in your deck, but if 2 of them exile or remove, then you're left with a 4 card core.
 
 ## What reward to take after a fight
 
@@ -145,7 +145,7 @@ Similarly, when you have 7 Gems you can afford the *Gold Ingot* skill which give
 - *Moon Fairy [FAIRY]*, free magic card and search card
 - *Medusa I [BEASTMAN]*, daze an enemy is great, completing the quest makes it even better. Keep in mind that daze can be used to prevent a silence debuff.
 - *Xatior order of the wizards*, daze an enemy, same thing
-- *Sun priestess*, mostly for the 2 resistance, beware not to take demons or opal stone skill
+- *Sun priestess*, mostly for the 2 resistance, beware not to take demons or *opal stone* (skill)
 - *Cthool acolyte*, 20 shield is a lot, and you can use it to remove cards from your deck faster. Very good early game, if you've past world 2 you probably don't need it
 - *Seeker of the light*, removes every debuff including silence, healing is ok
 - *Magic leaf*, many options with this card, most useful will be heal and shields. Free magic card every time you activate it is nice, and it gets crazy with *dark sigil*. But doesn't exile so gets in the way of a 4 card deck
@@ -249,6 +249,7 @@ For that you can use skills like *Book of magic* which heals half of the HP loss
 ### Other good cards:
 
 - *Mystic bird*, although not a fairy, he scales with fairies like *Fairy Warrior [FAIRY]* and *Lullyp [BEASTMAN][FAIRY]*. The nice thing is that he is a magic card and not combat, he also attacks every enemy but that's not very important here as it won't be your main source of damage.
+- *The Timeshifter [ANGEL]*, can get all your fairy spawns back from exile for a second round. Since you get both the spanwner and the spawnees, it's like getting triple the amount of spawns
 
 ### Specific skills:
 
@@ -260,7 +261,7 @@ For that you can use skills like *Book of magic* which heals half of the HP loss
 
 **Advice** : very good strategy in low infernos where first fight are easy enough to let you get your deck started. In higher infernos, only do it if you find cards like *Fairy princess [FAIRY]*, *Moon fairy [FAIRY]* and *elder fairy [FAIRY]* first, which are good anyway, before committing to too many fairy spawns.
 
-**Alternative** : get some strength and you can kill enemies with the spawns from *Blessed Fairy [FAIRY][ANGEL]* if you have enough fairies and angels in your deck. Even if it isn't enough to commplete the kill you can use *fairy warrior [FAIRY]*, *Lullyp [BEASTMAN][FAIRY]* or *mystic bird* to finish the kill. You can use the skill *Phantom spear* for extra damage and if you have *dark sigil* you might consider taking *Devil's Dead* (11 gems) to get crazy strength and finish quick. Take it only after dark sigil.
+**Alternative** : get some strength and you can kill enemies with the spawns from *Blessed Fairy [FAIRY][ANGEL]* if you have enough fairies and angels in your deck. Even if it isn't enough to commplete the kill you can use *fairy warrior [FAIRY]*, *Lullyp [BEASTMAN][FAIRY]* or *mystic bird* to finish the kill. You can use the skill *Phantom spear* for extra damage and if you have *dark sigil* you might consider taking *Devil's Dead* (11 gems) to get crazy strength and finish quick. Take it only after *dark sigil*.
 
 ## Attack strategy: Energy golem alone
 
@@ -269,16 +270,16 @@ For that you can use skills like *Book of magic* which heals half of the HP loss
 **-** requires specific cards and a lot of money to remove
 
 Another idea is to not use fairy spawns, focus on defense and use *energy golem* to power up itself. If you can get to a 4 card deck you can play *energy golem* over and over.
-For this startegy you don't want too many non exile cards, since you ideally want a 4 card deck. The only shield card worth taking is *apprentice guard* and it's a must. You want *wizard III* too so you're left with one available slot. Here are my preferred choices:
+For this strategy you don't want too many non exile cards, since you ideally want a 4 card deck. The only shield card worth taking is *apprentice guard* and it's a must. You want *wizard III* too so you're left with one available slot. Here are my preferred choices:
 - *mud golem*, this means one less card to remove and you can still use it for weak or as a shield option when blocked
 - *seeker of the light*, protects you from silence mostly but also curse and can recover small hp loss (wound, skeletons)
-- *magic leaf*, can give you some free magic cards, can recover a lot of HP with some strength and can transition into a dark sigil build
+- *magic leaf*, can give you some free magic cards, can recover a lot of HP with some strength and can transition into a *dark sigil* build
 - *azahr the exiled wizard [ANCIENT]*, you can keep it on the side to bring back a daze or immune from your exile at a crucial moment, but *azahr* decks tend never to go down to 4 cards
 - *V01-B01 [ROBOT]*, although it does exile you don't want to play it, so it will just stay there and give you 1 mana and resistance each turn
 - *Dhorion the holy sentinel [ANCIENT]*, lets you keep your shields and slowly gain resistance, good way of protecting yourself from silence
 - nothing, I mean no non exile card, this lets you keep an immune or daze on the side for safety or further use (to prevent a silence debuff for example)
 
-On top of that you will want some exile cards that give resistance, immune, daze and mana. Fight goes as follows : play the resistance cards at the beginning of the fight with some immune or daze for protection, once you're down to 4 card deck play *wizard III* then all the mana on *energy golem* and then *apprentice guard* at the end if enemies intend to attack. You can play it twice if you need more shields, or play *wizard III* twice for extra res from overcharge.
+On top of that you will want some exile cards that give resistance, immune, daze and mana. Fight goes as follows : play the resistance cards at the beginning of the fight with some immune or daze for protection. Once you're down to 4 card deck play *wizard III* then all the mana on *energy golem* and then *apprentice guard* at the end if enemies intend to attack. You can play it twice if you need more shields, or play *wizard III* twice for extra resistance from overcharge.
 You can use a way to get armored like *Robowitch [ROBOT]* or *Dhorion the holy sentinel [ANCIENT]* and then you won't have to play *apprentice guard* all the time.
 
 **Advice** : this strategy works very well on high inferno where you have more gold and need consistency.
