@@ -105,7 +105,7 @@ Even if you see a card that would be good for late game, you may not want to tak
 ## What to do at the Merchant
 
 **Heal** - When your HP is low and your defense is not well developed yet, I recommend healing at the Merchant rather than buying a card that will heal you slowly.
-If your HP is still over 50% and you think you can survive until the next Merchant, you don't need to heal.
+If you're HP is still over 50% and you think you can survive until the next Merchant, you don't need to heal.
 
 **Thin your deck** - Your starting deck includes many *golem warriors* which will get in the way of your main attack card *energy golem*, of your defense cards *mud golem* and of the good cards you will add to your deck.
 I recommend Removing or Transforming at least two in World 1. If you have enough money for both, start by transforming one so you can remove the new card after if it's bad.
