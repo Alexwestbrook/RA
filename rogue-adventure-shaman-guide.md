@@ -175,57 +175,56 @@ Similarly, when you have 7 Gems you can afford the *Gold Ingot* skill which give
 - *Gorgrirath [DEMON]*, converts burns to temporary res, combine it with *Wizard of Nature* to make it permanent or with armor to use it to get high shields that you will keep for other turns
 
 ### Shields
-- *Melgaroth, Keeper of Flames [ANCIENT][DEMON]*, converts burns to shields, you lose your burns for offense but it gives plenty of shields, particularily with 2nd class bonus
+- *Apprentice guard*, great scaling shield effect when combined with some resistance and extra mana
+- *Demon guard [DEMON]*, can give you good shields on a demon deck, since you will be going for *Melgaroth* anyway, and if played first you won't lose hp. 
 
-- *Apprentice guard*, great scaling shield effect when combined with some resistance and wizard's mana
-- *Wizard I*, long quest to complete but easier for wizard since you're only playing magic cards. One of the few quest cards worth taking on high inferno.
-- *Young witch*, easy 3 mana and overcharge with weak from *mud golem*
-- *Spirit of magic I [ANCIENT]*, free card usable 20 times before it upgrades and becomes bad, use it on hard fights and save it when not necessary
-- *Old jester*, free magic card
-- *Fairy princess [FAIRY]*, easy 4 free card spawn
-- *Earth seed I*, only take it if you can complete the quest (after finding *apprentice guard* for example), unupgraded the card is trash but daze all enemies once upgraded is great
-- *Guardian of the sigil*, it's a free magic card useful in early game but the strength aspect isn't very important
+- *Alestar, the Tranquility Defender [ANCIENT]*, good shield value if you have some res and ancients, synergies well with all the other ancients you want anyway. Also doesn't need to be played so counts as an extra card, and can be used for shield bash with some armor. You can get multiple copies of this one.
+- *Dark shielded knight*, good shield value even without res if you have a combat card related deck
+- *Cthool Acolyte*, good flat shield value and thins the deck, annoying late game though
 
-### Uncommon
+- *Melgaroth, the Keeper of Flames [ANCIENT][DEMON]*, converts burns to shields, you lose your burns for offense but it gives plenty of shields, particularily with 2nd class bonus
+- *Ambassadress of peace*, good flat shield value and useful armor, less good in high inferno, not worth buying
 
-- *Snow queen*, immune
-- *Sigil essence*, immune and 2 resistance, keep your deck small to get the empty pile requirement
-- *Blue witch*, easy 4 resistance for wizard
-- *Moon Fairy [FAIRY]*, free magic card and search card
-- *Medusa I [BEASTMAN]*, daze an enemy is great, completing the quest makes it even better. Keep in mind that daze can be used to prevent a silence debuff.
-- *Xatior order of the wizards*, daze an enemy, same thing
-- *Sun priestess*, mostly for the 2 resistance, beware not to take demons or *opal stone* (skill)
-- *Cthool acolyte*, 20 shield is a lot, and you can use it to remove cards from your deck faster. Very good early game, if you've past world 2 you probably don't need it
-- *Seeker of the light*, removes every debuff including silence, healing is ok
-- *Magic leaf*, many options with this card, most useful will be heal and shields. Free magic card every time you activate it is nice, and it gets crazy with *dark sigil*. But doesn't exile so gets in the way of a 4 card deck
+### Armor
+- *Iron colossus [ROBOT]*, gives a little armor but not enough by itself, can be coupled with *Dhorion*
+
+- *Dhorion, the Holy Sentinel [ANCIENT]*, gives unlimited armor if you can get it in your hand at the end of every turn. Small deck helps, and can be coupled with another card/skill giving little armor in case you miss it at the end of one turn. It's also ancient and gives plenty of res.
+- *Robowitch [ROBOT]*, gives enough armor for the entire fight most of the time, but it can be useful to have a little more
+- *Ambassadress of peace*, not a lot of armor but it can be coupled with *Dhorion*
+
+### Immune/daze
+- *Earth seed I*, bad card before quest is completed, but great daze card after. nly take it if you can complete the quest, *Melgaroth* makes the quest easy to complete.
+
+- *Snow queen*, great immune card
+- *Sigil essence*, immune, empty pile requirement can be annoying but you should have a small deck anyway. Res is very good too
+- *Medusa [BEASTMAN] I*, good daze card before the quest, even better if you complete the quest but it's unlikely to have poison as shaman
+- *Xatior, order of the wizards*, good daze card, removes instead of exiling so you can't take it back with *Azahr, the Exiled Wizard [ANCIENT]*, *Cthool, the Darkmaster [ANCIENT]*, or *The Timeshifter [ANGEL]*. Once you have it you can go for *Ixar, order of the wizards* for the combo, but keep your deck small to be able to pull it off
+
+- *Druid of the High Elves*, mana cost is pretty high but it gives the immune as well as res and small healing
+
+### Heal
+- *Fairy princess [FAIRY]*, gives small healing as well as free mana cards
+
+- *Seeker of the light*, good healing, protection from debuffs (including silence), it takes space in your deck but can provide unlimited healing if you have the mana to do so
+
+- *Druid of the High Elves*, you want it for res and immune but there is small healing
+- *Nephil [ANGEL]*, gives fast healing if you go below 50% hp, damage is decent early but otherwise you won't be playing it
+- *Ultron [ROBOT]*, decent damage early when at low hp, also gives a free magic card with little healing, gets obsolete pretty fast and not worth spending gold on, but decent starting bonus
+
+### Damage
+- *Melgaroth, the Keeper of Flames [ANCIENT][DEMON]*, doubles the burn when in your hand, and gives a shield option. Very powerful and interesting card, specially with 2nd class bonus. It can even be used for a shield bash strategy with some armor. Works best on small decks
+- *Beast emperor [BEASTMAN]*, doubles damage from thunder points if you have 1st class bonus
+
+### Money
 - *Mage thief*, gives gold, it's very useful once you know you can afford to waste some turns in your fight (usually mid game), it's great to get rid of the base deck or duplicate *elder fairy [FAIRY]*
 
-### Rare
-
-- *Druid of the high elves*, gives immune and 2 resistance, which is the main interest, heal can be useful, mana cost is quite high though.
-- *Elder Fairy [FAIRY]*, easy 4 free mana, no overcharge, you can play as many as you want in a turn and get insane mana. Worth duplicating for 300 gold in merchant
-- *V01-B01 [ROBOT]*, good mana card, the resistance is very good too
-- *Cthool the Darkmaster [ANCIENT]*, this card duplicates any exile card you play, if you have *snow queen* or *Earth seed II*, you can play it every turn and be untouchable
-- *Azahr the exiled wizard [ANCIENT]*, this card duplicates a card from your exile twice, if you played 4 cards already (easy as wizard with a mana card) you keep it in your deck and have an infinite cycle of immunes or daze. It's also great without staying in your deck, duplicating an exiled card twice is enough.
-- *Wizard of Nature*, very good card if you have other ways of getting resistance, you can also make temporary resistance from overcharge permanent. More of a late game card.
-- *Ambassadress of peace*, good defense card specially on low inferno, can give you 2 turn protection, less good on high inferno.
-- *Robowitch [ROBOT]*, good for armor, 9 is usuallly enough for the whole fight, good if you have some overflow shields and can protect you from silence on a future turn
-
-## Other decent cards:
-
-These are mostly replacement card if you don't find what you want
-- *High priest*, free mana card but prevents from searching through your deck
-- *Souls priestess*, gives 2 mana without quest but even on high inferno *wizard I* is better for wizard. Since *Energy golem* already gives 1 mana, the 1 extra from *souls priestess* doesn't make it a priority
-- *Sou, the blade of wind [ANCIENT]*, gives 2 mana without overcharge if you play it first, it's good but get's in the way if you want to get a 4 card base
-- *Fairy queen I [FAIRY]*, only useful once upgraded, take it only on low inferno if you can hold the fight long enough to upgrade it. Easier with a fairy build
+### Bringing back exile
 - *Guardian of heavens [ANGEL]*, can get you a blue witch or immune back from exile, a bit slow but could be worth it
-- *Red witch*, easy 4 strength but most wizard builds don't need strength
-- *Ixar, order of the wizards*, only take it if you already have *xatior, order of the wizards* for the combo, still a bit inconsistent but if you can pull it off combo is great
-- *Nephil [ANGEL]*, it's a combat card but deals decent damage and heals you a lot when you need it. Good early game but late game that kind of healing get's a little obsolete. Also doesn't exile.
+
+- *Cthool, the Darkmaster [ANCIENT]*, this card duplicates any exile card you play, if you have *snow queen* or *Earth seed II*, you can play it every turn and be untouchable
+- *Azahr, the Exiled Wizard [ANCIENT]*, this card duplicates a card from your exile twice, if you played 4 cards already (with some extra mana) you keep it in your deck and have an infinite cycle of immunes or daze. It's also great without staying in your deck, duplicating an exiled card twice is enough.
 - *The Timeshifter [ANGEL]*, gets all your exile cards back, can be great but there's often some cards you don't want to play again and it makes the mana cost pretty high
-- *Ultron [ROBOT]*, decent damage early when at low hp, also gives a free magic card with little healing, gets obsolete pretty fast and not worth spending gold on, but decent starting bonus
-- *Dhorion, the holy sentinel [ANCIENT]*, good card for resistance and armor, doesn't need to be played but takes space in your deck and a bit slow for wizard
-- *Alestar tranquility defender [ANCIENT]*, gives decent shield if you picked up some other ancient cards, doesn't need to be played either but a bit obsolete on high inferno
+
 
 ## General good skills:
 
@@ -234,19 +233,20 @@ These are mostly replacement card if you don't find what you want
 - *Demon eye* (7 gems), extra mana at the cost of blind, learn enemy patterns and blind is no longer a problem
 - *Gold ingot* (7 gems), 300 gold is a lot you can upgrade, buy a rare card or duplicate a card with that. You can also buy multiple cheaper stuff
 - *Circular shield* (8 gems), great source of shield with a small deck, with 8 cards it's 10 shield per turn after 1st turn, with 4 cards it's 10 shields per card played
-- *Book of magic* (8 gems), great healing for wizard, you can meet the 4 card requirement with the base deck
+- *Book of magic* (8 gems), great healing once you have extra mana and magic card focused deck
 - *Piece of coal* (8 gems), 2 resistance is good for defense, you can restart the fight to get different debuffs until you get weak and blind (sometimes block is fine too)
 - *Frost nova* (9 gems), great first turn protection, essentially gives you a free turn at the start of the fight, also avoids many first turn enemy spawns
 - *Key of the portal* (9 gems), 1 extra mana on first turn and reshuffle option, very good for consistency and setup
 - *Freezing shot* (9 gems), once you have spheres and some mana generation you can daze an enemy almost every turn, single enemies don't stand a chance
 - *Necronomicon* (9 gems), extra mana at the cost of hp, do not take too early if you can't block attacks with immunes or shields yet, but great skill mid game
-- *Dark sigil* (11 gems), most powerful and dangerous skill, only take it if your deck is prepared for it, see in attack strategies.
+- *Dark sigil* (11 gems), most powerful and dangerous skill, go to skill with 3rd class bonus, otherwise only take it if your deck has enough healing
 - *Mana battery* (12 gems), bit expensive early but allows you to save mana for important turns, opens up a very different playstyle. It's great to get tons of gold with mage thief if you gave lots of shields and armored
 
 ## Other useful skills:
 
 - *Telescope* (5 gems), cheap and effective, you can plan your path to get hard fights right after market, still a bit inconsistent
 - *Torch* (5 gems), cheap skill and helps you get better rewards after fights
+- *Snail shell* (6 gems), little armor to combine with *Dhorion*
 - *Purple potion* (7 gems), decent if you have *demon eye* already, it's a sure 1 str/res every turn but the first, plus some extra when receiving debuffs
 - *Rabbit paw* (8 gems), not a priority but once your deck is well rounded, curse is one of the things that can still kill you. I often take it right before final boss.
 - *Phantom spear* (8 gems), deals a lot of damage but you usually don't need it, still much better than *dark sword* which is a waste of gems.
@@ -257,7 +257,7 @@ These are mostly replacement card if you don't find what you want
 - *Blessing of sanctuary* (10 gems), good once your deck is well rounded and you're afraid of a mistake, for example when you have *demon eye* (if you trigger it then restart the fight, you get it back)
 - *Phoenix feather* (10 gems), same as above, slightly worse in my opinion
 - *Phantom boots* (13 gems), allows you to avoid almost every elite and go for plenty of chests/merchants, bit expensive and you still have to fight bosses but overall makes the game easy
-- *Tear of godess* (15 gems), very expensive skill but saves you from the silence nightmare, only once your deck is well rounded
+- *Tear of godess* (15 gems), very expensive skill but saves you from the block/silence nightmare, only once your deck is well rounded
 
 ## Attack Strategies
 
