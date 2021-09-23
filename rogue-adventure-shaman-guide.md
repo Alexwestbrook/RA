@@ -8,11 +8,9 @@ For guides about other classes I invite you to check https://gist.github.com/adu
 
 Shaman can be a hard class to understand at first because there is no clear strategy to play it. However it is a very powerful class early if you play it right and it can get really strong.
 Your ability lets you stack thunder or fire points everytime you play a card and release them with the totems. Unlike wizard or necromancer, once released you lose your stack
-(less so with class upgrade) so you have to build it again everytime. Even so, this ability deals a lot of damage and with some extra mana per turn and/or a specific card, it can
-do all the killing. Your deck should be mostly focused on defense.
+(less so with class upgrade) so you have to build it again everytime. Even so, this ability deals a lot of damage and shaman is a class that can get huge burn stacks that can do all the killing. Your deck should be mostly focused on defense.
 
-Shaman has many options when it comes to building its deck. You can focus on magic or combat cards, or do a mix of both. From inferno 1 to 10, you can focus on inflicting burns
-or just using the thunder damage but in higher infernos only the burns will let you kill high HP enemies.
+Shaman has many options when it comes to building its deck. You can focus on magic or combat cards, or do a mix of both. From inferno 1 to 10, you can focus on inflicting burns or just using the thunder damage but in higher infernos only the burns will let you kill high HP enemies.
 As for any class, World 1 will become the most difficult part of the run, because you need to improve your deck quickly before first elite and then to defeat *Gorilla King* or *Evil Forest Guardian*.
 You will lose some runs early simply because you didn't find any good cards. Don't feel too bad about it.
 
@@ -144,7 +142,6 @@ Similarly, when you have 7 Gems you can afford the *Gold Ingot* skill which give
 - *Souls guardian*, good mana early
 - *Lady of the Knight*, good mana if deck focused on combat card
 
-
 ### Other mana cards
 - *Old jester*, free to play, exiles and can search for a rare card
 - *Spirit of magic I [ANCIENT]*, free to play early and deals weak, still good once upgraded but no longer a free mana card, also is ancient
@@ -177,7 +174,9 @@ Similarly, when you have 7 Gems you can afford the *Gold Ingot* skill which give
 - *Wizard of Nature*, doubles the res, only take it if you already have other means of getting some res
 - *Gorgrirath [DEMON]*, converts burns to temporary res, combine it with *Wizard of Nature* to make it permanent or with armor to use it to get high shields that you will keep for other turns
 
-### 
+### Shields
+- *Melgaroth, Keeper of Flames [ANCIENT][DEMON]*, converts burns to shields, you lose your burns for offense but it gives plenty of shields, particularily with 2nd class bonus
+
 - *Apprentice guard*, great scaling shield effect when combined with some resistance and wizard's mana
 - *Wizard I*, long quest to complete but easier for wizard since you're only playing magic cards. One of the few quest cards worth taking on high inferno.
 - *Young witch*, easy 3 mana and overcharge with weak from *mud golem*
