@@ -37,44 +37,49 @@ Similarly, if you can run through your cards once and trigger a new shuffle, you
 
 ## Description of abilities:
 
-Gain 1 magic point (MP) per magic card played. These magic points determine *energy golem*'s damage.
+You have a thunder form and a fire form. Playing the totem of the other form will make you change form. Every time you play a card you gain 1 thunder or fire point depending
+on your current form, changing form will reset counter to 0 and release 8 damage to a random enemy per thunder point or 3 burns to all enemies per fire point.
+Note that the totem card played will count as first card played in the new form, so the counter will be at one after changing form. The thunder damage is unaffected by strength, double damage or weak, and doesn't count as a hit one enemies with backfire damage.
 
-**Class upgrade**: At 10 MP you get a first sphere, and at 20 you get a second one. Each sphere gives you +1 base mana at the start of your turn (if you reach 10 MP during your turn, you only get the mana next turn) and makes *golem warrior* attack once more.
+**Class upgrade**: After changing form you keep half the points from the previous form. It is rounded down but you will get your extra point from the totem. 5 points will become 2, then 3 with the totem. 2 will become 1, then 2 again with the totem, so switching form every card played will result in double points compared to without class upgrade, but switching rarely will result more in +50% points.
 
 **Base deck**:
 
-4x *Golem warrior* : deal 4 damage, attacks once more per sphere (this becomes a multihit attack with spheres, beware of enemies with effect based on number of hits : mushrooms, rockhorn, electric jellyfish, greater void essence, demon of the deep, chaos nest, black furry, queen of snakes, bone commander)
+2x *Mage* : deal 3 damage, apply 3 weak
 
-3x *Mud golem* : deal 2 damage, gain 3 shields, apply 3 weak
+3x *Fire totem* : gain 3 shields, if in thunder form switch to fire form
 
-1x *Energy golem* : deal damage equal to magic points to all enemies (this is pure damage, unaffected by strength, double damage, weak or dark grasp. It also doesn't count as a hit on mushrooms, rockhorn, electric jellyfish and sapphire drake)
+3x *Thunder totem* : gain 3 shields, if in fire form switch to thunder form
+
 
 ## Class bonus
 
 Every class unlocks a new class bonus after inferno 2, 5 and 10.
 
-**Class bonus 1** - doubles strength and resistance from overcharge. You can use it if it's the only one available to you but it's not that great.
+**Class bonus 1** - Thunder points will deal 8 damage to all enemies instead of one random. Beware that this changes thunder damage to be affected by double damage, weak, dark grasp and to trigger rockhorn, electric jellyfish or sapphire drake. This class bonus is very good in early infernos (I1-10) but it gets obsolete once enemies start having too much HP.
 
-**Class bonus 2** - gives you 2 MP per magic card played. This means *energy golem* increases his damage twice faster and you get your first sphere after only 5 magic cards played, and the second after 10 magic cards.
+**Class bonus 2** - Fire points will apply 6 burns to all enemies instead of 3. This is the best bonus for very high infernos (I30+) beacause the burns will be your main source of damage. You can also use it early but it might not be as good as the others.
 
-**Class bonus 3** - lets you get up to 3 spheres instead of 2, but their cost is increased to 15 MP. This means you get first sphere at 15 magic cards played, second at 30 and third at 45.
+**Class bonus 3** - Heal 2 hp every time you change form. Once unlocked this is the best class bonus up to I30 or so. It will help you recover and synergies pretty well with the class upgrade and dark sigil.
 
-Once unlocked you should stick to class bonus 2. It will make your damage and extra mana come much faster. Class bonus 3 is so slow it's actually worse than not having any bonus at all.
+All shaman class bonuses are nice and despite my advice you can play with whatever you find most fun. However on very high infernos the second one will be best because enemies have too much HP to be killed with thunder and they deal too much damage to recover it with class bonus 3.
+This is also because you will want to use cards like *Melgaroth[ANCIENT][DEMON]* that synergies with burns.
 
 ## Starting bonus
 
-You get a starting bonus after every time you've completed first world. You don't have to use a starting bonus but it helps. If you lose in World 1, play a different class or inferno level to beat the first Boss and earn your next starting bonus. If you're trying to advance other classes at the same time, you can take this as an opportunity to alternate between them and wizard. If you want the starting bonus ASAP, pick one of Shaman with 1st class bonus, Barbarian or Ranger, choose Normal difficulty, and you can beat World 1 in one to two minutes.
-You can quit immediately after defeating the Boss, on the rewards screen.
+You get a starting bonus after every time you've completed first world. You don't have to use a starting bonus but it helps. If you lose in World 1, play a different class or inferno level to beat the first Boss and earn your next starting bonus. If you're trying to advance other classes at the same time, you can take this as an opportunity to alternate between them and shaman. If you want the starting bonus ASAP, pick Barbarian or Ranger, choose Normal difficulty, and you can beat World 1 in one to two minutes.
+You can quit immediately after defeating the Boss, on the rewards screen. (You can also use Shaman with 1st class bonus on Normal, but switching class bonuses isn't a great idea)
+That said, in high infernos you will restart a lot and taking time to get the starting bonus isn't always worth it. You can also just restart enough until you get some good rewards and shops.
 
 **2 Gems** - Never pick this. 100 Coins is worth more.
 
-**100 Coins** - This is the consistency choice, I recommend it up to I20, I personnally used it up to I30 but if you want you can keep using it until I40 where rare card or skill is necessary to win first fight.
+**100 Coins** - This is the consistency choice, I recommend it up to I30, if you want you can keep using it until I49 where rare card or skill is necessary to win first fight.
 
-**Random Rare** - This is probably your best option past I20. There are some great starting bonus that will help you a lot, best are *Elder Fairy [FAIRY]* and *Druid of the High Elves* which can bring you up to I61.
-However you might end up with a useless card most of the time, wasting your starting bonus, which is why I recommend it only after I20.
+**Random Rare** - This is probably your best option past I49. There are a few nice starting bonuses that will help you, but the very best is *Melgaroth, Keeper of Flames [ANCIENT][DEMON]* which can bring you up to I105 on 2nd class bonus.
+However you might end up with a useless card most of the time, wasting your starting bonus, which is why I recommend it only once first fight becomes impossible.
 
-**Random Skill** - You can try your luck here, but there are a lot of skills. Most of the time you will get something barely useful if not completely useless. Random Rare is more likely to give you a good result if you're struggling.
-The theoretical max inferno for wizard is I119 and you can only do it with *Dark Sigil*. But because you are very unlikely to get it and you will probably die before you find some healing, you should do this only past I61 when it's your only chance of survival.
+**Random Skill** - You can try your luck here, but there are a lot of skills. Most of the time you will get something barely useful if not completely useless. However it can be nice if you want a little help in the run and they're almost never bad.
+The theoretical max inferno for shaman is I121 and you can only do it with *Dark Sigil* and 3rd class bonus. But because you are very unlikely to get it and you will probably die before you find some healing, you should do this only past I105 when it's your only chance of survival.
 
 If you are interested in theoretical limits and records, you can check https://docs.google.com/spreadsheets/d/18iEOCVwMW5eJfRHM1KzpZFG6p_egl5-_/edit?rtpof=true. Just say ask @Gerr for access. You can contact him on discord. 
 
@@ -86,16 +91,18 @@ In other worlds you can afford to wait a little longer for the first market.
 
 ## General deck strategy
 
-**Mana** - Every deck benefits from getting extra Mana each turn, so you will want to find a way to do that. The best card for that on wizard is... *wizard III* ! You can also use *Souls Priestess* but it's not quite as good. Finally you can combine one of these cards with *V01-B01 [ROBOT]*. Beware of overcharge it will prevent you from getting extra mana and convert it into temporary strength and resistance.
+**Mana** - Every deck benefits from getting extra Mana each turn, but even more so for shaman since your damage comes from number of cards played. You have a lot of options, the best card early are *Souls Priestess* or *Souls Guardian*, but you can also use *Wizard III* or even *Lady of the Knight* if you have a combat card related deck. These cards give overcharge so you will want only one, but there are other cards that you can use *Sou, the blade of wind* or *V01-B01 [ROBOT]*.
 
-**Defense first** - Build up your defense quickly or you will likely lose. Don't get too many attack cards. Look for cards with immune or daze like *Snow queen* or *Medusa [BEASTMAN]*. These are the best to defend first turn before you get your spheres and setup your deck. You want to make sure you can draw one of them on turn 1, which is where you are most vulnerable.
-These cards exile so you will also want a permanent shield cards with multiplying effect like *Apprentice Guard*. Try to get to a point where you are not losing any HP.
+**Defense first** - Build up your defense quickly or you will likely lose. Don't get too many attack cards. Look for cards with immune or daze like *Snow queen* or *Medusa [BEASTMAN]*. These are the best to defend first turn before you setup your deck. You want to make sure you can draw one of them on turn 1, which is where you are most vulnerable.
+These cards exile so you will also want a permanent shield cards with multiplying effect like *Apprentice Guard* or *Alestar, the tranquility defender [ANCIENT]*. Another option for defense is *Melgaroth, the Keeper of Flames [ANCIENT][DEMON]* which can turn burns into shields.
+Try to get to a point where you are not losing any HP.
 
-**Permanent buffs** - Favor Strength and Resistance buffs that last until the end of the fight instead of temporary end-of-turn buffs. *Blue witch*, *Red witch*, *Sun Priestess* and *Wizard of Nature* are a couple of the best cards for this.
+**Permanent buffs** - Strength doesn't benefit shaman, but favor resistance buffs that last until the end of the fight instead of temporary end-of-turn buffs. *Blue witch*, *Sigil essence*, *Dhorion* and *Wizard of Nature* are the best cards for this.
 
-**Magic cards** - Try to take only magic cards, you can use a few well chosen combat cards mostly for defense. This is to maximize your MP and also the effect of some cards like *blue witch*, *fairy princess [FAIRY]* or *elder fairy [FAIRY]*.
+**Card type** - You can use any card type as shaman, but focusing on magic cards will make *blue witch* and *Elder fairy [FAIRY]* better whereas focusing on combat cards will make *Lady of the Knight* and *Dark shielded knight* better. Keep that in mind when building your deck. Depending on the run, you might want some cards more than others.
 
-**Spheres** - You will want to activate your spheres ASAP on each fight. For that you will want many free mana magic cards like *old jester*, *moon fairy [FAIRY]*, *elder fairy [FAIRY]*. You can also use *magic leaf*, since its activation is free, it counts as 2 magic cards every time you play it. Combined with an overcharge mana card, you might be able to get a sphere after turn 1 or even both spheres.
+**Shaman Points** - Before you get class upgrade you will lose all your points by changing form. If you're focusing on burns you will want to release them by changing to thunder, then go back ASAP to fire form to start stacking fire points again. Burns will deal more damage in a long fight but thunder damage is better to finish off the enemy. Even with 2nd class bonus you will want to stack some thunder in the last turn to kill before they attack (burn is applied after the enemy's attack). 
+Try to time the releases according to needs. Releasing burns every turn will mean you stack fewer fire points, you might want to hold onto them until 2nd turn and then release them. 
 
 **Small deck** - A smaller deck will be more consistent. When your deck grows to about 12 cards or more, it becomes unlikely that you will see key cards each turn, unless you have ways to cycle through your deck faster. It also makes you less likely to draw an immune card on turn 1. On the other hand, a 4 card deck means every card you play comes right back in your hand. Note that you must always have at least 6 cards in your deck, but if 2 of them exile or remove, then you're left with a 4 card core.
 
@@ -107,20 +114,19 @@ Even if you see a card that would be good for late game, you may not want to tak
 
 ## What to do at the Merchant
 
+**Melgaroth** - In low infernos this card isn't necessary, specially without 2nd class bonus. But on higher infernos it's a must. Whenever you find that card you should buy it (one copy is enough). If you have enough money it is worth rerolling cards in every merchant until you find it.
+
 **Heal** - When your HP is low and your defense is not well developed yet, I recommend healing at the Merchant rather than buying a card that will heal you slowly.
 If you're HP is still over 50% and you think you can survive until the next Merchant, you don't need to heal.
 
-**Thin your deck** - Your starting deck includes many *golem warriors* which will get in the way of your main attack card *energy golem*, of your defense cards *mud golem* and of the good cards you will add to your deck.
-I recommend Removing or Transforming at least two in World 1. If you have enough money for both, start by transforming one so you can remove the new card after if it's bad.
-Once you're down to only one *golem warrior* (removed 3) you can do as you wish:
-- stop removing cards (good on low inferno because you don't have that much money)
-- remove duplicates of *mud golem* (duplicates are rarely useful)
-- remove last *golem warrior* (unless you find good strength, energy golem deals more damage so it's a better attack option)
-- remove all base cards but *energy golem* (goal is to have a 4 card core, beware of the order you remove in, you will want to keep a balance between *mud golem* and *golem warrior* early, with a little more *mud golems*)
+**Thin your deck** - Your starting deck includes many duplicates which will get in the way of the ther good cards you will add to your deck.
+I recommend Removing or Transforming at least one of each in first two worlds. If you have enough money for both, start by transforming one so you can remove the new card after if it's bad.
+The *Mage* is pretty bad and you should remove the last one once you find a better option for weak (that weakens all enemies at once).
+If you have the money and *circular shield* skill, you might want to remove the last duplicates of your totems to get down to a 4 card deck and get plenty of shields form your skill. However always keeps at least one of each or you won't be able to use your ability anymore.
 
-**Upgrade the class skill** - It will give you the sweet extra mana from spheres, and make *golem warrior* better. On low inferno you don't have enough money so you will have to wait to do so, on high inferno it's almost priority, with the exception of a few very good cards.
+**Upgrade the class skill** - The class skill is nice but not necessary, priority goes to removing one base card of each type and other good defense cards. You will usually upgrade it in world 3 or 4 but you can finish the run without it.
 
-**Duplicating** - if you have a very good card like *elder fairy [FAIRY]* you might want to duplicate it for 300 gold in merchant, I recommend this once the rest of your deck is good enough and you just want that extra preparation time in battle.
+**Duplicating** - If you have a very good card like *Elder fairy [FAIRY]* you might want to duplicate it for 300 gold in merchant, I recommend this once the rest of your deck is good enough and you just want that extra preparation time in battle.
 
 **Consider trading Gems for Coins** - Once you have 4 Gems, you will be able to trade them for 100 Coins, so keep that in mind when looking at card prices.
 Similarly, when you have 7 Gems you can afford the *Gold Ingot* skill which gives 300 Coins.
@@ -129,8 +135,49 @@ Similarly, when you have 7 Gems you can afford the *Gold Ingot* skill which give
 
 ## General good cards:
 
-### Common
+### Overcharged mana card (1)
+- *Wizard I*, bad mana early but highest mana giver if you can set it up
+- *Sapphire guard*, mana isn't great but it also gives shield, decent option before you get one of the above, but you still want another overcharged mana card. It can synergies with *Lady of the Knight* for a combat card focused deck.
+- *Young witch*, gives a lot of mana but exiles so can only be used once
 
+- *Souls priestess*, best option for early mana and searching through the deck
+- *Souls guardian*, good mana early
+- *Lady of the Knight*, good mana if deck focused on combat card
+
+
+### Other mana cards
+- *Old jester*, free to play, exiles and can search for a rare card
+- *Spirit of magic I [ANCIENT]*, free to play early and deals weak, still good once upgraded but no longer a free mana card, also is ancient
+- *Spirit of defense I [ANCIENT]*, free to play early and a little defense, pretty bad once upgraded though, only take early for a little help or if ancient build
+- *Fairy princess [FAIRY]*, not free to pley but gives other free cards and exiles, decent for early fight and gives some healing
+
+- *Sou, the blade of wind [ANCIENT]*, gives good mana if played first, good option all game long unless you are going for a 4 card *circular shield* deck, also is ancient
+- *Moon fairy [FAIRY]*, free mana card and search option
+- *High priest*, free mana card but bad search option
+- *Magic leaf*, activation is free, can give decent shield and can also be used as weak option even though it doesn't affect all enemies. It can transition into a *dark sigil* first turn kill deck too
+
+- *V01-B01 [ROBOT]*, gives mana without having to be played but doesn't work if overcharged (not great with *Souls priestess/guardian*), resistance is decent too
+- *Elder fairy [FAIRY]*, great setup card, removes so can only be used once, worth duplicating.
+
+### Weak (1)
+- *Spirit of magic I [ANCIENT]*, great for weak and mana early, great for weak on all enemies once upgraded, best option
+- *High witch I*, once upgraded exiles and deals enough weak for the whole fight, frees up space in the deck
+- *Forgotten priestess*, not a lot of weak but its on all enemies and protects you from block, frail, wound and sometimes curse, but not silence unfortunately
+
+- *Keyra, the Shy Soul [ANCIENT]*, doesn't give a lot of weak but is ancient and can give shields
+- *Necromancer acolyte*, give a litle more weak, damage is pointless but curse can be annoying
+
+### Resistance
+- *Blue witch*, can give 4 res, incredible on magic focused deck and still decent otherwise
+- *Sigil essence*, 2 res and immune, very good option
+- *Sun priestess*, gives 2 res but has bad synergy with demons (*Melgaroth*) so usually avoid it 
+
+- *Druid of the high elves*, mana cost is pretty high but gives 2 res and immune ultimately
+- *Dhorion, the holy Sentienl [ANCIENT]*, gives 1 res at the end of every turn if played right, plus armor. Little slow but combined with first turn protection (immune, daze, skills) it's the best resistance option
+- *Wizard of Nature*, doubles the res, only take it if you already have other means of getting some res
+- *Gorgrirath [DEMON]*, converts burns to temporary res, combine it with *Wizard of Nature* to make it permanent or with armor to use it to get high shields that you will keep for other turns
+
+### 
 - *Apprentice guard*, great scaling shield effect when combined with some resistance and wizard's mana
 - *Wizard I*, long quest to complete but easier for wizard since you're only playing magic cards. One of the few quest cards worth taking on high inferno.
 - *Young witch*, easy 3 mana and overcharge with weak from *mud golem*
