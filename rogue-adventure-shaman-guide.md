@@ -430,10 +430,11 @@ You don't care about the price, but some cheap skills might still be better. The
 ## Weak :
 - *Dark wall*, good way of ensuring weak from the start, not priority but good option
 - *Weak dagger*, if you don't find anything else you can take it to have a little more weak, on single enemies you won't have to play your weak cards anymore
+- *Dark magic*, normally expensive but here can reduce enemy damage quite a lot since you will weaken them anyway
 
 ## Other :
 - *Phantom spear*, a lot of additional damage if you have enough amgic cards
-- *Dark sigil*, rarely playable in void but if you get the right deck you could take it
 - *Blessing of sanctuary*, saves you in case of a problem
 - *Phoenix feather*, same as above
-- *Opal stone*, normally very expensive, it helps you make use of race scaling defense cards like *Lullyp [BEASTMAN][FAIRY]*, *Mystic bird*, *Demon guard [DEMON]*, etc, or even fairy spawns. You can also make use of *Magic cat* for res, and maybe the other magic animals as free mana remove cards (maybe even get chimera).
+- *Dark sigil*, rarely playable in void but if you get the right deck you could take it
+- *Opal stone*, normally very expensive, it helps you make use of race scaling defense cards like *Lullyp [BEASTMAN][FAIRY]*, *Mystic bird*, *Demon guard [DEMON]*, etc, or even fairy spawns. You can also make use of *Magic cat* for res, and maybe the other magic animals as free mana remove cards (maybe even get *Chimera*).
