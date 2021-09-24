@@ -64,7 +64,7 @@ Every class unlocks a new class bonus after inferno 2, 5 and 10.
 **Class bonus 3** - Heal 2 hp every time you change form. Once unlocked this is the best class bonus up to I30 or so. It will help you recover and synergies pretty well with the class upgrade and *dark sigil* (skill).
 
 All shaman class bonuses are nice and despite my advice you can play with whatever you find most fun. However on very high infernos the second one will be best because enemies have too much HP to be killed with thunder and they deal too much damage to recover it with class bonus 3.
-This is also because you will want to use cards like *Melgaroth[ANCIENT][DEMON]* that synergies with burns.
+This is also because you will want to use cards like *Melgaroth [ANCIENT][DEMON]* that synergies with burns.
 
 ## Starting bonus
 
@@ -75,7 +75,7 @@ That said, in high infernos you will restart a lot and taking time to get the st
 
 **2 Gems** - Never pick this. 100 Coins is worth more.
 
-**100 Coins** - This is the consistency choice, I recommend it up to I30, if you want you can keep using it until I49 where rare card or skill is necessary to win first fight.
+**100 Coins** - This is the consistency choice, I recommend it up to I30, if you want you can keep using up to I49, after that rare card or skill is necessary to win first fight.
 
 **Random Rare** - This is probably your best option past I49. There are a few nice starting bonuses that will help you, but the very best is *Melgaroth, Keeper of Flames [ANCIENT][DEMON]* which can bring you up to I105 on 2nd class bonus.
 However you might end up with a useless card most of the time, wasting your starting bonus, which is why I recommend it only once first fight becomes impossible.
@@ -83,12 +83,12 @@ However you might end up with a useless card most of the time, wasting your star
 **Random Skill** - You can try your luck here, but there are a lot of skills. Most of the time you will get something barely useful if not completely useless. However it can be nice if you want a little help in the run and they're almost never bad.
 The theoretical max inferno for shaman is I121 and you can only do it with *Dark Sigil* and 3rd class bonus. But because you are very unlikely to get it and you will probably die before you find some healing, you should do this only past I105 when it's your only chance of survival.
 
-If you are interested in theoretical limits and records, you can check https://docs.google.com/spreadsheets/d/18iEOCVwMW5eJfRHM1KzpZFG6p_egl5-_/edit?rtpof=true. Just say ask @Gerr for access. You can contact him on discord. 
+If you are interested in theoretical limits and records, you can check https://docs.google.com/spreadsheets/d/18iEOCVwMW5eJfRHM1KzpZFG6p_egl5-_/edit?rtpof=true. Just ask @Gerr for access. You can contact him on discord. 
 
 ## Picking your path
 
 To maximize your chances of survival, you want a path that gives you the most Merchants and Chests, and the least Elites.
-In world 1, you will want a Merchant early to prepare for the rest of the world, and one close to the Boss so you can use all the Coins you've accumulated so far to prepare for the Boss fight.
+In world 1, you will want a Merchant early to prepare for the rest of the world, and one close to the Boss so you can use all the Coins you've accumulated so far to prepare for the Boss fight. Up to I30 you can go for merchant after 2 fights, but after that you will want merchant after first fight.
 In other worlds you can afford to wait a little longer for the first market.
 
 ## General deck strategy
