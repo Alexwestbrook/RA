@@ -61,7 +61,7 @@ Every class unlocks a new class bonus after inferno 2, 5 and 10.
 
 **Class bonus 2** - Fire points will apply 6 burns to all enemies instead of 3. This is the best bonus for very high infernos (I30+) because the burns will be your main source of damage. You can also use it early but it might not be as good as the others.
 
-**Class bonus 3** - Heal 2 hp every time you change form. Once unlocked this is the best class bonus up to I30 or so. It will help you recover and synergies pretty well with the class upgrade and dark sigil.
+**Class bonus 3** - Heal 2 hp every time you change form. Once unlocked this is the best class bonus up to I30 or so. It will help you recover and synergies pretty well with the class upgrade and *dark sigil* (skill).
 
 All shaman class bonuses are nice and despite my advice you can play with whatever you find most fun. However on very high infernos the second one will be best because enemies have too much HP to be killed with thunder and they deal too much damage to recover it with class bonus 3.
 This is also because you will want to use cards like *Melgaroth[ANCIENT][DEMON]* that synergies with burns.
