@@ -75,12 +75,12 @@ However you might end up with a useless card most of the time, wasting your star
 **Random Skill** - You can try your luck here, but there are a lot of skills. Most of the time you will get something barely useful if not completely useless. Random Rare is more likely to give you a good result if you're struggling.
 The theoretical max inferno for wizard is I119 and you can only do it with *Dark Sigil*. But because you are very unlikely to get it and you will probably die before you find some healing, you should do this only past I61 when it's your only chance of survival.
 
-If you are interested in theoretical limits and records, you can check https://docs.google.com/spreadsheets/d/18iEOCVwMW5eJfRHM1KzpZFG6p_egl5-_/edit?rtpof=true. Just say ask @Gerr for access. You can contact him on discord. 
+If you are interested in theoretical limits and records, you can check https://docs.google.com/spreadsheets/d/18iEOCVwMW5eJfRHM1KzpZFG6p_egl5-_/edit?rtpof=true. Just ask @Gerr for access. You can contact him on discord. 
 
 ## Picking your path
 
-To maximize your chances of survival, you want a path that gives you the most Merchants and Chests, and the least Elites.
-In world 1, you will want a Merchant early to prepare for the rest of the world, and one close to the Boss so you can use all the Coins you've accumulated so far to prepare for the Boss fight.
+To maximize your chances of survival, you want a path that gives you the most merchants and chests, and the least elites.
+In world 1, you will want a merchant early to prepare for the rest of the world, and one close to the Boss so you can use all the coins you've accumulated so far to prepare for the boss fight. Up to I30 you can go for merchant after 2 fights, but after that you will want merchant after first fight.
 In other worlds you can afford to wait a little longer for the first market.
 
 ## General deck strategy
@@ -104,7 +104,7 @@ Most of the time you should be taking 1 Gem after a fight, unless you see a card
 Don't take random cards just because they are free, because they can clog up your hand and make it harder to win.
 Even if you see a card that would be good for late game, you may not want to take it early. For early game, prioritize cards that will help you survive.
 
-## What to do at the Merchant
+## What to do at the merchant
 
 **Heal** - When your HP is low and your defense is not well developed yet, I recommend healing at the Merchant rather than buying a card that will heal you slowly.
 If you're HP is still over 50% and you think you can survive until the next Merchant, you don't need to heal.
