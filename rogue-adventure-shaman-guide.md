@@ -366,5 +366,74 @@ These you need to be aware of because you might want to switch to one if you hav
 - *Key of the portal* (skill) can be brought back by *Azahr the exiled wizard [ANCIENT]* without any overcharge and you can even gain mana infinitely that way. Provided your deck is small enough, that easily becomes a first turn kill.
 - *Heroic Blacksmith* with *V01-B01 [ROBOT]* and a 4 card deck, harder to pull off but it's another idea if the stars align
 
-Note that all of these require small enough deck (sometimes 4 cards), which is another reason to have small decks.
-Keep in mind that these loops still have enemies that can be annoying (silence debuff, backfire damage...) so you will still have to prepare for that
+
+## What changes in void mode
+
+Void mode is very different, for starters you don't have a class bonus, which makes some classes much weaker, but shaman stays decent in void mode. You also get a deck with 15 cards including your base 8 and 7 randoms. You can never change the amount of cards and you can only transform 3 of them randomly after normal fights. This means that you need a lot of luck to get a good deck, but you can influence that along the way. You also get to chose 2 skills among 6 after each elite, regardless of price, skill choice is what saves you and can make the next fights a lot easier. You can get your class upgrade after first boss or healing, but I recommend taking the healing after second boss.
+All the fights are in the void worlds which makes them pretty hard. First world is Void I which is usually a world 2. Normal fights are already pretty hard and the twisted void essence is a super hard elite to fight with not much more than the deck you were given to start with.
+You also need to pay attention to debuffs since void enemies deal a lot of block, silence, wound and curse.
+Note that in every world you have 3 nrmal fights, 2 elites and 1 boss, so you will encounter every void enemy once, only the rder can vary.
+
+In terms of deck strategy you need to keep some exile cards to thin your deck, otherwise you will never dra the cards you want. As Shaman you have no use for attack cards so change them asap. Free mana cards that exile are good, spirit cards are good too because you can always change them once the quest is complete. Get rid of your mages once you find better weak cards (dealing weak to all enemies), keep your totems until you got rid of all the useless attack cards, once you have some better shield cards (even with flat values) you can remove one copy of each totem. But you should keep two of each to be able to draw them reliably.
+
+It's hard to find mana, immunes/daze and res in void, so take whatever you are given, just don't take mermaid queen, quest is impossible to complete. Sapphire guard is very good and you might want two just to draw him every turn, unless you found another mana card.
+
+You will need to heal the hp loss in first world and from wound in other worlds but you don't really have a deck capable of tanking hits to heal. Just keep one healing card in case you have an opportunity, if it exiles it's great. Getting *Nephil [ANGEL]* is very good too or you can use a skill.
+
+### Skills
+You don't care about the price, but some cheap skills might still be better. They can really help you make up for the lack of mana, immunes/daze and res.
+
+### Mana :
+- *Demon eye*, always a great choice
+- *Mana dagger*, great in void mode, since you're unlikely to get an overcharge mana card, it won't interfere with anything. If you play *Sou [ANCIENT]* or *Sapphire Guard* first you still get mana from both
+- *Necronomicon*, good choice, by the time you get it you will probably be below 50% hp anyway so you won't lose any hp. But it can make it hard to defeat the Void sword master (Void III elite).
+- *Key of the portal*, good help first turn, works as protection for your big deck
+- *Mana Battery*, great skill, specially against void absorber (Void II boss) to save mana for shielding later and Void King/Queen to not use your last mana and make sure you don't have any Void globes in your hand
+
+### Immune/daze :
+- *Invisibility potion* is good, the fact that its cheap doesn't mean anything
+- *Ice block* is good
+- *Frost nova* is great, first turn protection is fantastic with the 15 card deck, leaves you time to play all the exile
+- *Freezing shot* is good, you won't have a lot of mana so it's harder to use but since most hard void enemies are solitary it can work very well
+- *Perfect crystal* is decent, fights will usually take at least 5 turns so you will get to use the immune, but it's not always useful
+
+### Res :
+- *Purple potion*, good if you have *demon eye* not really worth it otherwise
+- *Book of resistance* is okay, it might be your only res in the entire run
+- *Piece of coal* is great, you can restart the fights to avoid annoying debuffs
+- *Stone skin* is great too, in the first figths you will often be under 50% HP
+- *Kunai attack* isn't great, but if you have enough mana and combat cards you can get some res
+
+### Avoid debuffs :
+- *Rabbit paw*, avoid curse, good against Greater void essence (Void I normal and elite), The Unknown (Void I boss) and great against Void King/Queen to avoid having a void globe trapped
+- *Scorpion claw*, avoid frail, decent against The Unknown and Evil Fusion (Void II elite)
+- *Tear of goddess*, avoid silence and block, great against Trident and Slashing Void guardian (Void II normal)
+
+### Shields :
+- *Ghost shield*, not great but first turn protection, specially against Void sword master
+- *Shield of shadows*, not great, you won't be playing many exile after first turn
+- *Bones armor*, bad for shaman because you will usually get shields form playing your totems
+- *Solid shell*, 10 shields every 2 turns reasonably, decent
+- *Circular shield*, 10 shield per turn reasonably, decent
+- *Rock dagger*, decent reliable shields
+- *Darkness boots*, good shields against multiple enemies, you will want to keep your enemies weaken anyway, less good against single enemies
+
+### Healing :
+- *Kraken tentacle*, great healing at decisive moment, can save you if you reach first world boss with it
+- *Potion maker*, decent healing
+- *Soul drain*, decent healing
+- *Necklace of life*, great healing when in danger, useful in world 1
+- *Book of magic*, great if you can get enough mana to get it every turn, otherwise with some free exile cards like *old jester* you might be able to make it work once per fight which is still decent
+- *Bone staff*, good healing, always 3 per enemy dead
+- *Amulet of healing*, good healing option, you usually have a healing card in your deck anyway
+
+## Weak :
+- *Dark wall*, good way of ensuring weak from the start, not priority but good option
+- *Weak dagger*, if you don't find anything else you can take it to have a little more weak, on single enemies you won't have to play your weak cards anymore
+
+## Other :
+- *Phantom spear*, a lot of additional damage if you have enough amgic cards
+- *Dark sigil*, rarely playable in void but if you get the right deck you could take it
+- *Blessing of sanctuary*, saves you in case of a problem
+- *Phoenix feather*, same as above
+- *Opal stone*, normally very expensive, it helps you make use of race scaling defense cards like *Lullyp [BEASTMAN][FAIRY]*, *Mystic bird*, *Demon guard [DEMON]*, etc, or even fairy spawns. You can also make use of *Magic cat* for res, and maybe the other magic animals as free mana remove cards (maybe even get chimera).
