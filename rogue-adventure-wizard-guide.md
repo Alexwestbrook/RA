@@ -3,14 +3,14 @@
 
 ## Introduction
 
-Wizard is the class you unlock after winning a Warrior run, see https://gist.github.com/adufilie/d9f42d6fbc7fe5dc1f7874e8f4f35572 for a great warrior guide @fooblizoo did already. This guide is mostly inspired by his.
+Wizard is the class you unlock after reaching level 2, it's the second class you can play after warrior, see https://gist.github.com/adufilie/d9f42d6fbc7fe5dc1f7874e8f4f35572 for a great warrior guide @fooblizoo did already. This guide is mostly inspired by his.
 
 Unlike warrior, wizard focuses on magic cards rather than combat, he has less HP and less defense in his base cards but he has a built in attack strategy with magic points.
-Whenever you play a magic card, you gain a magic point on your magic counter. Then when you play *energy golem* you can deal damage equal to your magic counter. This suggests to use *energy golem* as attack strategy and use your others cards to either increase your magic counter and/or defend yourself.
+Whenever you play a magic card, you gain a magic point on your magic counter. Then when you play *Energy golem* you can deal damage equal to your magic counter. This suggests to use *Energy golem* as attack strategy and use your others cards to either increase your magic counter and/or defend yourself.
 Wizard also tends to have more mana which helps get the magic points and make the fights easier by playing more cards every turn.
 
-Contrary to warrior, from inferno 1 to 10? World 1 can be done with not much more than base deck.
-However past inferno 10 it becomes the most difficult part of the run, because you need to improve your deck quickly before first elite and then to defeat *Gorilla King* or *Evil Forest Guardian*.
+Contrary to warrior, from inferno 1 to 10, World 1 can be done with not much more than base deck.
+However past inferno 10 it becomes the most difficult part of the run, because you need to improve your deck quickly before first elite and then to defeat *Gorilla king* or *Evil forest guardian*.
 You will lose some runs early simply because you didn't find any good cards. Don't feel too bad about it.
 
 ### Purpose of this Guide
