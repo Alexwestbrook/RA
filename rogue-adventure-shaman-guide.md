@@ -296,7 +296,13 @@ rare
 ## Attack strategies
 
 Your attack strategy with Shaman will come from your shaman points. You don't need raw attack cards, only take them if they help you defend.
-If you are playing 1st class bonus, *Beast emperor [BEASTMAN]* is the card you want for double damage on thunder points. If you're playing with 2nd or 3rd, *Melgaroth* is the best offense card. Take only one of the two and only one copy. Rest is defense. Finally with 3rd class bonus you can take *Dark sigil* skill because you can recover the hp loss and it will let you play roughly double the amount of cards in your turn (so more shaman points and defense too).
+
+If you are playing 1st class bonus, *Beast emperor [BEASTMAN]* is the card you want for double damage on thunder points.
+
+If you're playing with 2nd or 3rd, *Melgaroth* is the best offense card, and provides occasional defense too.
+
+Finally with 3rd class bonus you can take *Dark sigil* skill because you can recover the hp loss and it will let you play roughly double the amount of cards in your turn (so more shaman points and defense too).
+
 My preference goes to 2nd class bonus *Melgaroth* because it provides defense as wall as offense and it's easier to get a rare card than an expensive skill. Then 3rd class bonus *Dark sigil* is probably the most powerful and also provides defense, but harder to find the skill, plus it can also use *Melgaroth*. And finally 1st class bonus *Beast emperor [BEASTMAN]* doesn't provide much defense at all. You can also use *Melgaroth* but it would be expensive and you would be having too many attack cards IMO.
 
 What follows are some example of builds you can use for defense. Most of them I tested with 2nd class bonus but you can adapt them with other attack strategies.
