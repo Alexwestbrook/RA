@@ -57,7 +57,7 @@ Note that the totem card played will count as first card played in the new form,
 
 Every class unlocks a new class bonus after inferno 2, 5 and 10.
 
-**Class bonus 1** - Thunder points will deal 8 damage to all enemies instead of one random. Beware that this changes thunder damage to be affected by double damage, weak, dark grasp and to trigger rockhorn, electric jellyfish or sapphire drake. This class bonus is very good in early infernos (I1-10) but it gets obsolete once enemies start having too much HP.
+**Class bonus 1** - Thunder points will deal 8 damage to all enemies instead of one random. Beware that this changes thunder damage to be affected by double damage, weak, dark grasp and to trigger *Rockhorn*, *Electric jellyfish* or *Sapphire drake*. This class bonus is very good in early infernos (I1-10) but it gets obsolete once enemies start having too much HP.
 
 **Class bonus 2** - Fire points will apply 6 burns to all enemies instead of 3. This is the best bonus for very high infernos (I30+) because the burns will be your main source of damage. You can also use it early but it might not be as good as the others.
 
@@ -244,7 +244,7 @@ rare
 rare
 - *Melgaroth, keeper of flames [ANCIENT][DEMON]*, doubles the burn when in your hand, and gives a shield option. Very powerful and interesting card, specially with 2nd class bonus. It can even be used for a shield bash strategy with some armor. Works best on small decks
 - *Beast emperor [BEASTMAN]*, doubles damage from thunder points if you have 1st class bonus
-- *Witch of flames*, I normally wouldn't recommend it, it's definitely not worth buying, but with *Melgaroth* the double burn turn into triple and the triple into multiplying by 5. It can be useful to kill *Gorilla* or other powerful single enemies, and you can always convert the burns back to shields with *Melgaroth*
+- *Witch of flames*, I normally wouldn't recommend it, it's definitely not worth buying, but with *Melgaroth* the double burn turn into triple and the triple into multiplying by 5. It can be useful to kill *Gorilla king* or other powerful single enemies, and you can always convert the burns back to shields with *Melgaroth*
 
 ### Money
 uncommon
