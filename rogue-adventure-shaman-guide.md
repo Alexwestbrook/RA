@@ -18,6 +18,7 @@ As for any class, World 1 will become the most difficult part of the run, becaus
 
 This guide aims to help both beginners in low infernos (1-10) and advanced players in high infernos (20+). Some advice applies for both and some is more specific.
 This guide is any game mode, the first part is meant for classic and should apply to hell which is quite similar. And the last part is about what is different in void mode.
+
 Finally I do not take into account when the cards are unlocked, if you haven't all the cards unlocked yet (level 30) you can read this guide and try with the cards available to you, but I strongly recommend trying stuff by yourself to learn which cards are good, which ones are bad and which ones synergies well together.
 
 ## Some important tricks to know
@@ -28,6 +29,7 @@ There is one map which has a Merchant after the first fight.
 
 You can restart a fight. Quit from the menu and select continue to restart the fight from the beginning.
 Do this if you make a critical error or an important random outcome is not favorable.
+
 *Key of the Portal* (Skill) protects you from a bad starting hand. Combine with the restart fight trick above to get the best results.
 Besides *Key of the Portal*, there are other ways to alter the outcome of your first few turns. Although the starting hand and starting deck order for a fight is fixed, there are a few cards which produce random outcomes that can be optimized by restarting the fight. Some examples: *Old Jester*, *Cthool Acolyte*, *Cthool Apprentice*.
 *Night Fairy [FAIRY]* shuffles your deck, so you could play *Night Fairy [FAIRY]* during your first turn just to escape a bad opening shuffle.
@@ -37,6 +39,7 @@ Similarly, if you can run through your cards once and trigger a new shuffle, you
 
 You have a thunder form and a fire form. Playing the totem of the other form will make you change form. Every time you play a card you gain 1 thunder or fire point depending
 on your current form, changing form will reset counter to 0 and release 8 damage to a random enemy per thunder point or 3 burns to all enemies per fire point.
+
 Note that the totem card played will count as first card played in the new form, so the counter will be at one after changing form. The thunder damage is unaffected by strength, double damage or weak, and doesn't count as a hit one enemies with backfire damage.
 
 **Class upgrade**: After changing form you keep half the points from the previous form. It is rounded down but you will get your extra point from the totem. 5 points will become 2, then 3 with the totem. 2 will become 1, then 2 again with the totem, so switching form every card played will result in double points compared to without class upgrade, but switching rarely will result more in +50% points.
