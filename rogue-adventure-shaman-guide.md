@@ -11,8 +11,8 @@ Your ability lets you stack thunder or fire points everytime you play a card and
 (less so with class upgrade) so you have to build it again everytime. Even so, this ability deals a lot of damage and shaman is a class that can get huge burn stacks that can do all the killing. Your deck should be mostly focused on defense.
 
 Shaman has many options when it comes to building its deck. You can focus on magic or combat cards, or do a mix of both. From inferno 1 to 10, you can focus on inflicting burns or just using the thunder damage but in higher infernos only the burns will let you kill high HP enemies.
-As for any class, World 1 will become the most difficult part of the run, because you need to improve your deck quickly before first elite and then to defeat *Gorilla King* or *Evil Forest Guardian*.
-You will lose some runs early simply because you didn't find any good cards. Don't feel too bad about it.
+
+As for any class, World 1 will become the most difficult part of the run, because you need to improve your deck quickly before first elite and then to defeat *Gorilla King* or *Evil Forest Guardian*. You will lose some runs early simply because you didn't find any good cards. Don't feel too bad about it.
 
 ### Purpose of this Guide
 
