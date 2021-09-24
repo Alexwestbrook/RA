@@ -40,7 +40,7 @@ Similarly, if you can run through your cards once and trigger a new shuffle, you
 You have a thunder form and a fire form. Playing the totem of the other form will make you change form. Every time you play a card you gain 1 thunder or fire point depending
 on your current form, changing form will reset counter to 0 and release 8 damage to a random enemy per thunder point or 3 burns to all enemies per fire point.
 
-Note that the totem card played will count as first card played in the new form, so the counter will be at one after changing form. The thunder damage is unaffected by strength, double damage or weak, and doesn't count as a hit one enemies with backfire damage.
+Note that the totem card played will count as first card played in the new form, so the counter will be at one after changing form. The thunder damage is unaffected by strength, double damage or weak, and doesn't count as a hit on enemies with backfire damage.
 
 **Class upgrade**: After changing form you keep half the points from the previous form. It is rounded down but you will get your extra point from the totem. 5 points will become 2, then 3 with the totem. 2 will become 1, then 2 again with the totem, so switching form every card played will result in double points compared to without class upgrade, but switching rarely will result more in +50% points.
 
