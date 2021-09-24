@@ -25,7 +25,7 @@ Finally I do not take into account when the cards are unlocked, if you haven't a
 
 When starting a run, you can pick the map you want while keeping your starting bonus. Before you pick your starting bonus, try looking in the background to see if it's the map you want. If not, kill the app and re-open it, then start a new run instead of continuing. Your starting bonus will still be offered in the new run.
 On very high Infernos (30+) this is a must, as you likely won't be able to survive two consecutive battles before the first Merchant.
-There is one map which has a Merchant after the first fight.
+There are two maps which have a merchant after the first fight (they are very similar).
 
 You can restart a fight. Quit from the menu and select continue to restart the fight from the beginning.
 Do this if you make a critical error or an important random outcome is not favorable.
@@ -87,8 +87,8 @@ If you are interested in theoretical limits and records, you can check https://d
 
 ## Picking your path
 
-To maximize your chances of survival, you want a path that gives you the most Merchants and Chests, and the least Elites.
-In world 1, you will want a Merchant early to prepare for the rest of the world, and one close to the Boss so you can use all the Coins you've accumulated so far to prepare for the Boss fight. Up to I30 you can go for merchant after 2 fights, but after that you will want merchant after first fight.
+To maximize your chances of survival, you want a path that gives you the most merchants and chests, and the least elites.
+In world 1, you will want a merchant early to prepare for the rest of the world, and one close to the Boss so you can use all the coins you've accumulated so far to prepare for the boss fight. Up to I30 you can go for merchant after 2 fights, but after that you will want merchant after first fight.
 In other worlds you can afford to wait a little longer for the first market.
 
 ## General deck strategy
