@@ -230,13 +230,13 @@ Most of the fairy spawn cards give more cards based on number of fairies in your
 You will eventually run out of spawn cards and will have to finish the fight without them. *Energy golem* will do all the damage but you need a good defense card. *Apprentice guard* is always a good option for wizard but with the fairy spawn strategy, your fairy race counter lets you use *Fairy warrior [FAIRY]*, *Lullyp [BEASTMAN][FAIRY]* or *Mystic bird* as scaling defense cards.
 
 Important to know about this strategy is that it is slow, playing all the fairy spawn cards takes time at the beginning of the fight and leaves you vulnerable.
-You can use *Elder fairy [FAIRY]* to get extra mana to play all the fairy spawns, you can use immune to protect your self while doing so, and finally once you have enough fairy spawns you can take *Dark sigil*. This will let you play all your magic cards for 2 HP instead of mana. Since most spawns heal 3 under 50% HP, you will be able to maintain HP while playing all your spawns. But be very careful not to die before you get to them or once you've played them all and don't have any healing left.
+You can use *Elder fairy [FAIRY]* to get extra mana to play all the fairy spawns, you can use immune to protect yourself while doing so, and finally once you have enough fairy spawns you can take *Dark sigil*. This will let you play all your magic cards for 2 HP instead of mana. Since most spawns heal 3 under 50% HP, you will be able to maintain HP while playing all your spawns. But be very careful not to die before you get to them or once you've played them all and don't have any healing left.
 For that you can use skills like *Book of magic* which heals half of the HP loss, or *Nephil [ANGEL]* who heals you 6 HP when below 50%.
 
 ### Fairy spawn cards:
 
 - *Fairy princess [FAIRY]*, doesn't rely on number of fairies but number of magic cards in hand, very good early
-- *Red bloom [FAIRY]*, not great but is a fairy spawn, poison can let you complete quest for *Medusa [BEASTMAN]*
+- *Red bloom [FAIRY]*, not great but is a fairy spawn, poison can let you complete quest for *Medusa [BEASTMAN] I*
 - *Blue bloom [FAIRY]*, good because gives shield
 - *Blessed fairy [FAIRY][ANGEL]*, good because attacks, shields and heals, but it depends on number of angels.
 
