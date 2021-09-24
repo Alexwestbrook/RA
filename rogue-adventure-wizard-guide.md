@@ -17,34 +17,36 @@ You will lose some runs early simply because you didn't find any good cards. Don
 
 This guide aims to help both beginners in low infernos (1-10) and advanced players in high infernos (20+). Some advice applies for both and some is more specific.
 This guide is for classic mode, it should apply to hell which is quite similar but probably not to void where many new strategies can appear.
+
 Finally I do not take into account when the cards are unlocked, if you haven't all the cards unlocked yet (level 30) you can read this guide and try with the cards available to you, but I strongly recommend trying stuff by yourself to learn which cards are good, which ones are bad and which ones synergies well together.
 
 ## Some important tricks to know
 
 When starting a run, you can pick the map you want while keeping your starting bonus. Before you pick your starting bonus, try looking in the background to see if it's the map you want. If not, kill the app and re-open it, then start a new run instead of continuing. Your starting bonus will still be offered in the new run.
-On very high Infernos (30+) this is a must, as you likely won't be able to survive two consecutive battles before the first Merchant.
-There is one map which has a Merchant after the first fight.
+On very high infernos (30+) this is a must, as you likely won't be able to survive two consecutive battles before the first Merchant.
+There are two maps which have a merchant after the first fight (they are very similar).
 
 You can restart a fight. Quit from the menu and select continue to restart the fight from the beginning.
 Do this if you make a critical error or an important random outcome is not favorable.
-*Key of the Portal* (Skill) protects you from a bad starting hand. Combine with the restart fight trick above to get the best results.
-Besides *Key of the Portal*, there are other ways to alter the outcome of your first few turns. Although the starting hand and starting deck order for a fight is fixed, there are a few cards which produce random outcomes that can be optimized by restarting the fight. Some examples: *Old Jester*, *Cthool Acolyte*, *Cthool Apprentice*.
-*Night Fairy [FAIRY]* shuffles your deck, so you could play *Night Fairy [FAIRY]* during your first turn just to escape a bad opening shuffle.
+
+*Key of the portal* (Skill) protects you from a bad starting hand. Combine with the restart fight trick above to get the best results.
+Besides *Key of the portal*, there are other ways to alter the outcome of your first few turns. Although the starting hand and starting deck order for a fight is fixed, there are a few cards which produce random outcomes that can be optimized by restarting the fight. Some examples: *Old jester*, *Cthool acolyte*, *Cthool apprentice*.
+*Night fairy [FAIRY]* shuffles your deck, so you could play *Night fairy [FAIRY]* during your first turn just to escape a bad opening shuffle.
 Similarly, if you can run through your cards once and trigger a new shuffle, you may restart the fight if you find that the second shuffle isn't so good.
 
 ## Description of abilities:
 
-Gain 1 magic point (MP) per magic card played. These magic points determine *energy golem*'s damage.
+Gain 1 magic point (MP) per magic card played. These magic points determine *Energy golem*'s damage.
 
-**Class upgrade**: At 10 MP you get a first sphere, and at 20 you get a second one. Each sphere gives you +1 base mana at the start of your turn (if you reach 10 MP during your turn, you only get the mana next turn) and makes *golem warrior* attack once more.
+**Class upgrade**: At 10 MP you get a first sphere, and at 20 you get a second one. Each sphere gives you +1 base mana at the start of your turn (if you reach 10 MP during your turn, you only get the mana next turn) and makes *Golem warrior* attack once more.
 
 **Base deck**:
 
-4x *Golem warrior* : deal 4 damage, attacks once more per sphere (this becomes a multihit attack with spheres, beware of enemies with effect based on number of hits : mushrooms, rockhorn, electric jellyfish, greater void essence, demon of the deep, chaos nest, black furry, queen of snakes, bone commander)
+4x *Golem warrior* : deal 4 damage, attacks once more per sphere (this becomes a multihit attack with spheres, beware of enemies with effect based on number of hits : *Mushrooms*, *Rockhorn*, *Electric jellyfish*, *Greater void essence*, *Demon of the deep*, *Chaos nest*, *Black furry*, *Queen of snakes*, *Bone commander*)
 
 3x *Mud golem* : deal 2 damage, gain 3 shields, apply 3 weak
 
-1x *Energy golem* : deal damage equal to magic points to all enemies (this is pure damage, unaffected by strength, double damage, weak or dark grasp. It also doesn't count as a hit on mushrooms, rockhorn, electric jellyfish and sapphire drake)
+1x *Energy golem* : deal damage equal to magic points to all enemies (this is pure damage, unaffected by strength, double damage, weak or dark grasp. It also doesn't count as a hit on *Mushrooms*, *Rockhorn*, *Electric jellyfish* and *Sapphire drake*)
 
 ## Class bonus
 
