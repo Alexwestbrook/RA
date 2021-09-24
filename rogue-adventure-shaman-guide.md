@@ -4,7 +4,7 @@
 ## Introduction
 
 Shaman is a class you unlock after reaching level 16, you will probably have played a couple other classes before him.
-For guides about other classes I invite you to check https://gist.github.com/adufilie/d9f42d6fbc7fe5dc1f7874e8f4f35572 for a great warrior guide by @fooblizoo and for a wizard guide by me.
+For guides about other classes I invite you to check https://gist.github.com/adufilie/d9f42d6fbc7fe5dc1f7874e8f4f35572 for a great warrior guide by @fooblizoo and https://github.com/Alexwestbrook/RA/blob/6c9d757bc5b681b46f8e2e07ab3dedd28ece8a52/rogue-adventure-wizard-guide.md for a wizard guide by me.
 
 Shaman can be a hard class to understand at first because there is no clear strategy to play it. However it is a very powerful class early if you play it right and it can get really strong.
 Your ability lets you stack thunder or fire points everytime you play a card and release them with the totems. Unlike wizard or necromancer, once released you lose your stack
