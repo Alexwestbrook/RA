@@ -141,6 +141,7 @@ Similarly, when you have 7 Gems you can afford the *Gold Ingot* skill which give
 - *Sapphire guard*, mana isn't great but it also gives shield, decent option before you get one of the above, but you still want another overcharged mana card. It can synergies with *Lady of the Knight* for a combat card focused deck.
 - *Young witch*, gives a lot of mana but exiles so can only be used once
 
+
 - *Souls priestess*, best option for early mana and searching through the deck
 - *Souls guardian*, good mana early
 - *Lady of the Knight*, good mana if deck focused on combat card
