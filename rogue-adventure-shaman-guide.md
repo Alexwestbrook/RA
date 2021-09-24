@@ -66,7 +66,7 @@ This is also because you will want to use cards like *Melgaroth[ANCIENT][DEMON]*
 ## Starting bonus
 
 You get a starting bonus after every time you've completed first world. You don't have to use a starting bonus but it helps. If you lose in World 1, play a different class or inferno level to beat the first Boss and earn your next starting bonus. If you're trying to advance other classes at the same time, you can take this as an opportunity to alternate between them and shaman. If you want the starting bonus ASAP, pick Barbarian or Ranger, choose Normal difficulty, and you can beat World 1 in one to two minutes.
-You can quit immediately after defeating the Boss, on the rewards screen. (You can also use Shaman with 1st class bonus on Normal, but switching class bonuses isn't a great idea)
+You can quit immediately after defeating the Boss, on the rewards screen. (You can also use Shaman with 1st class bonus on Normal, but switching class bonuses isn't a great idea).
 That said, in high infernos you will restart a lot and taking time to get the starting bonus isn't always worth it. You can also just restart enough until you get some good rewards and shops.
 
 **2 Gems** - Never pick this. 100 Coins is worth more.
