@@ -148,52 +148,64 @@ uncommon
 - *Lady of the Knight*, good mana if deck focused on combat card
 
 ### Other mana cards
+common
 - *Old jester*, free to play, exiles and can search for a rare card
 - *Spirit of magic I [ANCIENT]*, free to play early and deals weak, still good once upgraded but no longer a free mana card, also is ancient
 - *Spirit of defense I [ANCIENT]*, free to play early and a little defense, pretty bad once upgraded though, only take early for a little help or if ancient build
 - *Fairy princess [FAIRY]*, not free to pley but gives other free cards and exiles, decent for early fight and gives some healing
 
+uncommon
 - *Sou, the blade of wind [ANCIENT]*, gives good mana if played first, good option all game long unless you are going for a 4 card *circular shield* deck, also is ancient
 - *Moon fairy [FAIRY]*, free mana card and search option
 - *High priest*, free mana card but bad search option
 - *Magic leaf*, activation is free, can give decent shield and can also be used as weak option even though it doesn't affect all enemies. It can transition into a *dark sigil* first turn kill deck too
 
+rare
 - *V01-B01 [ROBOT]*, gives mana without having to be played but doesn't work if overcharged (not great with *Souls priestess/guardian*), resistance is decent too
 - *Elder fairy [FAIRY]*, great setup card, removes so can only be used once, worth duplicating.
 
 ### Weak (1)
+common
 - *Spirit of magic I [ANCIENT]*, great for weak and mana early, great for weak on all enemies once upgraded, best option
 - *High witch I*, once upgraded exiles and deals enough weak for the whole fight, frees up space in the deck
 - *Forgotten priestess*, not a lot of weak but its on all enemies and protects you from block, frail, wound and sometimes curse, but not silence unfortunately
 
+uncommon
 - *Keyra, the Shy Soul [ANCIENT]*, doesn't give a lot of weak but is ancient and can give shields
 - *Necromancer acolyte*, give a litle more weak, damage is pointless but curse can be annoying
 
 ### Resistance
+uncommon
 - *Blue witch*, can give 4 res, incredible on magic focused deck and still decent otherwise
 - *Sigil essence*, 2 res and immune, very good option
 - *Sun priestess*, gives 2 res but has bad synergy with demons (*Melgaroth*) so usually avoid it 
 - *Fairy queen [FAIRY] I*, bad before the quest and hard one to complete, but on low inferno you might have time to play it 30 times and get the quest done, decent res after the quest but not amazing for the effort
 
+rare
 - *Druid of the high elves*, mana cost is pretty high but gives 2 res and immune ultimately
 - *Dhorion, the holy Sentienl [ANCIENT]*, gives 1 res at the end of every turn if played right, plus armor. Little slow but combined with first turn protection (immune, daze, skills) it's the best resistance option
 - *Wizard of Nature*, doubles the res, only take it if you already have other means of getting some res
 - *Gorgrirath [DEMON]*, converts burns to temporary res, combine it with *Wizard of Nature* to make it permanent or with armor to use it to get high shields that you will keep for other turns
 
 ### Shields
+common
 - *Apprentice guard*, great scaling shield effect when combined with some resistance and extra mana
 - *Demon guard [DEMON]*, can give you good shields on a demon deck, since you will be going for *Melgaroth* anyway, and if played first you won't lose hp. 
 
+uncommon
 - *Alestar, the Tranquility Defender [ANCIENT]*, good shield value if you have some res and ancients, synergies well with all the other ancients you want anyway. Also doesn't need to be played so counts as an extra card, and can be used for shield bash with some armor. You can get multiple copies of this one.
 - *Dark shielded knight*, good shield value even without res if you have a combat card related deck
 - *Cthool Acolyte*, good flat shield value and thins the deck, annoying late game though
 
+rare
 - *Melgaroth, the Keeper of Flames [ANCIENT][DEMON]*, converts burns to shields, you lose your burns for offense but it gives plenty of shields, particularily with 2nd class bonus
 - *Ambassadress of peace*, good flat shield value and useful armor, less good in high inferno, not worth buying
 
 ### Armor
+uncommon
 - *Iron colossus [ROBOT]*, gives a little armor but not enough by itself, can be coupled with *Dhorion*
 
+rare
 - *Dhorion, the Holy Sentinel [ANCIENT]*, gives unlimited armor if you can get it in your hand at the end of every turn. Small deck helps, and can be coupled with another card/skill giving little armor in case you miss it at the end of one turn. It's also ancient and gives plenty of res.
 - *Robowitch [ROBOT]*, gives enough armor for the entire fight most of the time, but it can be useful to have a little more
 - *Space commander*, gives little amount of armor but stays in your deck, if you have the time to play it, then it can give you infinite armor
@@ -201,35 +213,45 @@ uncommon
 - *Ambassadress of peace*, not a lot of armor but it can be coupled with *Dhorion*
 
 ### Immune/daze
+common
 - *Earth seed I*, bad card before quest is completed, but great daze card after. nly take it if you can complete the quest, *Melgaroth* makes the quest easy to complete.
 
+uncommon
 - *Snow queen*, great immune card
 - *Sigil essence*, immune, empty pile requirement can be annoying but you should have a small deck anyway. Res is very good too
 - *Medusa [BEASTMAN] I*, good daze card before the quest, even better if you complete the quest but it's unlikely to have poison as shaman
 - *Xatior, order of the wizards*, good daze card, removes instead of exiling so you can't take it back with *Azahr, the Exiled Wizard [ANCIENT]*, *Cthool, the Darkmaster [ANCIENT]*, or *The Timeshifter [ANGEL]*. Once you have it you can go for *Ixar, order of the wizards* for the combo, but keep your deck small to be able to pull it off
 
+rare
 - *Druid of the High Elves*, mana cost is pretty high but it gives the immune as well as res and small healing
 
 ### Heal
+common
 - *Fairy princess [FAIRY]*, gives small healing as well as free mana cards
 
+uncommon
 - *Seeker of the light*, good healing, protection from debuffs (including silence), it takes space in your deck but can provide unlimited healing if you have the mana to do so
 
+rare
 - *Druid of the High Elves*, you want it for res and immune but there is small healing
 - *Nephil [ANGEL]*, gives fast healing if you go below 50% hp, damage is decent early but otherwise you won't be playing it
 - *Ultron [ROBOT]*, decent damage early when at low hp, also gives a free magic card with little healing, gets obsolete pretty fast and not worth spending gold on, but decent starting bonus
 
 ### Damage
+rare
 - *Melgaroth, the Keeper of Flames [ANCIENT][DEMON]*, doubles the burn when in your hand, and gives a shield option. Very powerful and interesting card, specially with 2nd class bonus. It can even be used for a shield bash strategy with some armor. Works best on small decks
 - *Beast emperor [BEASTMAN]*, doubles damage from thunder points if you have 1st class bonus
 - *Witch of Flames*, I normally wouldn't recommend it, it's definitely not worth buying, but with *melgaroth* the double burn turn into triple and the triple into multiplying by 5. It can be useful to kill Gorilla or other powerful single enemies, and you can always convert the burns back to shields with *Melgaroth*
 
 ### Money
+uncommon
 - *Mage thief*, gives gold, it's very useful once you know you can afford to waste some turns in your fight (usually mid game), it's great to get rid of the base deck or duplicate *elder fairy [FAIRY]*
 
 ### Bringing back exile
+uncommon
 - *Guardian of heavens [ANGEL]*, can get you a blue witch or immune back from exile, a bit slow but could be worth it
 
+rare
 - *Cthool, the Darkmaster [ANCIENT]*, this card duplicates any exile card you play, if you have *snow queen* or *Earth seed II*, you can play it every turn and be untouchable
 - *Azahr, the Exiled Wizard [ANCIENT]*, this card duplicates a card from your exile twice, if you played 4 cards already (with some extra mana) you keep it in your deck and have an infinite cycle of immunes or daze. It's also great without staying in your deck, duplicating an exiled card twice is enough.
 - *The Timeshifter [ANGEL]*, gets all your exile cards back, can be great but there's often some cards you don't want to play again and it makes the mana cost pretty high
