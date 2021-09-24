@@ -67,6 +67,7 @@ This is also because you will want to use cards like *Melgaroth[ANCIENT][DEMON]*
 
 You get a starting bonus after every time you've completed first world. You don't have to use a starting bonus but it helps. If you lose in World 1, play a different class or inferno level to beat the first Boss and earn your next starting bonus. If you're trying to advance other classes at the same time, you can take this as an opportunity to alternate between them and shaman. If you want the starting bonus ASAP, pick Barbarian or Ranger, choose Normal difficulty, and you can beat World 1 in one to two minutes.
 You can quit immediately after defeating the Boss, on the rewards screen. (You can also use Shaman with 1st class bonus on Normal, but switching class bonuses isn't a great idea).
+
 That said, in high infernos you will restart a lot and taking time to get the starting bonus isn't always worth it. You can also just restart enough until you get some good rewards and shops.
 
 **2 Gems** - Never pick this. 100 Coins is worth more.
@@ -101,8 +102,8 @@ Try to get to a point where you are not losing any HP.
 
 **Playing with shaman points** - It can be hard to understand when to switch from one form to the other at first. On low infernos, thunder might give you enough damage to kill enemies quickly so you will want to focus on that. But in higher infernos and against high hp enemies, burns will kill enemies faster because they stack.
 Before you get class upgrade you will lose all your points by changing form. If you're focusing on burns you will want to release them by changing to thunder, then go back ASAP to fire form to start stacking fire points again. Burns will deal more damage in a long fight but thunder damage is better to finish off the enemy. Even with 2nd class bonus you will want to stack some thunder in the last turn to kill before they attack (burn is applied after the enemy's attack). 
-Try to time the releases according to needs. Releasing burns every turn will mean you stack fewer fire points, you might want to hold onto them until 2nd turn and then release them.
-With class upgrade you might want to change form more often to get the extra points, but i still recommend spending a bit more time in fire form than thunder, specially in the first few turns (play your exile cards to setup your deck while in fire form). If you have Melgaroth, wait until he's in your hand to change to thunder form, class upgrade or not.
+
+Try to time the releases according to needs. Releasing burns every turn will mean you stack fewer fire points, you might want to hold onto them until 2nd turn and then release them. With class upgrade you might want to change form more often to get the extra points, but i still recommend spending a bit more time in fire form than thunder, specially in the first few turns (play your exile cards to setup your deck while in fire form). If you have Melgaroth, wait until he's in your hand to change to thunder form, class upgrade or not.
 
 **Small deck** - A smaller deck will be more consistent. When your deck grows to about 12 cards or more, it becomes unlikely that you will see key cards each turn, unless you have ways to cycle through your deck faster. It also makes you less likely to draw an immune card on turn 1. On the other hand, a 4 card deck means every card you play comes right back in your hand. Note that you must always have at least 6 cards in your deck, but if 2 of them exile or remove, then you're left with a 4 card core.
 
@@ -263,7 +264,7 @@ Similarly, when you have 7 Gems you can afford the *Gold Ingot* skill which give
 - *Blessing of sanctuary* (10 gems), good once your deck is well rounded and you're afraid of a mistake, for example when you have *demon eye* (if you trigger it then restart the fight, you get it back)
 - *Phoenix feather* (10 gems), same as above, slightly worse in my opinion
 - *Phantom boots* (13 gems), allows you to avoid almost every elite and go for plenty of chests/merchants, bit expensive and you still have to fight bosses but overall makes the game easy
-- *Tear of godess* (15 gems), very expensive skill but saves you from the block/silence nightmare, only once your deck is well rounded
+- *Tear of goddess* (15 gems), very expensive skill but saves you from the block/silence nightmare, only once your deck is well rounded
 
 ## Attack strategies
 
@@ -281,7 +282,9 @@ Race builds tend to take more time to build because you need many cards to make 
 **-** Bigger decks, requires some specific cards
 
 The Ancient race is the exception in race builds because so many ancient cards are great and don't care about having other ancients. First of all you will want *Melgaroth* in you deck, you want something to deal weak and the best is *Spirit of Magic [ANCIENT] II*, you want mana and *Sou [ANCIENT]* is great for that, you want armor and res, given by *Dhorion [ANCIENT]*. None of these cards depend on other ancients so you want them anyway, and then you can go for *Alestar [ANCIENT]* to get shields. You just need 3 ancients and some res to make *alestar [ANCIENT]* worth it, and if you have some armor, *alestar [ANCIENT]* can turn your deck into a very powerful shield bash deck. You can get your shields with *Alestar [ANCIENT]* or *Melgaroth* and then quickly kill with *Alestar [ANCIENT]* on another turn.
+
 You can also use one of the broken cards that gring back exile like *Azahr [ANCIENT]* or *Cthool, the Darkmaster [ANCIENT]* which are ancient too, but usually you get them to do an infinite cycle of daze/immune so you don't really need the ancient synergy. *Keyra [ANCIENT]* is also a decent alternative to *Spirit of magic II* for weak and is ancient too, *Spirit of defense [ANCIENT] I* can be useful early for extra defense and mana and can also be useful for ancient synergy. Finally *Mystic bird* isn't ancient but scales with them, so you can take it for extra defense once you have many ancients but maybe not alestar yet.
+
 Be careful most of these ancient cards don't exile, and when they do you don't want to get rid of them, so this can result in bug decks. Make sure you remove a lot of base cards (2 mages and 1 totem of each) and don't get too many other non exile cards (a mana cards is enough, maybe a shield card too if you don't have an ancient one yet).
 Since *Sou [ANCIENT]*, *Alestar [ANCIENT]* and *Dhorion [ANCIENT]* are combat cards, taking *Lady of the knight* as mana card can be worth it.
 
@@ -293,8 +296,11 @@ Since *Sou [ANCIENT]*, *Alestar [ANCIENT]* and *Dhorion [ANCIENT]* are combat ca
 
 Since *Melgaroth* is demon you could go for the demon race. You can take *Demon guard [DEMON]* which gives decent shields and doesn't lose you hp if you play it first. You can exceptionnaly use *Succubus [DEMON] II* which is an attack card but it deals a lot of burns, specially with *Melgaroth* and it makes *Demon guard [DEMON]* better.
 You also have *Gorgrirath [DEMON]* that can help you defend, it's an alternative to *Melgaroth* if you can't get it early. It's less good but with a proper build it can get very powerful. You can use *Wizard of Nature* to make the huge amount of temporary res permanent, or you can use it to get plenty of shields on one turn and keep it with some armor. Then you can go for *Guardian of demons [DEMON]* for a shield bash strategy.
+
 You can combine ancients and demons, *alestar [ANIENT]* can be your shield bash card and *dhorion [ANCIENT]* your armor card, *gorgrirath [DEMON]* couples well with *alestar* since it will make use of all the temparary res for shields, and then with armor alestar can do the shield bash on it's own.
+
 Note that the demons offered here don't lose you hp, except sometimes *Demon guard [DEMON]*, you can also take *Living Armor [DEMON]* early which gives decent shields. It doesn't scale but it will make *Demon guard [DEMON]* better. Having 3rd class bonus can help recover hp loss from these two cards.
+
 Most of the demon cards are combat so going for *Dark shielded knight* as a defense card works too, and *Lady of the knight* is a decent mana card.
 
 ### Race build : Fairies
@@ -304,11 +310,16 @@ Most of the demon cards are combat so going for *Dark shielded knight* as a defe
 **-** Hard to setup, vulnerable in first turns
 
 A bit like for wizard or necromancer, you could use fairy spawns to play many cards and get shaman points. It's less good on shaman because you lose you points every time you use them, but with class upgrade it's better and you might get enough spawns to kill with the first couples releases. MAke sure you play your spawns in fire form so that all the burns you generate can bring down the enemy even once you are out of spawns.
+
 *Fairy princess [FAIRY]* is the spawn card that doesn't rely on race synergy, the magic cards requirement is relatively easy for shaman. You will also want *Moon fairy [FAIRY]* and *Elder fairy [FAIRY]* regardless of race synergy. *Elder fairy [FAIRY]* removes and no longer counts as a fairy in your deck, but if you play the spawns before then *Elder fairy [FAIRY]* will count.
+
 Once you have a couple good fairies anyway you can go for the fairy spawns, best are *Blue bloom [FAIRY]* and *Blessed Fairy [FAIRY][ANGEL]* because their spawns give shields which will help you defend. But you can also take *Red bloom [FAIRY]*, it's one of your poison options if you want to complete the quest for *Medusa [BEASTMAN] I*.
 You might want a source of armored like *Robowitch [ROBOT]* to keep the shields generated by the spawns, because you are likely to use them all in a single turn and have a lot of overflow shields. 
+
 You will eventually run out of spawn cards and will have to finish the fight without them. The burns will do the killing but you need permanent shield option. *Apprentice guard* is always a good option but with the fairy spawn strategy, your fairy race counter lets you use *fairy warrior [FAIRY]*, *lullyp [BEASTMAN][FAIRY]* or *mystic bird* as scaling defense cards.
+
 The other fairies you can use are *Fairy queen [FAIRY] I*, the quest is easier to complete on a fairy deck, and maybe *Night Fairy [FAIRY]*, this card lets you reshuffle your deck and grab all the fairy spawns in your exile immediately, very good if you have *dark sigil* and want them for healing before you cycle through your whole deck. As it doesn't exile, it can get annoying in your deck but it's alright. Beware you might not want the overcharge which will make the spawns not free anymore, so be careful to have another race in your deck.
+
 Finally you can also use *The Timeshifter [ANGEL]* to bring back all your fairy spawns from your exile for a second round. Since you get both the spanwner and the spawnees, it's like getting triple the amount of spawns. The Angel counter can be useful for *Blessed Fairy [FAIRY][ANGEL]* too.
 
 Important to know about this strategy is that it is slow, playing all the fairy spawn cards takes time at the beginning of the fight and leaves you vulnerable.
@@ -332,6 +343,7 @@ For that you can use skills like *Book of magic* which heals half of the HP loss
 **-** requires specific skill, need a lot of money to remove, isn't ready early game
 
 Going for a minimal deck with 4 non exile cards is super strong, and that's because of *circular shield* which will give 10 shields for every card. Combined with some extra, you can get to 60-70 shields with just that skill. Not to mention you can play whichever card you want over and over.
+
 If you go for that strategy you need to keep a *Fire totem* and a *Thunder totem* for shaman ability, you will want a mana card (*Sou [ANCIENT]*, *Souls priestess/Guardian*, *Wizard III*) and then the 4th card is up to you, here are the options :
 - *Melgaroth* for extra burns and occasionnaly shields if enemies crit too hard for *circular shield*
 - *Beast emperor [BEASTMAN]* if you play 1st class bonus
@@ -351,9 +363,12 @@ You will have to have a couple exile cards on the side, because you need at leas
 
 **-** requires *Melgaroth* on high infernos, less good late game
 
-As you get to higher infernos, early game will become the hardest part and you don't have time to setup any of the previous mentioned decks. Your best option is to use *Melgaroth* which will give you plenty of shields while still damaging the enemies you didn't take the burns away from or on the turns where they pass or with the thunder damage. On very high infernos it's almost necessary to take merchant after first fight and get *Melgaroth* in it. For this reason, even if the card reward from first fight could be useful, it's often better to take the gem to be able to reroll cards in the market and find *Melgaroth*
+As you get to higher infernos, early game will become the hardest part and you don't have time to setup any of the previous mentioned decks. Your best option is to use *Melgaroth* which will give you plenty of shields while still damaging the enemies you didn't take the burns away from or on the turns where they pass or with the thunder damage. On very high infernos it's almost necessary to take merchant after first fight and get *Melgaroth* in it. For this reason, even if the card reward from first fight could be useful, it's often better to take the gem to be able to reroll cards in the market and find *Melgaroth*.
+
 To get *Melgaroth* consistently in your hand you will need more mana and fewer cards, so remove one copy of each base card ASAP and pick any card giving mana, even *Sapphire guard* is a good option early, although you might want another one. Otherwise stick to the first one you see. Getting immunes and daze can protect you on first turn and can also let you not play *Melgaroth* and keep the burns on the enemies.
+
 Getting armor is great to let you keep the shields you got from *Melgaroth* once and then focus on burns. Beware that late game *Robowitch [ROBOT]* might not give you armor long enough to finish the fight.
+
 At some point you will want to be able to shield without using *Melgaroth*, you can get *Apprentice guard* along with a mana card and some res, it's very good on magic card decks where you can use *blue witch* at its full potential. If you came accross more combat cards like *Sapphire guard*, *Sou [ANCIENT]* or *Dhorion [ANCIENT]*, you can go for *Dark shielded knight* for shields and *Lady of the knight* for mana.
 
 This strategy works well early, and the best way to make it work late game is to get lots of armor and maybe do shield bash. My favorite ending is to transition to an Ancient shield bash strategy with Alestar.
@@ -370,9 +385,11 @@ These you need to be aware of because you might want to switch to one if you hav
 ## What changes in void mode
 
 Void mode is very different, for starters you don't have a class bonus, which makes some classes much weaker, but shaman stays decent in void mode. You also get a deck with 15 cards including your base 8 and 7 randoms. You can never change the amount of cards and you can only transform 3 of them randomly after normal fights. This means that you need a lot of luck to get a good deck, but you can influence that along the way. You also get to chose 2 skills among 6 after each elite, regardless of price, skill choice is what saves you and can make the next fights a lot easier. You can get your class upgrade after first boss or healing, but I recommend taking the healing after second boss.
+
 All the fights are in the void worlds which makes them pretty hard. First world is Void I which is usually a world 2. Normal fights are already pretty hard and the twisted void essence is a super hard elite to fight with not much more than the deck you were given to start with.
+
 You also need to pay attention to debuffs since void enemies deal a lot of block, silence, wound and curse.
-Note that in every world you have 3 nrmal fights, 2 elites and 1 boss, so you will encounter every void enemy once, only the rder can vary.
+Note that in every world you have 3 normal fights, 2 elites and 1 boss, so you will encounter every void enemy once, only the rder can vary.
 
 In terms of deck strategy you need to keep some exile cards to thin your deck, otherwise you will never dra the cards you want. As Shaman you have no use for attack cards so change them asap. Free mana cards that exile are good, spirit cards are good too because you can always change them once the quest is complete. Get rid of your mages once you find better weak cards (dealing weak to all enemies), keep your totems until you got rid of all the useless attack cards, once you have some better shield cards (even with flat values) you can remove one copy of each totem. But you should keep two of each to be able to draw them reliably.
 
