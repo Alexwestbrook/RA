@@ -59,7 +59,7 @@ Every class unlocks a new class bonus after inferno 2, 5 and 10.
 
 **Class bonus 1** - Thunder points will deal 8 damage to all enemies instead of one random. Beware that this changes thunder damage to be affected by double damage, weak, dark grasp and to trigger rockhorn, electric jellyfish or sapphire drake. This class bonus is very good in early infernos (I1-10) but it gets obsolete once enemies start having too much HP.
 
-**Class bonus 2** - Fire points will apply 6 burns to all enemies instead of 3. This is the best bonus for very high infernos (I30+) beacause the burns will be your main source of damage. You can also use it early but it might not be as good as the others.
+**Class bonus 2** - Fire points will apply 6 burns to all enemies instead of 3. This is the best bonus for very high infernos (I30+) because the burns will be your main source of damage. You can also use it early but it might not be as good as the others.
 
 **Class bonus 3** - Heal 2 hp every time you change form. Once unlocked this is the best class bonus up to I30 or so. It will help you recover and synergies pretty well with the class upgrade and dark sigil.
 
