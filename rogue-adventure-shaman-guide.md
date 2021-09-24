@@ -3,7 +3,7 @@
 
 ## Introduction
 
-Shaman is a class you unlock after reaching level 16, you will probably have played other classes a little before him.
+Shaman is a class you unlock after reaching level 16, you will probably have played a couple other classes before him.
 For guides about other classes I invite you to check https://gist.github.com/adufilie/d9f42d6fbc7fe5dc1f7874e8f4f35572 for a great warrior guide by @fooblizoo and for a wizard guide by me.
 
 Shaman can be a hard class to understand at first because there is no clear strategy to play it. However it is a very powerful class early if you play it right and it can get really strong.
@@ -99,8 +99,10 @@ Try to get to a point where you are not losing any HP.
 
 **Card type** - You can use any card type as shaman, but focusing on magic cards will make *blue witch* and *Elder fairy [FAIRY]* better whereas focusing on combat cards will make *Lady of the Knight* and *Dark shielded knight* better. Keep that in mind when building your deck. Depending on the run, you might want some cards more than others.
 
-**Shaman Points** - Before you get class upgrade you will lose all your points by changing form. If you're focusing on burns you will want to release them by changing to thunder, then go back ASAP to fire form to start stacking fire points again. Burns will deal more damage in a long fight but thunder damage is better to finish off the enemy. Even with 2nd class bonus you will want to stack some thunder in the last turn to kill before they attack (burn is applied after the enemy's attack). 
-Try to time the releases according to needs. Releasing burns every turn will mean you stack fewer fire points, you might want to hold onto them until 2nd turn and then release them. 
+**Playing with shaman points** - It can be hard to understand when to switch from one form to the other at first. On low infernos, thunder might give you enough damage to kill enemies quickly so you will want to focus on that. But in higher infernos and against high hp enemies, burns will kill enemies faster because they stack.
+Before you get class upgrade you will lose all your points by changing form. If you're focusing on burns you will want to release them by changing to thunder, then go back ASAP to fire form to start stacking fire points again. Burns will deal more damage in a long fight but thunder damage is better to finish off the enemy. Even with 2nd class bonus you will want to stack some thunder in the last turn to kill before they attack (burn is applied after the enemy's attack). 
+Try to time the releases according to needs. Releasing burns every turn will mean you stack fewer fire points, you might want to hold onto them until 2nd turn and then release them.
+With class upgrade you might want to change form more often to get the extra points, but i still recommend spending a bit more time in fire form than thunder, specially in the first few turns (play your exile cards to setup your deck while in fire form). If you have Melgaroth, wait until he's in your hand to change to thunder form, class upgrade or not.
 
 **Small deck** - A smaller deck will be more consistent. When your deck grows to about 12 cards or more, it becomes unlikely that you will see key cards each turn, unless you have ways to cycle through your deck faster. It also makes you less likely to draw an immune card on turn 1. On the other hand, a 4 card deck means every card you play comes right back in your hand. Note that you must always have at least 6 cards in your deck, but if 2 of them exile or remove, then you're left with a 4 card core.
 
@@ -168,6 +170,7 @@ Similarly, when you have 7 Gems you can afford the *Gold Ingot* skill which give
 - *Blue witch*, can give 4 res, incredible on magic focused deck and still decent otherwise
 - *Sigil essence*, 2 res and immune, very good option
 - *Sun priestess*, gives 2 res but has bad synergy with demons (*Melgaroth*) so usually avoid it 
+- *Fairy queen [FAIRY] I*, bad before the quest and hard one to complete, but on low inferno you might have time to play it 30 times and get the quest done, decent res after the quest but not amazing for the effort
 
 - *Druid of the high elves*, mana cost is pretty high but gives 2 res and immune ultimately
 - *Dhorion, the holy Sentienl [ANCIENT]*, gives 1 res at the end of every turn if played right, plus armor. Little slow but combined with first turn protection (immune, daze, skills) it's the best resistance option
@@ -190,6 +193,8 @@ Similarly, when you have 7 Gems you can afford the *Gold Ingot* skill which give
 
 - *Dhorion, the Holy Sentinel [ANCIENT]*, gives unlimited armor if you can get it in your hand at the end of every turn. Small deck helps, and can be coupled with another card/skill giving little armor in case you miss it at the end of one turn. It's also ancient and gives plenty of res.
 - *Robowitch [ROBOT]*, gives enough armor for the entire fight most of the time, but it can be useful to have a little more
+- *Space commander*, gives little amount of armor but stays in your deck, if you have the time to play it, then it can give you infinite armor
+- *Blessed Lady [ANGEL]*, gives less armor than *Robowitch* but also gives a little healing and you can easily have 4+ armor. The card is angel, *Melgaroth* is ancient and demon, and you can grab a fairy with *Moon fairy*, *Elder Fairy* or *Fairy Princess*, a robot with *V01-B01* or *Iron colossus*, and a beastman with *Medusa*.
 - *Ambassadress of peace*, not a lot of armor but it can be coupled with *Dhorion*
 
 ### Immune/daze
@@ -214,6 +219,7 @@ Similarly, when you have 7 Gems you can afford the *Gold Ingot* skill which give
 ### Damage
 - *Melgaroth, the Keeper of Flames [ANCIENT][DEMON]*, doubles the burn when in your hand, and gives a shield option. Very powerful and interesting card, specially with 2nd class bonus. It can even be used for a shield bash strategy with some armor. Works best on small decks
 - *Beast emperor [BEASTMAN]*, doubles damage from thunder points if you have 1st class bonus
+- *Witch of Flames*, I normally wouldn't recommend it, it's definitely not worth buying, but with *melgaroth* the double burn turn into triple and the triple into multiplying by 5. It can be useful to kill Gorilla or other powerful single enemies, and you can always convert the burns back to shields with *Melgaroth*
 
 ### Money
 - *Mage thief*, gives gold, it's very useful once you know you can afford to waste some turns in your fight (usually mid game), it's great to get rid of the base deck or duplicate *elder fairy [FAIRY]*
@@ -259,170 +265,106 @@ Similarly, when you have 7 Gems you can afford the *Gold Ingot* skill which give
 - *Phantom boots* (13 gems), allows you to avoid almost every elite and go for plenty of chests/merchants, bit expensive and you still have to fight bosses but overall makes the game easy
 - *Tear of godess* (15 gems), very expensive skill but saves you from the block/silence nightmare, only once your deck is well rounded
 
-## Attack Strategies
+## Attack strategies
 
-Try to focus on a single attack strategy. If you have too many attack cards, your deck becomes incoherent and you may not have enough defense. Make sure you build up your defense first before committing too many cards to offense. That said don't decide before the run, wait to see what cards you are offered and what you can make of them.
+Your attack strategy with Shaman will come from your shaman points. You don't need raw attack cards, only take them if they help you defend.
+If you are playing 1st class bonus, *Beast emperor* is the card you want for double damage on thunder points. If you're playing with 2nd or 3rd, *Melgaroth* is the best offense card. Take only one of the two and only one copy. Rest is defense. Finally with 3rd class bonus you can take *Dark sigil* skill because you can recover the hp loss and it will let you play roughly double the amount of cards in your turn (so more shaman points and defense too).
+My preference goes to 2nd class bonus *Melgaroth* because it provides defense as wall as offense and it's easier to get a rare card than an expensive skill. Then 3rd class bonus *Dark sigil* is probably the most powerful and also provides defense, but harder to find the skill, plus it can also use *Melgaroth*. And finally 1st class bonus *Beast emperor* doesn't provide much defense at all. You can also use *Melgaroth* but it would be expensive and you would be having too many attack cards IMO.
 
-## Attack Strategy: Energy golem with fairy spawns
+What follows are some example of builds you can use for defense. Most of them I tested with 2nd class bonus but you can adapt them with other attack strategies.
+Race builds tend to take more time to build because you need many cards to make them worth. Best decks usually ignore race synergies to build a good deck, and can transition to a race build if the right cards are offered. 
 
-**+** Quick power up during the fight
+### Race build: Ancients
 
-**-** Vulnerable in first turns, hard to get going early game
+**+** Strong defense and offense, most ancient cards are great regardless of race synergy
 
-As I said before, *energy golem* is your main source of damage as wizard. Since it doesn't benefit from any buffs like strength or double damage, the only way to power him up is to play many magic cards. Fairy spawns are good for that since they put many free mana magic cards in your deck. You will have no use for strength but you might want resistance for defense. *Blue bloom [FAIRY]* and *Blessed Fairy [FAIRY][ANGEL]* are very good because their spawns give shields which will help you defend while you power up *energy golem*.
+**-** Bigger decks, requires some specific cards
 
-You might want a source of armored like *Robowitch [ROBOT]* to keep the shields generated by the spawns, because you are likely to use them all in a single turn and have a lot of overflow shields.
-Most of the fairy spawn cards give more cards based on number of fairies in your deck. So you might want to take a couple other fairy cards, but be careful not to take bad ones.
+The Ancient race is the exception in race builds because so many ancient cards are great and don't care about having other ancients. First of all you will want *Melgaroth* in you deck, you want something to deal weak and the best is *Spirit of Magic [ANCIENT] II*, you want mana and *Sou [ANCIENT]* is great for that, you want armor and res, given by *Dhorion [ANCIENT]*. None of these cards depend on other ancients so you want them anyway, and then you can go for *Alestar [ANCIENT]* to get shields. You just need 3 ancients and some res to make *alestar [ANCIENT]* worth it, and if you have some armor, *alestar [ANCIENT]* can turn your deck into a very powerful shield bash deck. You can get your shields with *Alestar [ANCIENT]* or *Melgaroth* and then quickly kill with *Alestar [ANCIENT]* on another turn.
+You can also use one of the broken cards that gring back exile like *Azahr [ANCIENT]* or *Cthool, the Darkmaster [ANCIENT]* which are ancient too, but usually you get them to do an infinite cycle of daze/immune so you don't really need the ancient synergy. *Keyra [ANCIENT]* is also a decent alternative to *Spirit of magic II* for weak and is ancient too, *Spirit of defense [ANCIENT] I* can be useful early for extra defense and mana and can also be useful for ancient synergy. Finally *Mystic bird* isn't ancient but scales with them, so you can take it for extra defense once you have many ancients but maybe not alestar yet.
+Be careful most of these ancient cards don't exile, and when they do you don't want to get rid of them, so this can result in bug decks. Make sure you remove a lot of base cards (2 mages and 1 totem of each) and don't get too many other non exile cards (a mana cards is enough, maybe a shield card too if you don't have an ancient one yet).
+Since *Sou [ANCIENT]*, *Alestar [ANCIENT]* and *Dhorion [ANCIENT]* are combat cards, taking *Lady of the knight* as mana card can be worth it.
 
-You will eventually run out of spawn cards and will have to finish the fight without them. *Energy golem* will do all the damage but you need a good defense card. *Apprentice guard* is always a good option for wizard but with the fairy spawn strategy, your fairy race counter lets you use *fairy warrior [FAIRY]*, *lullyp [BEASTMAN][FAIRY]* or *mystic bird* as scaling defense cards.
+### Race build : Demons
+
+**+** Good burn cards, good shields, shield bash option
+
+**-** Not many useful demons, harder to setup, adds attack cards
+
+Since *Melgaroth* is demon you could go for the demon race. You can take *Demon guard [DEMON]* which gives decent shields and doesn't lose you hp if you play it first. You can exceptionnaly use *Succubus [DEMON] II* which is an attack card but it deals a lot of burns, specially with *Melgaroth* and it makes *Demon guard [DEMON]* better.
+You also have *Gorgrirath [DEMON]* that can help you defend, it's an alternative to *Melgaroth* if you can't get it early. It's less good but with a proper build it can get very powerful. You can use *Wizard of Nature* to make the huge amount of temporary res permanent, or you can use it to get plenty of shields on one turn and keep it with some armor. Then you can go for *Guardian of demons [DEMON]* for a shield bash strategy.
+You can combine ancients and demons, *alestar [ANIENT]* can be your shield bash card and *dhorion [ANCIENT]* your armor card, *gorgrirath [DEMON]* couples well with *alestar* since it will make use of all the temparary res for shields, and then with armor alestar can do the shield bash on it's own.
+Note that the demons offered here don't lose you hp, except sometimes *Demon guard [DEMON]*, you can also take *Living Armor [DEMON]* early which gives decent shields. It doesn't scale but it will make *Demon guard [DEMON]* better. Having 3rd class bonus can help recover hp loss from these two cards.
+Most of the demon cards are combat so going for *Dark shielded knight* as a defense card works too, and *Lady of the knight* is a decent mana card.
+
+### Race build : Fairies
+
+**+** Many free mana cards for shaman points
+
+**-** Hard to setup, vulnerable in first turns
+
+A bit like for wizard or necromancer, you could use fairy spawns to play many cards and get shaman points. It's less good on shaman because you lose you points every time you use them, but with class upgrade it's better and you might get enough spawns to kill with the first couples releases. MAke sure you play your spawns in fire form so that all the burns you generate can bring down the enemy even once you are out of spawns.
+*Fairy princess [FAIRY]* is the spawn card that doesn't rely on race synergy, the magic cards requirement is relatively easy for shaman. You will also want *Moon fairy [FAIRY]* and *Elder fairy [FAIRY]* regardless of race synergy. *Elder fairy [FAIRY]* removes and no longer counts as a fairy in your deck, but if you play the spawns before then *Elder fairy [FAIRY]* will count.
+Once you have a couple good fairies anyway you can go for the fairy spawns, best are *Blue bloom [FAIRY]* and *Blessed Fairy [FAIRY][ANGEL]* because their spawns give shields which will help you defend. But you can also take *Red bloom [FAIRY]*, it's one of your poison options if you want to complete the quest for *Medusa [BEASTMAN] I*.
+You might want a source of armored like *Robowitch [ROBOT]* to keep the shields generated by the spawns, because you are likely to use them all in a single turn and have a lot of overflow shields. 
+You will eventually run out of spawn cards and will have to finish the fight without them. The burns will do the killing but you need permanent shield option. *Apprentice guard* is always a good option but with the fairy spawn strategy, your fairy race counter lets you use *fairy warrior [FAIRY]*, *lullyp [BEASTMAN][FAIRY]* or *mystic bird* as scaling defense cards.
+The other fairies you can use are *Fairy queen [FAIRY] I*, the quest is easier to complete on a fairy deck, and maybe *Night Fairy [FAIRY]*, this card lets you reshuffle your deck and grab all the fairy spawns in your exile immediately, very good if you have *dark sigil* and want them for healing before you cycle through your whole deck. As it doesn't exile, it can get annoying in your deck but it's alright. Beware you might not want the overcharge which will make the spawns not free anymore, so be careful to have another race in your deck.
+Finally you can also use *The Timeshifter [ANGEL]* to bring back all your fairy spawns from your exile for a second round. Since you get both the spanwner and the spawnees, it's like getting triple the amount of spawns. The Angel counter can be useful for *Blessed Fairy [FAIRY][ANGEL]* too.
 
 Important to know about this strategy is that it is slow, playing all the fairy spawn cards takes time at the beginning of the fight and leaves you vulnerable.
-You can use *elder fairy [FAIRY]* to get extra mana to play all the fairy spawns, you can use immune to protect your self while doing so, and finally once you have enough fairy spawns you can take *dark sigil*. This will let you play all your magic cards for 2 HP instead of mana. Since most spawns heal 3 under 50% HP, you will be able to maintain HP while playing all your spawns. But be very careful not to die before you get to them or once you've played them all and don't have any healing left.
-For that you can use skills like *Book of magic* which heals half of the HP loss, or *Nephil [ANGEL]* who heals you 6 HP when below 50%.
+You can use *Elder fairy [FAIRY]* to get extra mana to play all the fairy spawns, you can use immune to protect your self while doing so, and finally once you have enough fairy spawns you can take *dark sigil*. This will let you play all your magic cards for 2 HP instead of mana. Since most spawns heal 3 under 50% HP, you will be able to maintain HP while playing all your spawns. But be very careful not to die before you get to them or once you've played them all and don't have any healing left.
+For that you can use skills like *Book of magic* which heals half of the HP loss, or *Nephil [ANGEL]* who heals you 6 HP when below 50%. Of course if you have 3rd class bonus, hp loss isn't an issue.
 
-### Fairy spawn cards:
-
-- *Fairy princess [FAIRY]*, doesn't rely on number of fairies but number of magic cards in hand, very good early
-- *Red bloom [FAIRY]*, not great but is a fairy spawn, poison can let you complete quest for *Medusa [BEASTMAN]*
-- *Blue bloom [FAIRY]*, good because gives shield
-- *Blessed Fairy [FAIRY][ANGEL]*, good because attacks, shields and heals, but it depends on number of angels.
-
-### Other good fairy cards:
-
-- *Moon fairy [FAIRY]*, very good regardless of fairy synergy, free magic card and helps search for a specific card
-- *Elder fairy [FAIRY]*, very good for the mana, once it removes it doesn't count as a fairy in your deck anymore but still great card
-- *Fairy queen I [FAIRY]*, good card once the quest is completed, you can afford to take it in low inferno but at some point you won't have time to complete the quest
-- *Fairy Warrior [FAIRY]* or *Lullyp [BEASTMAN][FAIRY]*, scaling attack and shield base on number of fairies, take only one as they are combat cards and don't exile. It's one of your defensive option.
-- *Night Fairy [FAIRY]*, this card lets you reshuffle your deck and grab all the fairy spawns in your exile immediately, very good if you have *dark sigil* and want them for healing before you cycle through your whole deck. As it doesn't exile, it can get annoying in your deck but it's alright. Beware you might not want the overcharge which will make the spawns not free anymore, so be careful to have another race in your deck.
-
-### Other good cards:
-
-- *Mystic bird*, although not a fairy, he scales with fairies like *Fairy Warrior [FAIRY]* and *Lullyp [BEASTMAN][FAIRY]*. The nice thing is that he is a magic card and not combat, he also attacks every enemy but that's not very important here as it won't be your main source of damage.
-- *The Timeshifter [ANGEL]*, can get all your fairy spawns back from exile for a second round. Since you get both the spanwner and the spawnees, it's like getting triple the amount of spawns
-
-### Specific skills:
+**Specific skills**:
 
 - *Shield of shadows* (6 gems), basically 3 shields per spawn card, that's quite a lot
 - *Solid shell* (7 gems), decent shields but more expensive than *shield of shadows* and less shields
 - *Fairy doll* (8 gems), gives you an exile card counting for 3 fairies, not the best skill but decent
 - *Dark sigil* (11 gems), as I said before fairy spawns help you maintain HP and *dark sigil* helps you play all the spawns on turn 1. Game changing skill, usually a sure win once you've secured hp recovery
-- *Opal stone* (18 gems), expensive but counts as 2 fairies for free, the 2 angels can be good for *Blessed Fairy [FAIRY][ANGEL]* too. Keep in mind that you get 2 demons on the counter so *sun priestess* will give you debuff.
-
-**Advice** : very good strategy in low infernos where first fight are easy enough to let you get your deck started. In higher infernos, only do it if you find cards like *Fairy princess [FAIRY]*, *Moon fairy [FAIRY]* and *elder fairy [FAIRY]* first, which are good anyway, before committing to too many fairy spawns.
+- *Opal stone* (18 gems), expensive but counts as 2 fairies for free, the 2 angels can be good for *Blessed Fairy [FAIRY][ANGEL]* too. Keep in mind that you get 2 demons on the counter so *sun priestess* will give you debuff. It's also good for Demon or Ancient build but not as much.
 
 **Alternative** : get some strength and you can kill enemies with the spawns from *Blessed Fairy [FAIRY][ANGEL]* if you have enough fairies and angels in your deck. Even if it isn't enough to commplete the kill you can use *fairy warrior [FAIRY]*, *Lullyp [BEASTMAN][FAIRY]* or *mystic bird* to finish the kill. You can use the skill *Phantom spear* for extra damage and if you have *dark sigil* you might consider taking *Devil's Dead* (11 gems) to get crazy strength and finish quick. Take it only after *dark sigil*.
 
-## Attack strategy: Energy golem alone
+### 4 card deck
 
-**+** small deck, very consistent
+**+** consistent, almost sure win
 
-**-** requires specific cards and a lot of money to remove
+**-** requires specific skill, need a lot of money to remove, isn't ready early game
 
-Another idea is to not use fairy spawns, focus on defense and use *energy golem* to power up itself. If you can get to a 4 card deck you can play *energy golem* over and over.
-For this strategy you don't want too many non exile cards, since you ideally want a 4 card deck. The only shield card worth taking is *apprentice guard* and it's a must. You want *wizard III* too so you're left with one available slot. Here are my preferred choices:
-- *mud golem*, this means one less card to remove and you can still use it for weak or as a shield option when blocked
-- *seeker of the light*, protects you from silence mostly but also curse and can recover small hp loss (wound, skeletons)
-- *magic leaf*, can give you some free magic cards, can recover a lot of HP with some strength and can transition into a *dark sigil* build
-- *azahr the exiled wizard [ANCIENT]*, you can keep it on the side to bring back a daze or immune from your exile at a crucial moment, but *azahr* decks tend never to go down to 4 cards
-- *V01-B01 [ROBOT]*, although it does exile you don't want to play it, so it will just stay there and give you 1 mana and resistance each turn
-- *Dhorion the holy sentinel [ANCIENT]*, lets you keep your shields and slowly gain resistance, good way of protecting yourself from silence
-- nothing, I mean no non exile card, this lets you keep an immune or daze on the side for safety or further use (to prevent a silence debuff for example)
+Going for a minimal deck with 4 non exile cards is super strong, and that's because of *circular shield* which will give 10 shields for every card. Combined with some extra, you can get to 60-70 shields with just that skill. Not to mention you can play whichever card you want over and over.
+If you go for that strategy you need to keep a *Fire totem* and a *Thunder totem* for shaman ability, you will want a mana card (*Sou [ANCIENT]*, *Souls priestess/Guardian*, *Wizard III*) and then the 4th card is up to you, here are the options :
+- *Melgaroth* for extra burns and occasionnaly shields if enemies crit too hard for *circular shield*
+- *Beast emperor [BEASTMAN]* if you play 1st class bonus
+- *Sou [ANCIENT]* for extra mana if it isn't you mana card already
+- *V01-B01 [ROBOT]* for extra mana, and res
+- *Seeker of the light* for debuff protection and heal
+- *Dhorion [ANCIENT]* for armor
+- *Azahr [ANCIENT]*, you can keep it on the side to bring back a daze or immune from your exile at a crucial moment, but *Azahr* decks tend never to go down to 4 cards
+- a card inflicting weak, you can keep your base *Mage* if you don't have enough money to remove it, you can use *Magic leaf* which will also give some free mana cards and leave a *dark sigil* option, or you can use any of the cards inflicting weak to all enemies
+- nothing, I mean no non exile card, this lets you keep an immune or daze on the side for safety or further use (to prevent debuff or crit for example)
 
-On top of that you will want some exile cards that give resistance, immune, daze and mana. Fight goes as follows : play the resistance cards at the beginning of the fight with some immune or daze for protection. Once you're down to 4 card deck play *wizard III* then all the mana on *energy golem* and then *apprentice guard* at the end if enemies intend to attack. You can play it twice if you need more shields, or play *wizard III* twice for extra resistance from overcharge.
-You can use a way to get armored like *Robowitch [ROBOT]* or *Dhorion the holy sentinel [ANCIENT]* and then you won't have to play *apprentice guard* all the time.
+You will have to have a couple exile cards on the side, because you need at least 6 cards and you probably will need some stuff early before you can get to that build. Res, immunes, daze and mana cards are all nice. This strategy becomes harder to pull off once the first fights get too hard and you need to get more non exile cards to survive early.
 
-**Advice** : this strategy works very well on high inferno where you have more gold and need consistency.
+### No race, no broken skill, just *Melgaroth*
 
-## Other strategy: infinite loops or infinite immunes
+**+** consistent, works early
+
+**-** requires *Melgaroth* on high infernos, less good late game
+
+As you get to higher infernos, early game will become the hardest part and you don't have time to setup any of the previous mentioned decks. Your best option is to use *Melgaroth* which will give you plenty of shields while still damaging the enemies you didn't take the burns away from or on the turns where they pass or with the thunder damage. On very high infernos it's almost necessary to take merchant after first fight and get *Melgaroth* in it. For this reason, even if the card reward from first fight could be useful, it's often better to take the gem to be able to reroll cards in the market and find *Melgaroth*
+To get *Melgaroth* consistently in your hand you will need more mana and fewer cards, so remove one copy of each base card ASAP and pick any card giving mana, even *Sapphire guard* is a good option early, although you might want another one. Otherwise stick to the first one you see. Getting immunes and daze can protect you on first turn and can also let you not play *Melgaroth* and keep the burns on the enemies.
+Getting armor is great to let you keep the shields you got from *Melgaroth* once and then focus on burns. Beware that late game *Robowitch [ROBOT]* might not give you armor long enough to finish the fight.
+At some point you will want to be able to shield without using *Melgaroth*, you can get *Apprentice guard* along with a mana card and some res, it's very good on magic card decks where you can use *blue witch* at its full potential. If you came accross more combat cards like *Sapphire guard*, *Sou [ANCIENT]* or *Dhorion [ANCIENT]*, you can go for *Dark shielded knight* for shields and *Lady of the knight* for mana.
+
+This strategy works well early, and the best way to make it work late game is to get lots of armor and maybe do shield bash. My favorite ending is to transition to an Ancient shield bash strategy with Alestar.
+
+### Other builds: infinite loops or infinite immunes
 
 These you need to be aware of because you might want to switch to one if you have the opportunity:
 - *Dark sigil* (skill) can provide you with great power, with *magic leaf* and some strength (from overcharge for example) you can fully recover the HP loss and kill everything on first turn
-- *Cthool the darkmaster [ANCIENT]* and *Azahr the exiled wizard [ANCIENT]* can both bring back immunes or daze infinitely, you won't be killing first turn but you will be immune all the time so it's an easy win. *Cthool* is harder to use but stays for sure in your deck, *azahr* you will need some mana to meet the knowledge requirement to keep him but wizard it should be fine, so given the choice I'd go for *Azahr the exiled wizard [ANCIENT]*
+- *Cthool, the darkmaster [ANCIENT]* and *Azahr, the exiled wizard [ANCIENT]* can both bring back immunes or daze infinitely, you won't be killing first turn but you will be immune all the time so it's an easy win. *Cthool* is harder to use but stays for sure in your deck, *azahr* you will need some mana to meet the knowledge requirement to keep him but it's good even before it.
 - *Key of the portal* (skill) can be brought back by *Azahr the exiled wizard [ANCIENT]* without any overcharge and you can even gain mana infinitely that way. Provided your deck is small enough, that easily becomes a first turn kill.
-- *Heroic Blacksmith* with *V01-B01 [ROBOT]* and a 4 card deck, harder to pull off as wizard but it's another idea if the stars align
+- *Heroic Blacksmith* with *V01-B01 [ROBOT]* and a 4 card deck, harder to pull off but it's another idea if the stars align
 
 Note that all of these require small enough deck (sometimes 4 cards), which is another reason to have small decks.
 Keep in mind that these loops still have enemies that can be annoying (silence debuff, backfire damage...) so you will still have to prepare for that
-
-## High inferno advice :
-
-Early survival is the hardest part, getting past world 1 is very hard and most of the time once you've past it and reached first market of world 2 you're almost sure to win. This is why you need to take stuff that is good early just to get through even if it means your deck is not building itself perfectly for late game.
-You don't have time for quests (except *wizard I*) or *mage thief*, although you might want them mid game.
-Your priority is to get immunes/daze and class upgrade, this way you can survive first turns until you get your extra mana and then use shields for the rest of the fight.
-
-You want to remove enough cards to be able to play *energy golem* twice a turn (on a good draw).
-Your key cards are *wizard I* and *apprentice guard* so buy or take them as soon as you see them. Once you have *apprentice guard*, you should be able to tank hits with the two mana from spheres, *wizard I* will increase its potenially once the quest is completed. By the way do not try to hard to complete the quest, it will finish on its own pretty fast.
-
-Other than that you will want some free mana cards to get spheres ASAP and some resistance to shield both before and after you get *apprentice guard*. But you should take the ones offered to you as fight rewards or in chests because you need your money for more important stuff.
-
-Here's a list of what you want to buy early:
-
-### Services
-
-- Class upgrade
-- Card remove
-- Card transform
-
-### Common
-
-- *Apprentice guard*
-- *Wizard I*
-
-### Uncommon
-
-- *Snow queen*
-- *Sigil essence*
-- *Medusa [BEASTMAN]*
-- *Xatior, order of the wizards*
-- *Blue witch*
-
-### Rare
-
-- *Druid of the high elves* (expensive)
-
-The cards you want to pick up are listed in the general good cards section with the exception of *earth seed I*, *mage thief*, *wizard of Nature* and *Robowitch [ROBOT]*, because they won't help you early.
-*Wizard of nature* can be considered only if you have *blue witch* already and *Earth seed I* if you have *apprentice guard* already.
-
-For skills, prioritize defensive and cheap ones, basically all the skills listed in good skills section are good early, except last three (*Necronomicon*, *Dark sigil* and *Mana Battery*), mostly because of their downside/cost.
-
-It is very good to take the 100 gold for 4 gems if you need to make an important purchase.
-
-## Problematic enemies
-
-Some enemies are probalematic for wizard and you will want to prepare for them, but your priority is to get a deck that defeats regular enemies before going over the problematic ones.
-Nevertheless here they are:
-
-### Silence enemies
-
-If you have *seeker of the light* you're fine, with *tear of goddess* too but you probably shouldn't have taken it
-
-**w2**
-
-- Both bosses in Deep water,
-One inflicts silence if you take damage from him, so should be avoidable with a regular deck
-The other one inflicts 2 silence before attacking then passing. You can take the hit if you're not prepared yet (you will be blinded after first hit but don't worry they pass on the second silence turn) or you can use a daze or armor.
-
-- Pharaoh, desert boss, he just inflicts block on the turn you're silenced, so no problem
-
-**w3**
-
-- Bats, lost world normal enemy, the hardest one, *frost nova* prevents the first one (from the left), but you can also use a daze card. It's hard to get enough shields to make armor work on the first one.
-Then you will have to kill the right one before he silences you too and then the middle one. If you keep getting silenced you will lose too much time and they will cruch you
-
-- Void II elite (don't remember his name), he deals one silence on turn 1 then again later, you can take the hit, use a daze or some armor
-
-**w4+**
-
-- Terror from the deep, land of dragons boss, by that time you've got to have daze, prioritze them on the silence debuff, but you can also prevent the spawns if you have enough
-
-- Last boss, best thing against him is armor, you can also shield before attacking so that when silence comes you don't care, you can also restart the fight and hope not to get randomly silenced
-
-### Other problematic enemies
-
-- Void III elite that deals 10 damage when playing two consecutive magic or combat cards, you can use immunes to prevent the damage at the beginning, when your deck is small enough you can fit in *apprentice guard* in between magic cards. And with armor you can keep enough shield to always tank the hits. Keep in mind that playing 3 magic cards in a row will only deal you 10 damage, so something like magic, combat, magic, magic, magic is ok if you can get 10 shields by 4th card.
-
-- Skeleton trio is hard because you probably won't be fast enough to kill the king before skeletons flood your deck (unless with a turn 1 kill, see infinite loops). You will have to play some of them. I suggest playing the first ones ASAP to keep a small deck and stop playing them when you think you won't have to play any more before you complete the kill.
-Your best defense option is *book of magic* which should almost fully revover the HP loss from *skeletons*. If you have *Nephil* or *magic leaf* and strength you're good too. The other thing that can help you survive is *Phoenix feather*.
-If you don't have a way to recover HP then your only option is to kill fast enough, so make sure you have that 4 card core and maybe invest in a couple fairy spawns for power.
-
-- Evil elemental, will increase it's power with the overcharge you get from playing energy golem over and over. You might still be able to kill him before his attack is too strong, but if you can't, try to play magic cards without overcharge and only one enrgy golem per turn. You can do full turns of apprentice guard after that.
