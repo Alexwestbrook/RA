@@ -108,7 +108,7 @@ Before you get class upgrade you will lose all your points by changing form. If 
 
 Try to time the releases according to needs. Releasing burns every turn will mean you stack fewer fire points, you might want to hold onto them until 2nd turn and then release them. With class upgrade you might want to change form more often to get the extra points, but i still recommend spending a bit more time in fire form than thunder, specially in the first few turns (play your exile cards to setup your deck while in fire form). If you have *Melgaroth*, wait until he's in your hand to change to thunder form, class upgrade or not.
 
-**Small deck** - A smaller deck will be more consistent. When your deck grows to about 12 cards or more, it becomes unlikely that you will see key cards each turn, unless you have ways to cycle through your deck faster. It also makes you less likely to draw an immune card on turn 1. On the other hand, a 4 card deck means every card you play comes right back in your hand. Note that you must always have at least 6 cards in your deck, but if 2 of them exile or remove, then you're left with a 4 card core.
+**Small deck** - A smaller deck will be more consistent. When your deck grows to about 12 cards or more, it becomes unlikely that you will see key cards each turn, unless you have ways to cycle through your deck faster. It also makes you less likely to draw an immune card on turn 1. On the other hand, a 4 card deck means every card you play comes right back in your hand. Note that you must always have at least 6 cards in your deck, but if 2 of them exile or remove, then you're left with a 4 card core. In general, try to have a core of non exile cards as small as possible, and you can have a bit more exile cards.
 
 ## What reward to take after a fight
 
@@ -199,6 +199,9 @@ uncommon
 - *Alestar, tranquility defender [ANCIENT]*, good shield value if you have some res and ancients, synergies well with all the other ancients you want anyway. Also doesn't need to be played so counts as an extra card, and can be used for shield bash with some armor. You can get multiple copies of this one.
 - *Dark shielded knight*, good shield value even without res if you have a combat card related deck
 - *Cthool acolyte*, good flat shield value and thins the deck, annoying late game though
+- *Lullyp [BEASTMAN][FAIRY]* can give good scaling shields if coupled with res, a fairy deck and/or *Beast emperor [BEASTMAN]*
+- *Mystic bird* can give good scaling shields if coupled with res, a fairy or an ancient deck
+- *Fairy Warrior [FAIRY]* can give good scaling shields with res and a fairy deck, less good than *Lullyp [BEASTMAN][FAIRY]* or *Mystic bird*
 
 rare
 - *Melgaroth, keeper of flames [ANCIENT][DEMON]*, converts burns to shields, you lose your burns for offense but it gives plenty of shields, particularily with 2nd class bonus
@@ -241,6 +244,12 @@ rare
 - *Ultron [ROBOT]*, decent damage early when at low hp, also gives a free magic card with little healing, gets obsolete pretty fast and not worth spending gold on, but decent starting bonus
 
 ### Damage
+common
+- *Lava boulder*, deals damage equal to burns, good option to do extra damage, can be used before you remove the burns with *Melgaroth*
+
+uncommon
+- *Succubus [DEMON]*, deals a lot of burns, good option if you have *Melgaroth* to make it more and convert them to shields
+
 rare
 - *Melgaroth, keeper of flames [ANCIENT][DEMON]*, doubles the burn when in your hand, and gives a shield option. Very powerful and interesting card, specially with 2nd class bonus. It can even be used for a shield bash strategy with some armor. Works best on small decks
 - *Beast emperor [BEASTMAN]*, doubles damage from thunder points if you have 1st class bonus
@@ -305,7 +314,7 @@ Finally with 3rd class bonus you can take *Dark sigil* skill because you can rec
 
 My preference goes to 2nd class bonus *Melgaroth* because it provides defense as wall as offense and it's easier to get a rare card than an expensive skill. Then 3rd class bonus *Dark sigil* is probably the most powerful and also provides defense, but harder to find the skill, plus it can also use *Melgaroth*. And finally 1st class bonus *Beast emperor [BEASTMAN]* doesn't provide much defense at all. You can also use *Melgaroth* but it would be expensive and you would be having too many attack cards IMO.
 
-What follows are some example of builds you can use for defense. Most of them I tested with 2nd class bonus but you can adapt them with other attack strategies.
+What follows are some example of builds you can use for defense. Most of them I tested with 2nd class bonus but you can adapt them with other class bonuses.
 Race builds tend to take more time to build because you need many cards to make them worth. Best decks usually ignore race synergies to build a good deck, and can transition to a race build if the right cards are offered. 
 
 ### Race build: Ancients
@@ -369,6 +378,18 @@ For that you can use skills like *Book of magic* which heals half of the HP loss
 
 **Alternative** : get some strength and you can kill enemies with the spawns from *Blessed fairy [FAIRY][ANGEL]* if you have enough fairies and angels in your deck. Even if it isn't enough to commplete the kill you can use *Fairy warrior [FAIRY]*, *Lullyp [BEASTMAN][FAIRY]* or *Mystic bird* to finish the kill. You can use the skill *Phantom spear* for extra damage and if you have *Dark sigil* you might consider taking *Devil's dead* (11 gems) to get crazy strength and finish quick. Take it only after *Dark sigil*.
 
+### Race build : Beastman
+
+**+** Quick kill on low infernos
+
+**-** Hard to get going
+
+On low infernos (I1-10) your attack strategy is to use 1st class bonus to kill enemies quickly with thunder. The only way to increase the damage is to get double damage, and for that you will want *Beast emperor [BEASTMAN]*, you will also want *Medusa [BEASTMAN] I* which is a great daze card for any deck. Having both can lead to build a beastman deck. Be careful, most beastman cards don't scale and ar pretty bad. You will want the scaling shield cards like *Lullyp [BEASTMAN][FAIRY]*, *Lizard guard [BEASTMAN]* and *Ant warrior [BEASTMAN]*. The other good beastman cards are *Beast champion [BEASTMAN]* and *Lizard fighter [BEASTMAN]* but they don't provide defense and you should have enough offense with thunder points.
+
+Going for a mix of fairies and beastman with *Lullyp [BEASTMAN][FAIRY]* can be a good idea, since there are more fairies that exile.
+
+Keep in mind that you want to get the cards that don't need other race cards to be good first and then consider taking the race scaling ones. This is not the only way to play 1st class bonus with *Beast emperor [BEASTMAN]*, you will be killing enemies pretty fast so some immunes/daze might be enough to protect you, or you could use *Apprentice guard* or *Dark shielded Knight*.
+
 ### 4 card deck
 
 **+** consistent, almost sure win
@@ -379,13 +400,14 @@ Going for a minimal deck with 4 non exile cards is super strong, and that's beca
 
 If you go for that strategy you need to keep a *Fire totem* and a *Thunder totem* for shaman ability, you will want a mana card (*Sou [ANCIENT]*, *Souls priestess/guardian*, *Wizard III*) and then the 4th card is up to you, here are the options :
 - *Melgaroth* for extra burns and occasionnaly shields if enemies crit too hard for *circular shield*
-- *Beast emperor [BEASTMAN]* if you play 1st class bonus
+- *Beast emperor [BEASTMAN]* if you play 1st class bonus, it can also be your mana card and leave space for another 4th card
 - *Sou [ANCIENT]* for extra mana if it isn't you mana card already
 - *V01-B01 [ROBOT]* for extra mana, and res
 - *Seeker of the light* for debuff protection and heal
 - *Dhorion [ANCIENT]* for armor
 - *Azahr [ANCIENT]*, you can keep it on the side to bring back a daze or immune from your exile at a crucial moment, but *Azahr [ANCIENT]* decks tend never to go down to 4 cards
-- a card inflicting weak, you can keep your base *Mage* if you don't have enough money to remove it, you can use *Magic leaf* which will also give some free mana cards and leave a *dark sigil* option, or you can use any of the cards inflicting weak to all enemies
+- a shield card like *Apprentice Guard* for extra occasional shields
+- a card inflicting weak, you can keep your base *Mage* if you don't have enough money to remove it, you can use *Magic leaf* which will also give some free mana cards and leave a *Dark sigil* option, or you can use any of the cards inflicting weak to all enemies
 - nothing, I mean no non exile card, this lets you keep an immune or daze on the side for safety or further use (to prevent debuff or crit for example)
 
 You will have to have a couple exile cards on the side, because you need at least 6 cards and you probably will need some stuff early before you can get to that build. Res, immunes, daze and mana cards are all nice. This strategy becomes harder to pull off once the first fights get too hard and you need to get more non exile cards to survive early.
@@ -460,7 +482,7 @@ You don't care about the price, but some cheap skills might still be better. The
 - *Tear of goddess*, avoid silence and block, great against *Trident/Slashing void guardian* (Void II normal)
 
 ### Shields :
-- *Ghost shield*, not great but first turn protection, specially against Void sword master
+- *Ghost shield*, not great but first turn protection, specially against *Void sword master*
 - *Shield of shadows*, not great, you won't be playing many exile after first turn
 - *Bones armor*, bad for shaman because you will usually get shields form playing your totems
 - *Solid shell*, 10 shields every 2 turns reasonably, decent
@@ -473,7 +495,7 @@ You don't care about the price, but some cheap skills might still be better. The
 - *Potion maker*, decent healing
 - *Soul drain*, decent healing
 - *Necklace of life*, great healing when in danger, useful in world 1
-- *Book of magic*, great if you can get enough mana to get it every turn, otherwise with some free exile cards like *old jester* you might be able to make it work once per fight which is still decent
+- *Book of magic*, great if you can get enough mana to get it every turn, otherwise with some free exile cards like *Old jester* you might be able to make it work once per fight which is still decent
 - *Bone staff*, good healing, always 3 per enemy dead
 - *Amulet of healing*, good healing option, you usually have a healing card in your deck anyway
 
