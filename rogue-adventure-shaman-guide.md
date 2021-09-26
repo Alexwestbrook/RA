@@ -93,15 +93,15 @@ In other worlds you can afford to wait a little longer for the first market.
 
 ## General deck strategy
 
-**Mana** - Every deck benefits from getting extra Mana each turn, but even more so for shaman since your damage comes from number of cards played. You have a lot of options, the best card early are *Souls priestess* or *Souls guardian*, but you can also use *Wizard III* or even *Lady of the knight* if you have a combat card related deck. These cards give overcharge so you will want only one, but there are other cards that you can use *Sou, the blade of wind [ANCIENT]* or *V01-B01 [ROBOT]*.
+**Mana** - Every deck benefits from getting extra mana each turn, but even more so for shaman since your damage comes from number of cards played. You have a lot of options, the best card early are *Souls priestess* or *Souls guardian*, but you can also use *Wizard III* or even *Lady of the knight* if you have a combat card related deck. These cards give overcharge so you will want only one, but there are other cards that you can use *Sou, the blade of wind [ANCIENT]* or *V01-B01 [ROBOT]*.
 
 **Defense first** - Build up your defense quickly or you will likely lose. Don't get too many attack cards. Look for cards with immune or daze like *Snow queen* or *Medusa [BEASTMAN]*. These are the best to defend first turn before you setup your deck. You want to make sure you can draw one of them on turn 1, which is where you are most vulnerable.
 These cards exile so you will also want a permanent shield cards with multiplying effect like *Apprentice guard* or *Alestar, tranquility defender [ANCIENT]*. Another option for defense is *Melgaroth, keeper of flames [ANCIENT][DEMON]* which can turn burns into shields.
 Try to get to a point where you are not losing any HP.
 
-**Permanent buffs** - Strength doesn't benefit shaman, but favor resistance buffs that last until the end of the fight instead of temporary end-of-turn buffs. *Blue witch*, *Sigil essence*, *Dhorion, holy sentinel [ANCIENT]* and *Wizard of nature* are the best cards for this.
+**Permanent buffs** - Strength doesn't benefit shaman, but resistance does. Favor resistance buffs that last until the end of the fight instead of temporary end-of-turn buffs. *Blue witch*, *Sigil essence*, *Dhorion, holy sentinel [ANCIENT]* and *Wizard of nature* are the best cards for this.
 
-**Card type** - You can use any card type as shaman, but focusing on magic cards will make *blue witch* and *Elder fairy [FAIRY]* better whereas focusing on combat cards will make *Lady of the knight* and *Dark shielded knight* better. Keep that in mind when building your deck. Depending on the run, you might want some cards more than others.
+**Card type** - You can use any card type as shaman, but focusing on magic cards will make *Blue witch* and *Elder fairy [FAIRY]* better whereas focusing on combat cards will make *Lady of the knight* and *Dark shielded knight* better. Keep that in mind when building your deck. Depending on the run, you might want some cards more than others.
 
 **Playing with shaman points** - It can be hard to understand when to switch from one form to the other at first. On low infernos, thunder might give you enough damage to kill enemies quickly so you will want to focus on that. But in higher infernos and against high hp enemies, burns will kill enemies faster because they stack.
 Before you get class upgrade you will lose all your points by changing form. If you're focusing on burns you will want to release them by changing to thunder, then go back ASAP to fire form to start stacking fire points again. Burns will deal more damage in a long fight but thunder damage is better to finish off the enemy. Even with 2nd class bonus you will want to stack some thunder in the last turn to kill before they attack (burn is applied after the enemy's attack). 
@@ -133,8 +133,8 @@ If you have the money and *circular shield* skill, you might want to remove the 
 
 **Duplicating** - If you have a very good card like *Elder fairy [FAIRY]* you might want to duplicate it for 300 gold in merchant, I recommend this once the rest of your deck is good enough and you just want that extra preparation time in battle.
 
-**Consider trading Gems for Coins** - Once you have 4 Gems, you will be able to trade them for 100 Coins, so keep that in mind when looking at card prices.
-Similarly, when you have 7 Gems you can afford the *Gold ingot* skill which gives 300 Coins.
+**Consider trading Gems for Coins** - Once you have 4 gems, you will be able to trade them for 100 Coins, so keep that in mind when looking at card prices.
+Similarly, when you have 7 gems you can afford the *Gold ingot* skill which gives 300 Coins.
 
 **Spend wisely** - If you don't see any good options and you think you can survive until the next Merchant, save your Coins and Gems. If the next Merchant is 2 or 3 fights away and you think you need to prepare for those, don't be afraid to Reroll cards or skills if you can afford something nice that could show up.
 
@@ -273,7 +273,7 @@ rare
 ## General good skills:
 
 - *Invisibility potion* (5 gems), good and cheap first turn protection
-- *Ice block* (7 gems), good protection that can be save for crucial moment
+- *Ice block* (7 gems), good protection that can be saved for crucial moment
 - *Demon eye* (7 gems), extra mana at the cost of blind, learn enemy patterns and blind is no longer a problem
 - *Gold ingot* (7 gems), 300 gold is a lot you can upgrade, buy a rare card or duplicate a card with that. You can also buy multiple cheaper stuff
 - *Circular shield* (8 gems), great source of shield with a small deck, with 8 cards it's 10 shield per turn after 1st turn, with 4 cards it's 10 shields per card played
