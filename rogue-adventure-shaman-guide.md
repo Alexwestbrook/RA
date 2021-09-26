@@ -237,14 +237,17 @@ rare
 ### Heal (1)
 common
 - *Fairy princess [FAIRY]*, gives small healing as well as free mana cards
+- *Healer elf*, gives good healing against multiple enemies and exiles, no other use though
 
 uncommon
 - *Seeker of the light*, good healing, protection from debuffs (including silence), it takes space in your deck but can provide unlimited healing if you have the mana to do so
+- *Magic leaf*, bad healing until you get strength, but then it can get amazing and give unlimited healing since it doesn't exile. Best for sustaining *Dark sigil* with strength form overcharge
 
 rare
 - *Druid of the high elves*, you want it for res and immune but there is small healing
 - *Nephil [ANGEL]*, gives fast healing if you go below 50% hp, damage is decent early but otherwise you won't be playing it
 - *Ultron [ROBOT]*, decent damage early when at low hp, also gives a free magic card with little healing, gets obsolete pretty fast and not worth spending gold on, but decent starting bonus
+- *Vampire lord*, gives decent healing scaling with strength, exiles, but not worth buying
 
 ### Damage (1-2)
 common
