@@ -35,6 +35,8 @@ Besides *Key of the portal*, there are other ways to alter the outcome of your f
 *Night fairy [FAIRY]* shuffles your deck, so you could play *Night fairy [FAIRY]* during your first turn just to escape a bad opening shuffle.
 Similarly, if you can run through your cards once and trigger a new shuffle, you may restart the fight if you find that the second shuffle isn't so good.
 
+Merchant card prices will randomize after each card you buy, so if you plan to buy more than one, you won't know beforehand exactly how much you will have to pay for all. The price ranges for each category are: common 55-75, uncommon 110-150, rare 220-280. You can use this knowledge to choose which card you should buy first in order to save coins. If you see one card that is closer to the low end of its price range, buy that card first.
+
 ## Description of abilities:
 
 You have a thunder form and a fire form. Playing the totem of the other form will make you change form. Every time you play a card you gain 1 thunder or fire point depending
