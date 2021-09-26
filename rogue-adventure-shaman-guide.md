@@ -145,7 +145,7 @@ Similarly, when you have 7 gems you can afford the *Gold ingot* skill which give
 ### Overcharged mana card (1)
 common
 - *Wizard I*, bad mana early but highest mana giver if you can set it up
-- *Sapphire guard*, mana isn't great but it also gives shield, decent option before you get one of the above, but you still want another overcharged mana card. It can synergies with *Lady of the knight* for a combat card focused deck.
+- *Sapphire guard*, mana isn't great but it also gives shield, decent option before you get one of the others, but you still want another overcharged mana card. It can synergies with *Lady of the knight* for a combat card focused deck.
 - *Young witch*, gives a lot of mana but exiles so can only be used once
 
 uncommon
@@ -156,13 +156,13 @@ uncommon
 ### Other mana cards (unlimited)
 common
 - *Old jester*, free to play, exiles and can search for a rare card
-- *Spirit of magic [ANCIENT] I*, free to play early and deals weak, still good once upgraded but no longer a free mana card, also is ancient
+- *Spirit of magic [ANCIENT] I*, free to play early and deals weak, still great once upgraded but no longer a free mana card, also is ancient
 - *Spirit of defense [ANCIENT] I*, free to play early and a little defense, pretty bad once upgraded though and doesn't exile, only take early for a little help or if ancient build
 - *Fairy princess [FAIRY]*, not free to play but gives other free cards and exiles, decent for early fight and gives some healing
 
 uncommon
 - *Sou, the blade of wind [ANCIENT]*, gives good mana if played first, good option all game long unless you are going for a 4 card *circular shield* deck, also is ancient. Take only one
-- *Moon fairy [FAIRY]*, free mana card and search option, exiles
+- *Moon fairy [FAIRY]*, great free mana card and search option, exiles
 - *High priest*, free mana card but bad search option, exiles
 - *Magic leaf*, activation is free, can give decent shield and can also be used as weak option even though it doesn't affect all enemies. It doesn't exile but it's ok because you can get the free activation every turn, take only one though. It can transition into a *Dark sigil* first turn kill deck too
 
@@ -183,28 +183,28 @@ uncommon
 ### Resistance (2-4)
 uncommon
 - *Blue witch*, can give 4 res, incredible on magic focused deck and still decent otherwise
-- *Sigil essence*, 2 res and immune, very good option
+- *Sigil essence*, 2 res and immune, great option
 - *Sun priestess*, gives 2 res but has bad synergy with demons (*Melgaroth*) so usually avoid it 
 - *Fairy queen [FAIRY] I*, bad before the quest and hard one to complete, but on low inferno you might have time to play it 30 times and get the quest done, decent res after the quest but not amazing for the effort
 
 rare
 - *Druid of the high elves*, mana cost is pretty high but gives 2 res and immune ultimately
 - *Dhorion, holy Sentienl [ANCIENT]*, gives 1 res at the end of every turn if played right, plus armor. Little slow but combined with first turn protection (immune, daze, skills) it's the best resistance option. Play it only if the shield bash attack would end the fight, or you need to kill an enemy fast.
-- *Wizard of nature*, doubles the res, only take it if you already have other means of getting some res
+- *Wizard of nature*, doubles the res, only take it if you already have other means of getting some res, great but requires setup time
 - *Gorgrirath [DEMON]*, converts burns to temporary res, combine it with *Wizard of nature* to make it permanent or with armor to use it to get high shields that you will keep for other turns. It does take some space in the deck though.
 
 ### Shields (1 permanent)
 common
-- *Apprentice guard*, great scaling shield effect when combined with some resistance and extra mana
-- *Demon guard [DEMON]*, can give you good shields on a demon deck, since you will be going for *Melgaroth* anyway, and if played first you won't lose hp. The base shield value is one of the best among scaling race card. 
+- *Apprentice guard*, great scaling shield effect when combined with some resistance and extra mana. Base value is good.
+- *Demon guard [DEMON]*, can give you good shields on a demon deck, since you will be going for *Melgaroth* anyway, and if played first you won't lose hp. The base shield value is the best among scaling defense card. 
 
 uncommon
-- *Alestar, tranquility defender [ANCIENT]*, good shield value if you have some res and ancients, synergies well with all the other ancients you want anyway. Also doesn't need to be played so counts as an extra card, and can be used for shield bash with some armor. You can get multiple copies of this one.
-- *Dark shielded knight*, good shield value even without res if you have a combat card related deck
+- *Alestar, tranquility defender [ANCIENT]*, good scaling shields if you have some res and ancients, synergies well with all the other ancients you want anyway. Also doesn't need to be played so counts as an extra card, and can be used for shield bash with some armor. You can get multiple copies of this one.
+- *Dark shielded knight*, good scaling shields even without res if you have a combat card related deck. Base value is good
 - *Cthool acolyte*, good flat shield value and thins the deck, annoying late game though. You will need another permanent shield card
-- *Lullyp [BEASTMAN][FAIRY]* can give good scaling shields if coupled with res, a fairy deck and/or *Beast emperor [BEASTMAN]*
-- *Mystic bird* can give good scaling shields if coupled with res, a fairy or an ancient deck
-- *Fairy Warrior [FAIRY]* can give good scaling shields with res and a fairy deck, less good than *Lullyp [BEASTMAN][FAIRY]* or *Mystic bird*
+- *Lullyp [BEASTMAN][FAIRY]* can give good scaling shields if coupled with res, a fairy deck and/or *Beast emperor [BEASTMAN]*. Base value is bad, but counts twice towards its own race counter.
+- *Mystic bird* can give good scaling shields if coupled with res, a fairy or an ancient deck. Base value is pretty bad and doesn't count towards its own race counter
+- *Fairy Warrior [FAIRY]* can give good scaling shields with res and a fairy deck, less good than *Lullyp [BEASTMAN][FAIRY]* or *Mystic bird*. Base value is bad
 
 rare
 - *Melgaroth, keeper of flames [ANCIENT][DEMON]*, converts burns to shields, you lose your burns for offense but it gives plenty of shields, particularily with 2nd class bonus. Great against multiple enemies, but you don't want to take away the burns from a single enemy all the time, so you will want an other protection option
@@ -212,24 +212,24 @@ rare
 
 ### Armor (1-2)
 uncommon
-- *Iron colossus [ROBOT]*, gives a little armor but not enough by itself, can be coupled with *Dhorion [ANCIENT]*
+- *Iron colossus [ROBOT]*, gives a little armor but not enough by itself, can be coupled with *Dhorion [ANCIENT]*. The shield valeu can be useful but you won't have many robots
 
 rare
 - *Dhorion, holy sentinel [ANCIENT]*, gives unlimited armor if you can get it in your hand at the end of every turn. Small deck helps, and can be coupled with another card/skill giving little armor in case you miss it at the end of one turn. It's also ancient and gives plenty of res. It does take space in the deck though
 - *Robowitch [ROBOT]*, gives enough armor for the entire fight most of the time, but it can be useful to have a little more
-- *Space commander*, gives little amount of armor but stays in your deck, if you have the time to play it, then it can give you infinite armor
+- *Space commander*, gives only little amount of armor but stays in your deck, if you have the time to play it, then it can give you infinite armor
 - *Blessed lady [ANGEL]*, gives less armor than *Robowitch* but also gives a little healing and you can easily have 4+ armor. The card is angel, *Melgaroth [ANCIENT][DEMON]* is ancient and demon, and you can grab a fairy with *Moon fairy [FAIRY]*, *Elder fairy [FAIRY]* or *Fairy princess [FAIRY]*, a robot with *V01-B01* or *Iron colossus*, and a beastman with *Medusa [BEASTMAN] I*.
-- *Ambassadress of peace*, not a lot of armor but it can be coupled with *Dhorion [ANCIENT]*
+- *Ambassadress of peace*, only one armor but it can be coupled with *Dhorion [ANCIENT]*
 
 ### Immune/daze (unlimited)
 common
-- *Earth seed I*, bad card before quest is completed, but great daze card after. Only take it if you can complete the quest, *Melgaroth* makes the quest easy to complete.
+- *Earth seed I*, bad card before quest is completed, but amazing daze card after. Only take it if you can complete the quest, *Melgaroth* makes the quest easy to complete.
 
 uncommon
 - *Snow queen*, great immune card
 - *Sigil essence*, immune, empty pile requirement can be annoying but you should have a small deck anyway. Res is very good too
 - *Medusa [BEASTMAN] I*, good daze card before the quest, even better if you complete the quest but it's unlikely to have poison as shaman
-- *Xatior, order of the wizards*, good daze card, removes instead of exiling so you can't take it back with *Azahr, the exiled wizard [ANCIENT]*, *Cthool, the darkmaster [ANCIENT]*, or *The timeshifter [ANGEL]*. Once you have it you can go for *Ixar, order of the wizards* for the combo, but keep your deck small to be able to pull it off
+- *Xatior, order of the wizards*, good daze card, removes instead of exiling so you can't take it back with *Azahr, the exiled wizard [ANCIENT]*, *Cthool, the darkmaster [ANCIENT]*, or *The timeshifter [ANGEL]*. But you get to have multiple copies of it in your deck. Once you have it you can go for *Ixar, order of the wizards* for the combo, but keep your deck small to be able to pull it off.
 
 rare
 - *Druid of the high elves*, mana cost is pretty high but it gives the immune as well as res and small healing
@@ -240,12 +240,12 @@ common
 - *Healer elf*, gives good healing against multiple enemies and exiles, no other use though
 
 uncommon
-- *Seeker of the light*, good healing, protection from debuffs (including silence), it takes space in your deck but can provide unlimited healing if you have the mana to do so
+- *Seeker of the light*, good healing, great protection from debuffs (including silence), it takes space in your deck but can provide unlimited healing if you have the mana to do so
 - *Magic leaf*, bad healing until you get strength, but then it can get amazing and give unlimited healing since it doesn't exile. Best for sustaining *Dark sigil* with strength form overcharge
 
 rare
 - *Druid of the high elves*, you want it for res and immune but there is small healing
-- *Nephil [ANGEL]*, gives fast healing if you go below 50% hp, damage is decent early but otherwise you won't be playing it
+- *Nephil [ANGEL]*, gives fast healing if you go below 50% hp, damage is decent early but otherwise you won't be playing it and it takes spaces in your deck
 - *Ultron [ROBOT]*, decent damage early when at low hp, also gives a free magic card with little healing, gets obsolete pretty fast and not worth spending gold on, but decent starting bonus
 - *Vampire lord*, gives decent healing scaling with strength, exiles, but not worth buying
 
@@ -263,7 +263,7 @@ rare
 
 ### Money
 uncommon
-- *Mage thief*, gives gold, it's very useful once you know you can afford to waste some turns in your fight (usually mid game), it's great to get rid of the base deck or duplicate *Elder fairy [FAIRY]*
+- *Mage thief*, gives gold, it's very useful once you know you can afford to waste some turns in your fight (usually mid game), it's great to get rid of the base deck, buy rare cards or duplicate *Elder fairy [FAIRY]*
 
 ### Bringing back exile
 uncommon
