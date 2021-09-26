@@ -124,9 +124,10 @@ Even if you see a card that would be good for late game, you may not want to tak
 If you're HP is still over 50% and you think you can survive until the next Merchant, you don't need to heal.
 
 **Thin your deck** - Your starting deck includes many duplicates which will get in the way of the ther good cards you will add to your deck.
-I recommend Removing or Transforming at least one copy of each in first two worlds. If you have enough money for both, start by transforming one so you can remove the new card after if it's bad.
+I recommend removing or transforming at least one copy of each in first two worlds. If you have enough money for both, start by transforming one so you can remove the new card after if it's bad. The order you remove them in is up to, if you're fosusing on thunder points remove a *Fire totem* first and vice-verse. Ii also depends on whether you find a card with combat card synergy or magic synergy. The *Mage* can be removed first if you found a good weak card.
+
 The *Mage* is pretty bad and you should remove the last one once you find a better option for weak (that weakens all enemies at once).
-If you have the money and *circular shield* skill, you might want to remove the last duplicates of your totems to get down to a 4 card deck and get plenty of shields form your skill. However always keeps at least one of each or you won't be able to use your ability anymore.
+If you have the money and *circular shield* skill, you might want to remove the last duplicates of your totems to get down to a 4 card deck and get plenty of shields from your skill. However always keeps at least one of each or you won't be able to use your ability anymore.
 
 **Upgrade the class skill** - The class skill is nice but not necessary, priority goes to removing one base card of each type and other good defense cards. You will usually upgrade it in world 3 or 4 but you can finish the run without it.
 
