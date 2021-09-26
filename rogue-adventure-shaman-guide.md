@@ -10,7 +10,7 @@ Shaman can be a hard class to understand at first because there is no clear stra
 Your ability lets you stack thunder or fire points everytime you play a card and release them with the totems. Unlike wizard or necromancer, once released you lose your stack
 (less so with class upgrade) so you have to build it again everytime. Even so, this ability deals a lot of damage and shaman is a class that can get huge burn stacks that can do all the killing. Youcan increase your damage with one or two specific cards and by playing more cards each turn, but the rest of your deck should be focused on defense.
 
-Shaman has many options when it comes to building its deck. You can focus on magic or combat cards, or do a mix of both. From inferno 1 to 10, you can focus on inflicting burns or just using the thunder damage but in higher infernos only the burns will let you kill high HP enemies.
+Shaman has many options when it comes to building its deck. You can focus on magic or combat cards, or do a mix of both. From inferno 1 to 10, you can kill enemies fast with thunder damage or use the slower but more powerful burns. In higher infernos only the burns will let you kill the high HP enemies.
 
 As for any class, World 1 will become the most difficult part of the run, because you need to improve your deck quickly before first elite and then to defeat *Gorilla king* or *Evil forest guardian*. You will lose some runs early simply because you didn't find any good cards. Don't feel too bad about it.
 
