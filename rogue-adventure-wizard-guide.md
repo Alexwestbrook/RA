@@ -85,7 +85,7 @@ In other worlds you can afford to wait a little longer for the first market.
 
 ## General deck strategy
 
-**Mana** - Every deck benefits from getting extra Mana each turn, so you will want to find a way to do that. The best card for that on wizard is... *Wizard III* ! You can also use *Souls priestess* but it's not quite as good. Finally you can combine one of these cards with *V01-B01 [ROBOT]*. Beware of overcharge it will prevent you from getting extra mana and convert it into temporary strength and resistance.
+**Mana** - Every deck benefits from getting extra mana each turn, so you will want to find a way to do that. The best card for that on wizard is... *Wizard III* ! You can also use *Souls priestess* but it's not quite as good. Finally you can combine one of these cards with *V01-B01 [ROBOT]*. Beware of overcharge it will prevent you from getting extra mana and convert it into temporary strength and resistance.
 
 **Defense first** - Build up your defense quickly or you will likely lose. Don't get too many attack cards. Look for cards with immune or daze like *Snow queen* or *Medusa [BEASTMAN] I*. These are the best to defend first turn before you get your spheres and setup your deck. You want to make sure you can draw one of them on turn 1, which is where you are most vulnerable.
 These cards exile so you will also want a permanent shield cards with multiplying effect like *Apprentice guard*. Try to get to a point where you are not losing any HP.
@@ -122,7 +122,7 @@ Once you're down to only one *Golem warrior* (removed 3) you can do as you wish:
 **Duplicating** - if you have a very good card like *Elder fairy [FAIRY]* you might want to duplicate it for 300 gold in merchant, I recommend this once the rest of your deck is good enough and you just want that extra preparation time in battle.
 
 **Consider trading Gems for Coins** - Once you have 4 Gems, you will be able to trade them for 100 coins, so keep that in mind when looking at card prices.
-Similarly, when you have 7 Gems you can afford the *Gold ingot* skill which gives 300 coins.
+Similarly, when you have 7 gems you can afford the *Gold ingot* skill which gives 300 coins.
 
 **Spend wisely** - If you don't see any good options and you think you can survive until the next Merchant, save your coins and gems. If the next merchant is 2 or 3 fights away and you think you need to prepare for those, don't be afraid to reroll cards or skills if you can afford something nice that could show up.
 
