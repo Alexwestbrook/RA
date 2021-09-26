@@ -90,7 +90,7 @@ In other worlds you can afford to wait a little longer for the first market.
 **Defense first** - Build up your defense quickly or you will likely lose. Don't get too many attack cards. Look for cards with immune or daze like *Snow queen* or *Medusa [BEASTMAN] I*. These are the best to defend first turn before you get your spheres and setup your deck. You want to make sure you can draw one of them on turn 1, which is where you are most vulnerable.
 These cards exile so you will also want a permanent shield cards with multiplying effect like *Apprentice guard*. Try to get to a point where you are not losing any HP.
 
-**Permanent buffs** - Favor Strength and Resistance buffs that last until the end of the fight instead of temporary end-of-turn buffs. *Blue witch*, *Red witch*, *Sun priestess* and *Wizard of nature* are a couple of the best cards for this.
+**Permanent buffs** - Favor strength and resistance buffs that last until the end of the fight instead of temporary end-of-turn buffs. *Blue witch*, *Red witch*, *Sun priestess* and *Wizard of nature* are a couple of the best cards for this.
 
 **Magic cards** - Try to take only magic cards, you can use a few well chosen combat cards mostly for defense. This is to maximize your MP and also the effect of some cards like *Blue witch*, *Fairy princess [FAIRY]* or *Elder fairy [FAIRY]*.
 
