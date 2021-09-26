@@ -180,7 +180,7 @@ uncommon
 - *Keyra, the shy soul [ANCIENT]*, doesn't give a lot of weak but is ancient and can give shields
 - *Necromancer acolyte*, give a litle more weak, damage is pointless but curse can be annoying
 
-### Resistance (3-4)
+### Resistance (2-4)
 uncommon
 - *Blue witch*, can give 4 res, incredible on magic focused deck and still decent otherwise
 - *Sigil essence*, 2 res and immune, very good option
