@@ -8,7 +8,7 @@ For guides about other classes I invite you to check https://gist.github.com/adu
 
 Shaman can be a hard class to understand at first because there is no clear strategy to play it. However it is a very powerful class early if you play it right and it can get really strong.
 Your ability lets you stack thunder or fire points everytime you play a card and release them with the totems. Unlike wizard or necromancer, once released you lose your stack
-(less so with class upgrade) so you have to build it again everytime. Even so, this ability deals a lot of damage and shaman is a class that can get huge burn stacks that can do all the killing. Your deck should be mostly focused on defense.
+(less so with class upgrade) so you have to build it again everytime. Even so, this ability deals a lot of damage and shaman is a class that can get huge burn stacks that can do all the killing. Youcan increase your damage with one or two specific cards and by playing more cards each turn, but the rest of your deck should be focused on defense.
 
 Shaman has many options when it comes to building its deck. You can focus on magic or combat cards, or do a mix of both. From inferno 1 to 10, you can focus on inflicting burns or just using the thunder damage but in higher infernos only the burns will let you kill high HP enemies.
 
