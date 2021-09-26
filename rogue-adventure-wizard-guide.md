@@ -153,7 +153,7 @@ Similarly, when you have 7 gems you can afford the *Gold ingot* skill which give
 - *Cthool acolyte*, 20 shield is a lot, and you can use it to remove cards from your deck faster. Very good early game, if you've past world 2 you probably don't need it
 - *Seeker of the light*, removes every debuff including silence, healing is ok
 - *Magic leaf*, many options with this card, most useful will be heal and shields. Free magic card every time you activate it is nice, and it gets crazy with *Dark sigil*. But doesn't exile so gets in the way of a 4 card deck
-- *Mage thief*, gives gold, it's very useful once you know you can afford to waste some turns in your fight (usually mid game), it's great to get rid of the base deck or duplicate *Elder fairy [FAIRY]*
+- *Mage thief*, gives gold, it's very useful once you know you can afford to waste some turns in your fight (usually mid game), it's great to get rid of the base deck, buy rare cards or duplicate *Elder fairy [FAIRY]*
 
 ### Rare
 
