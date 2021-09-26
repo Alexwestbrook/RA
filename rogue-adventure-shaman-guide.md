@@ -19,7 +19,7 @@ As for any class, World 1 will become the most difficult part of the run, becaus
 This guide aims to help both beginners in low infernos (1-10) and advanced players in high infernos (20+). Some advice applies for both and some is more specific.
 This guide is any game mode, the first part is meant for classic and should apply to hell which is quite similar. And the last part is about what is different in void mode.
 
-Finally I do not take into account when the cards are unlocked, if you haven't all the cards unlocked yet (level 30) you can read this guide and try with the cards available to you, but I strongly recommend trying stuff by yourself to learn which cards are good, which ones are bad and which ones synergies well together.
+Finally I do not take into account when the cards are unlocked, if you haven't unlocked all the cards yet (level 30) you can read this guide and try with the cards available to you, but I strongly recommend trying stuff by yourself to learn which cards are good, which ones are bad and which ones synergies well together.
 
 ## Some important tricks to know
 
